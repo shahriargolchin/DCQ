@@ -1,0 +1,2 @@
+Detected Contamination: 0.0%
+Total "Yes" count: 0

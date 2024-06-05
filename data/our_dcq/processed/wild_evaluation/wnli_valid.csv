@@ -1,0 +1,2060 @@
+sentence1,sentence2,label,idx,instance,generated_options,option_a,option_b,option_c,option_d
+"Fred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped.",He opened his eyes when the wind stopped.,1 (entailment),48,"sentence1: Fred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped.
+sentence2: He opened his eyes when the wind stopped.
+label: 1 (entailment)","A)
+sentence1: Fred shielded his vision with his palms, due to the gust stirring up the sand. He unveiled them once the gust ceased.
+sentence2: He unveiled his vision once the gust ceased.
+label: 1 (entailment)
+
+B)
+sentence1: Fred hid his sight with his hands, as the breeze was swirling dust about. He unshielded them when the breeze halted.
+sentence2: He unshielded his sight when the breeze halted.
+label: 1 (entailment)
+
+C)
+sentence1: Fred guarded his eyes with his hands, since the wind was circulating sand. He uncovered them when the wind became calm.
+sentence2: He uncovered his eyes when the wind became calm.
+label: 1 (entailment)
+
+D)
+sentence1: Fred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped.
+sentence2: He opened his eyes when the wind stopped.
+label: 1 (entailment)","sentence1: Fred shielded his vision with his palms, due to the gust stirring up the sand. He unveiled them once the gust ceased.
+sentence2: He unveiled his vision once the gust ceased.
+label: 1 (entailment)","sentence1: Fred hid his sight with his hands, as the breeze was swirling dust about. He unshielded them when the breeze halted.
+sentence2: He unshielded his sight when the breeze halted.
+label: 1 (entailment)","sentence1: Fred guarded his eyes with his hands, since the wind was circulating sand. He uncovered them when the wind became calm.
+sentence2: He uncovered his eyes when the wind became calm.
+label: 1 (entailment)","sentence1: Fred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped.
+sentence2: He opened his eyes when the wind stopped.
+label: 1 (entailment)"
+"Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.",Larry could not help him now.,1 (entailment),28,"sentence1: Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
+sentence2: Larry could not help him now.
+label: 1 (entailment)","A)
+sentence1: In all previous instances, Larry assisted his father in his job. However, he was unable to assist him currently, as his father stated that his superior at the train organization would not approve of anyone other than himself working at the desk job.
+sentence2: Larry was unable to assist him at present.
+label: 1 (entailment)
+
+B)
+sentence1: Always in the past, Larry had supported his Dad with his duties. But now he could not support him, because Dad indicated that his supervisor at the railway firm wouldn't accept anyone else but him at the workplace.
+sentence2: Larry could not offer him support now.
+label: 1 (entailment)
+
+C)
+sentence1: On every previous occasion, Larry aided his father with his tasks. However, the assistance could not be given now, since his father noted his employer at the locomotive corporation would object to anyone besides himself handling the office work.
+sentence2: Larry wasn't able to help at this time.
+label: 1 (entailment)
+
+D)
+sentence1: Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
+sentence2: Larry could not help him now.
+label: 1 (entailment)","sentence1: In all previous instances, Larry assisted his father in his job. However, he was unable to assist him currently, as his father stated that his superior at the train organization would not approve of anyone other than himself working at the desk job.
+sentence2: Larry was unable to assist him at present.
+label: 1 (entailment)","sentence1: Always in the past, Larry had supported his Dad with his duties. But now he could not support him, because Dad indicated that his supervisor at the railway firm wouldn't accept anyone else but him at the workplace.
+sentence2: Larry could not offer him support now.
+label: 1 (entailment)","sentence1: On every previous occasion, Larry aided his father with his tasks. However, the assistance could not be given now, since his father noted his employer at the locomotive corporation would object to anyone besides himself handling the office work.
+sentence2: Larry wasn't able to help at this time.
+label: 1 (entailment)","sentence1: Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
+sentence2: Larry could not help him now.
+label: 1 (entailment)"
+Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very ill.,Carl was very ill.,0 (not entailment),18,"sentence1: Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very ill.
+sentence2: Carl was very ill.
+label: 0 (not entailment)","A)
+sentence1: Bob collapsed on the pavement. Shortly he noticed Carl incoming to assist. He was extremely sick.
+sentence2: Carl was extremely sick.
+label: 0 (not entailment)
+
+B)
+sentence1: Bob keeled over on the walkway. Presently he spotted Carl advancing to aid. He was terribly ill.
+sentence2: Carl was terribly ill.
+label: 0 (not entailment)
+
+C)
+sentence1: Bob crumpled on the footpath. Not long after he saw Carl approaching to help. He was highly unwell.
+sentence2: Carl was highly unwell.
+label: 0 (not entailment)
+
+D)
+sentence1: Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very ill.
+sentence2: Carl was very ill.
+label: 0 (not entailment)","sentence1: Bob collapsed on the pavement. Shortly he noticed Carl incoming to assist. He was extremely sick.
+sentence2: Carl was extremely sick.
+label: 0 (not entailment)","sentence1: Bob keeled over on the walkway. Presently he spotted Carl advancing to aid. He was terribly ill.
+sentence2: Carl was terribly ill.
+label: 0 (not entailment)","sentence1: Bob crumpled on the footpath. Not long after he saw Carl approaching to help. He was highly unwell.
+sentence2: Carl was highly unwell.
+label: 0 (not entailment)","sentence1: Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very ill.
+sentence2: Carl was very ill.
+label: 0 (not entailment)"
+Mark heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.,Mark ran to look out the window.,1 (entailment),25,"sentence1: Mark heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.
+sentence2: Mark ran to look out the window.
+label: 1 (entailment)","A)
+sentence1: Mark listened to Steve's footsteps descending the staircase. The store's entrance shut behind him. He sprinted to peek outside the window.
+sentence2: Mark sprinted to peek outside the window.
+label: 1 (entailment)
+
+B)
+sentence1: Mark perceived Steve's steps moving down the ladder. The gate of the retail outlet sealed after him. He dashed to gaze through the window.
+sentence2: Mark dashed to gaze through the window.
+label: 1 (entailment)
+
+C)
+sentence1: Mark was aware of Steve's footfall heading down the steps. The portal of the shop was closed following him. He hurried to view from the window.
+sentence2: Mark hurried to view from the window.
+label: 1 (entailment)
+
+D)
+sentence1: Mark heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.
+sentence2: Mark ran to look out the window.
+label: 1 (entailment)","sentence1: Mark listened to Steve's footsteps descending the staircase. The store's entrance shut behind him. He sprinted to peek outside the window.
+sentence2: Mark sprinted to peek outside the window.
+label: 1 (entailment)","sentence1: Mark perceived Steve's steps moving down the ladder. The gate of the retail outlet sealed after him. He dashed to gaze through the window.
+sentence2: Mark dashed to gaze through the window.
+label: 1 (entailment)","sentence1: Mark was aware of Steve's footfall heading down the steps. The portal of the shop was closed following him. He hurried to view from the window.
+sentence2: Mark hurried to view from the window.
+label: 1 (entailment)","sentence1: Mark heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.
+sentence2: Mark ran to look out the window.
+label: 1 (entailment)"
+The drain is clogged with hair. It has to be cleaned.,The drain has to be cleaned.,1 (entailment),39,"sentence1: The drain is clogged with hair. It has to be cleaned.
+sentence2: The drain has to be cleaned.
+label: 1 (entailment)","A)
+sentence1: The drain is blocked with hair. It needs to be cleaned.
+sentence2: The drain needs to be cleaned.
+label: 1 (entailment)
+
+B)
+sentence1: The drain is jammed with hair. It must be cleaned.
+sentence2: The drain must be cleaned.
+label: 1 (entailment)
+
+C)
+sentence1: The drain is cluttered with hair. It is required to be cleaned.
+sentence2: The drain is required to be cleaned.
+label: 1 (entailment)
+
+D)
+sentence1: The drain is clogged with hair. It has to be cleaned.
+sentence2: The drain has to be cleaned.
+label: 1 (entailment)","sentence1: The drain is blocked with hair. It needs to be cleaned.
+sentence2: The drain needs to be cleaned.
+label: 1 (entailment)","sentence1: The drain is jammed with hair. It must be cleaned.
+sentence2: The drain must be cleaned.
+label: 1 (entailment)","sentence1: The drain is cluttered with hair. It is required to be cleaned.
+sentence2: The drain is required to be cleaned.
+label: 1 (entailment)","sentence1: The drain is clogged with hair. It has to be cleaned.
+sentence2: The drain has to be cleaned.
+label: 1 (entailment)"
+"Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.",He could not help Larry now.,0 (not entailment),37,"sentence1: Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
+sentence2: He could not help Larry now.
+label: 0 (not entailment)","A)
+sentence1: Invariably in the past, Larry had assisted Dad with his duties. However, he was unable to assist him presently, for Dad expressed that his superior at the train corporation would not desire anyone other than him to toil in the bureau.
+sentence2: He could not assist Larry presently.
+label: 0 (not entailment)
+
+B)
+sentence1: Continually previously, Larry had aided Dad with his job. But he couldn't aid him this instance, as Dad mentioned that his head at the railway enterprise wouldn't appreciate anyone except him laboring in the workspace.
+sentence2: He was incapable to assist Larry currently.
+label: 0 (not entailment)
+
+C)
+sentence1: Always earlier, Larry had supported Dad in his work. Yet he wasn't able to support him now, considering Dad asserted that his manager at the transport firm wouldn't approve anyone but him to be working in the office.
+sentence2: He was unable to support Larry at this point.
+label: 0 (not entailment)
+
+D)
+sentence1: Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
+sentence2: He could not help Larry now.
+label: 0 (not entailment)","sentence1: Invariably in the past, Larry had assisted Dad with his duties. However, he was unable to assist him presently, for Dad expressed that his superior at the train corporation would not desire anyone other than him to toil in the bureau.
+sentence2: He could not assist Larry presently.
+label: 0 (not entailment)","sentence1: Continually previously, Larry had aided Dad with his job. But he couldn't aid him this instance, as Dad mentioned that his head at the railway enterprise wouldn't appreciate anyone except him laboring in the workspace.
+sentence2: He was incapable to assist Larry currently.
+label: 0 (not entailment)","sentence1: Always earlier, Larry had supported Dad in his work. Yet he wasn't able to support him now, considering Dad asserted that his manager at the transport firm wouldn't approve anyone but him to be working in the office.
+sentence2: He was unable to support Larry at this point.
+label: 0 (not entailment)","sentence1: Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.
+sentence2: He could not help Larry now.
+label: 0 (not entailment)"
+The father carried the sleeping boy in his arms.,The father carried the sleeping boy in the father's arms.,1 (entailment),59,"sentence1: The father carried the sleeping boy in his arms.
+sentence2: The father carried the sleeping boy in the father's arms.
+label: 1 (entailment)","A)
+sentence1: The dad held the slumbering child in his embrace.
+sentence2: The dad held the slumbering child in the dad's embrace.
+label: 1 (entailment)
+
+B)
+sentence1: The patriarch transported the snoozing toddler in his limbs.
+sentence2: The patriarch transported the snoozing toddler in the patriarch's limbs.
+label: 1 (entailment)
+
+C)
+sentence1: The sire lifted the napping son in his arms.
+sentence2: The sire lifted the napping son in the sire's arms.
+label: 1 (entailment)
+
+D)
+sentence1: The father carried the sleeping boy in his arms.
+sentence2: The father carried the sleeping boy in the father's arms.
+label: 1 (entailment)","sentence1: The dad held the slumbering child in his embrace.
+sentence2: The dad held the slumbering child in the dad's embrace.
+label: 1 (entailment)","sentence1: The patriarch transported the snoozing toddler in his limbs.
+sentence2: The patriarch transported the snoozing toddler in the patriarch's limbs.
+label: 1 (entailment)","sentence1: The sire lifted the napping son in his arms.
+sentence2: The sire lifted the napping son in the sire's arms.
+label: 1 (entailment)","sentence1: The father carried the sleeping boy in his arms.
+sentence2: The father carried the sleeping boy in the father's arms.
+label: 1 (entailment)"
+"Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.",He couldn't afford the children.,0 (not entailment),61,"sentence1: Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.
+sentence2: He couldn't afford the children.
+label: 0 (not entailment)","A)
+sentence1: Father glanced at the kids' expressions, rather confused and unhappy now. It was terrible enough that they had to be deprived of so many things due to his lack of funds.
+sentence2: He couldn't provide for the children.
+label: 0 (not entailment)
+
+B)
+sentence1: Dad stared down at the youngsters' countenances, so bewildered and sorrowful now. It was dreadful enough that they had to be refused so many things because he was not financially capable.
+sentence2: He couldn't support the children.
+label: 0 (not entailment)
+
+C)
+sentence1: The patriarch gazed down at his offspring's features, so perplexed and despondent now. It was harsh enough that they had to be withheld from so much since he couldn't financially sustain them.
+sentence2: He couldn't maintain the children.
+label: 0 (not entailment)
+
+D)
+sentence1: Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.
+sentence2: He couldn't afford the children.
+label: 0 (not entailment)","sentence1: Father glanced at the kids' expressions, rather confused and unhappy now. It was terrible enough that they had to be deprived of so many things due to his lack of funds.
+sentence2: He couldn't provide for the children.
+label: 0 (not entailment)","sentence1: Dad stared down at the youngsters' countenances, so bewildered and sorrowful now. It was dreadful enough that they had to be refused so many things because he was not financially capable.
+sentence2: He couldn't support the children.
+label: 0 (not entailment)","sentence1: The patriarch gazed down at his offspring's features, so perplexed and despondent now. It was harsh enough that they had to be withheld from so much since he couldn't financially sustain them.
+sentence2: He couldn't maintain the children.
+label: 0 (not entailment)","sentence1: Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.
+sentence2: He couldn't afford the children.
+label: 0 (not entailment)"
+"There is a pillar between me and the stage, and I can't see it.",I can't see around the stage.,1 (entailment),33,"sentence1: There is a pillar between me and the stage, and I can't see it.
+sentence2: I can't see around the stage.
+label: 1 (entailment)","A)
+sentence1: There is a column separating me from the stage, and I am unable to view it.
+sentence2: I am incapable of seeing around the stage.
+label: 1 (entailment)
+
+B)
+sentence1: A post stands between me and the stage, and I'm not able to discern it.
+sentence2: I’m unable to glimpse around the stage.
+label: 1 (entailment)
+
+C)
+sentence1: A pillar is in the way between me and the stage, and I can't observe it.
+sentence2: I can't look around the stage.
+label: 1 (entailment)
+
+D)
+sentence1: There is a pillar between me and the stage, and I can't see it.
+sentence2: I can't see around the stage.
+label: 1 (entailment)","sentence1: There is a column separating me from the stage, and I am unable to view it.
+sentence2: I am incapable of seeing around the stage.
+label: 1 (entailment)","sentence1: A post stands between me and the stage, and I'm not able to discern it.
+sentence2: I’m unable to glimpse around the stage.
+label: 1 (entailment)","sentence1: A pillar is in the way between me and the stage, and I can't observe it.
+sentence2: I can't look around the stage.
+label: 1 (entailment)","sentence1: There is a pillar between me and the stage, and I can't see it.
+sentence2: I can't see around the stage.
+label: 1 (entailment)"
+"George got free tickets to the play, but he gave them to Eric, because he was particularly eager to see it.",Eric was particularly eager to see it.,1 (entailment),29,"sentence1: George got free tickets to the play, but he gave them to Eric, because he was particularly eager to see it.
+sentence2: Eric was particularly eager to see it.
+label: 1 (entailment)","A)
+sentence1: George obtained complimentary passes for the show, but he handed them to Eric, because he was especially keen to see it.
+sentence2: Eric was especially keen to see it.
+label: 1 (entailment)
+
+B)
+sentence1: George received gratis admissions to the performance, but he offered them to Eric, since he was particularly interested in viewing it.
+sentence2: Eric was particularly interested in viewing it.
+label: 1 (entailment)
+
+C)
+sentence1: George secured free of charge entry to the drama, but he gifted them to Eric, given that he was notably eager to watch it.
+sentence2: Eric was notably eager to watch it.
+label: 1 (entailment)
+
+D)
+sentence1: George got free tickets to the play, but he gave them to Eric, because he was particularly eager to see it.
+sentence2: Eric was particularly eager to see it.
+label: 1 (entailment)","sentence1: George obtained complimentary passes for the show, but he handed them to Eric, because he was especially keen to see it.
+sentence2: Eric was especially keen to see it.
+label: 1 (entailment)","sentence1: George received gratis admissions to the performance, but he offered them to Eric, since he was particularly interested in viewing it.
+sentence2: Eric was particularly interested in viewing it.
+label: 1 (entailment)","sentence1: George secured free of charge entry to the drama, but he gifted them to Eric, given that he was notably eager to watch it.
+sentence2: Eric was notably eager to watch it.
+label: 1 (entailment)","sentence1: George got free tickets to the play, but he gave them to Eric, because he was particularly eager to see it.
+sentence2: Eric was particularly eager to see it.
+label: 1 (entailment)"
+"The journalists interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time.","The journalists were very persistent, so the interview lasted for a long time.",1 (entailment),56,"sentence1: The journalists interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time.
+sentence2: The journalists were very persistent, so the interview lasted for a long time.
+label: 1 (entailment)","A)
+sentence1: The reporters questioned the celebrities of the fresh film. They were quite tenacious, so the conversation went on extensively.
+sentence2: The reporters were quite tenacious, so the conversation went on extensively.
+label: 1 (entailment)
+
+B)
+sentence1: The correspondents interrogated the luminaries of the novel cinema. They were highly dogged, thus the discussion lasted for an extended period.
+sentence2: The correspondents were highly dogged, thus the discussion lasted for an extended period.
+label: 1 (entailment)
+
+C)
+sentence1: The media professionals scrutinized the protagonists of the current motion picture. They were extremely insistent, consequently the session extended significantly.
+sentence2: The media professionals were extremely insistent, consequently the session extended significantly.
+label: 1 (entailment)
+
+D)
+sentence1: The journalists interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time.
+sentence2: The journalists were very persistent, so the interview lasted for a long time.
+label: 1 (entailment)","sentence1: The reporters questioned the celebrities of the fresh film. They were quite tenacious, so the conversation went on extensively.
+sentence2: The reporters were quite tenacious, so the conversation went on extensively.
+label: 1 (entailment)","sentence1: The correspondents interrogated the luminaries of the novel cinema. They were highly dogged, thus the discussion lasted for an extended period.
+sentence2: The correspondents were highly dogged, thus the discussion lasted for an extended period.
+label: 1 (entailment)","sentence1: The media professionals scrutinized the protagonists of the current motion picture. They were extremely insistent, consequently the session extended significantly.
+sentence2: The media professionals were extremely insistent, consequently the session extended significantly.
+label: 1 (entailment)","sentence1: The journalists interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time.
+sentence2: The journalists were very persistent, so the interview lasted for a long time.
+label: 1 (entailment)"
+"If the con artist has succeeded in fooling Sam, he would have gotten a lot of money.",The con artist would have gotten a lot of money.,1 (entailment),62,"sentence1: If the con artist has succeeded in fooling Sam, he would have gotten a lot of money.
+sentence2: The con artist would have gotten a lot of money.
+label: 1 (entailment)","A)
+sentence1: If the swindler has managed to deceive Sam, he would have acquired a great deal of wealth.
+sentence2: The swindler would have acquired a great deal of wealth.
+label: 1 (entailment)
+
+B)
+sentence1: If the trickster has achieved in duping Sam, he would have secured a large sum of money.
+sentence2: The trickster would have secured a large sum of money.
+label: 1 (entailment)
+
+C)
+sentence1: If the scammer has been successful in tricking Sam, he would have attained a vast amount of cash.
+sentence2: The scammer would have attained a vast amount of cash.
+label: 1 (entailment)
+
+D)
+sentence1: If the con artist has succeeded in fooling Sam, he would have gotten a lot of money.
+sentence2: The con artist would have gotten a lot of money.
+label: 1 (entailment)","sentence1: If the swindler has managed to deceive Sam, he would have acquired a great deal of wealth.
+sentence2: The swindler would have acquired a great deal of wealth.
+label: 1 (entailment)","sentence1: If the trickster has achieved in duping Sam, he would have secured a large sum of money.
+sentence2: The trickster would have secured a large sum of money.
+label: 1 (entailment)","sentence1: If the scammer has been successful in tricking Sam, he would have attained a vast amount of cash.
+sentence2: The scammer would have attained a vast amount of cash.
+label: 1 (entailment)","sentence1: If the con artist has succeeded in fooling Sam, he would have gotten a lot of money.
+sentence2: The con artist would have gotten a lot of money.
+label: 1 (entailment)"
+I couldn't put the pot on the shelf because it was too high.,The pot was too high.,0 (not entailment),44,"sentence1: I couldn't put the pot on the shelf because it was too high.
+sentence2: The pot was too high.
+label: 0 (not entailment)","A)
+sentence1: I was unable to place the kettle on the ledge because it was excessively elevated.
+sentence2: The kettle was excessively elevated.
+label: 0 (not entailment)
+
+B)
+sentence1: I failed to set the pot on the rack as it was quite lofty.
+sentence2: The pot was quite lofty.
+label: 0 (not entailment)
+
+C)
+sentence1: I could not position the saucepan on the stand since it was too high.
+sentence2: The saucepan was too high.
+label: 0 (not entailment)
+
+D)
+sentence1: I couldn't put the pot on the shelf because it was too high.
+sentence2: The pot was too high.
+label: 0 (not entailment)","sentence1: I was unable to place the kettle on the ledge because it was excessively elevated.
+sentence2: The kettle was excessively elevated.
+label: 0 (not entailment)","sentence1: I failed to set the pot on the rack as it was quite lofty.
+sentence2: The pot was quite lofty.
+label: 0 (not entailment)","sentence1: I could not position the saucepan on the stand since it was too high.
+sentence2: The saucepan was too high.
+label: 0 (not entailment)","sentence1: I couldn't put the pot on the shelf because it was too high.
+sentence2: The pot was too high.
+label: 0 (not entailment)"
+"Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of them.",We should make fewer of the oatmeal cookies.,0 (not entailment),17,"sentence1: Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of them.
+sentence2: We should make fewer of the oatmeal cookies.
+label: 0 (not entailment)","A)
+sentence1: Everybody genuinely adored the oatmeal biscuits; only a minority enjoyed the chocolate chip cookies. Next instance, we ought to produce less of them.
+sentence2: We should manufacture less of the oatmeal biscuits.
+label: 0 (not entailment)
+
+B)
+sentence1: All truly cherished the oatmeal cupcakes; just a few individuals appreciated the chocolate chip cookies. On the next occasion, we should create a smaller quantity of them.
+sentence2: We should produce a smaller quantity of the oatmeal cupcakes.
+label: 0 (not entailment)
+
+C)
+sentence1: Each one sincerely admired the oatmeal pastries; only some populace preferred the chocolate chip cookies. In the future, we should generate fewer of them.
+sentence2: We should generate fewer of the oatmeal pastries.
+label: 0 (not entailment)
+
+D)
+sentence1: Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of them.
+sentence2: We should make fewer of the oatmeal cookies.
+label: 0 (not entailment)","sentence1: Everybody genuinely adored the oatmeal biscuits; only a minority enjoyed the chocolate chip cookies. Next instance, we ought to produce less of them.
+sentence2: We should manufacture less of the oatmeal biscuits.
+label: 0 (not entailment)","sentence1: All truly cherished the oatmeal cupcakes; just a few individuals appreciated the chocolate chip cookies. On the next occasion, we should create a smaller quantity of them.
+sentence2: We should produce a smaller quantity of the oatmeal cupcakes.
+label: 0 (not entailment)","sentence1: Each one sincerely admired the oatmeal pastries; only some populace preferred the chocolate chip cookies. In the future, we should generate fewer of them.
+sentence2: We should generate fewer of the oatmeal pastries.
+label: 0 (not entailment)","sentence1: Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of them.
+sentence2: We should make fewer of the oatmeal cookies.
+label: 0 (not entailment)"
+The man couldn't lift his son because he was so heavy.,The son was so heavy.,1 (entailment),4,"sentence1: The man couldn't lift his son because he was so heavy.
+sentence2: The son was so heavy.
+label: 1 (entailment)","A)
+sentence1: The male was incapable to hoist his offspring due to his excessive weight.
+sentence2: The offspring was excessively heavy.
+label: 1 (entailment)
+
+B)
+sentence1: The gentleman wasn't able to raise his child because he was too weighty.
+sentence2: The child was too weighty.
+label: 1 (entailment)
+
+C)
+sentence1: The guy couldn't elevate his boy because he was overly burdensome.
+sentence2: The boy was overly burdensome.
+label: 1 (entailment)
+
+D)
+sentence1: The man couldn't lift his son because he was so heavy.
+sentence2: The son was so heavy.
+label: 1 (entailment)","sentence1: The male was incapable to hoist his offspring due to his excessive weight.
+sentence2: The offspring was excessively heavy.
+label: 1 (entailment)","sentence1: The gentleman wasn't able to raise his child because he was too weighty.
+sentence2: The child was too weighty.
+label: 1 (entailment)","sentence1: The guy couldn't elevate his boy because he was overly burdensome.
+sentence2: The boy was overly burdensome.
+label: 1 (entailment)","sentence1: The man couldn't lift his son because he was so heavy.
+sentence2: The son was so heavy.
+label: 1 (entailment)"
+Jane gave Joan candy because she was hungry.,Jane was hungry.,0 (not entailment),24,"sentence1: Jane gave Joan candy because she was hungry.
+sentence2: Jane was hungry.
+label: 0 (not entailment)","A)
+sentence1: Jane handed Joan a sweet treat as she was famished.
+sentence2: Jane was famished.
+label: 0 (not entailment)
+
+B)
+sentence1: Jane presented Joan with some confectionery since she was starving.
+sentence2: Jane was starving.
+label: 0 (not entailment)
+
+C)
+sentence1: Jane bestowed candy upon Joan because she experienced hunger.
+sentence2: Jane experienced hunger.
+label: 0 (not entailment)
+
+D)
+sentence1: Jane gave Joan candy because she was hungry.
+sentence2: Jane was hungry.
+label: 0 (not entailment)","sentence1: Jane handed Joan a sweet treat as she was famished.
+sentence2: Jane was famished.
+label: 0 (not entailment)","sentence1: Jane presented Joan with some confectionery since she was starving.
+sentence2: Jane was starving.
+label: 0 (not entailment)","sentence1: Jane bestowed candy upon Joan because she experienced hunger.
+sentence2: Jane experienced hunger.
+label: 0 (not entailment)","sentence1: Jane gave Joan candy because she was hungry.
+sentence2: Jane was hungry.
+label: 0 (not entailment)"
+"Ann asked Mary what time the library closes, because she had forgotten.",Mary had forgotten.,0 (not entailment),21,"sentence1: Ann asked Mary what time the library closes, because she had forgotten.
+sentence2: Mary had forgotten.
+label: 0 (not entailment)","A)
+sentence1: Ann inquired Mary when the bibliotheca shuts, as she couldn't recall. 
+sentence2: Mary couldn't recollect.
+label: 0 (not entailment)
+
+B)
+sentence1: Ann questioned Mary about the termination hour of the library, owing to her lapse in memory.
+sentence2: Mary had a lapse in memory.
+label: 0 (not entailment)
+
+C)
+sentence1: Ann put forth a query to Mary regarding the closing time of the library due to her inability to remember.
+sentence2: Mary was unable to remember.
+label: 0 (not entailment)
+
+D)
+sentence1: Ann asked Mary what time the library closes, because she had forgotten.
+sentence2: Mary had forgotten.
+label: 0 (not entailment)","sentence1: Ann inquired Mary when the bibliotheca shuts, as she couldn't recall. 
+sentence2: Mary couldn't recollect.
+label: 0 (not entailment)","sentence1: Ann questioned Mary about the termination hour of the library, owing to her lapse in memory.
+sentence2: Mary had a lapse in memory.
+label: 0 (not entailment)","sentence1: Ann put forth a query to Mary regarding the closing time of the library due to her inability to remember.
+sentence2: Mary was unable to remember.
+label: 0 (not entailment)","sentence1: Ann asked Mary what time the library closes, because she had forgotten.
+sentence2: Mary had forgotten.
+label: 0 (not entailment)"
+"There is a pillar between me and the stage, and I can't see around it.",I can't see around the pillar.,1 (entailment),7,"sentence1: There is a pillar between me and the stage, and I can't see around it.
+sentence2: I can't see around the pillar.
+label: 1 (entailment)","A)
+sentence1: A column obstructs my view of the podium, and I can't look past it.
+sentence2: I can't look past the column.
+label: 1 (entailment)
+
+B)
+sentence1: There's a post blocking my line of sight to the platform, and I can't glimpse around it. 
+sentence2: I can't glimpse around the post. 
+label: 1 (entailment)
+
+C)
+sentence1: An obstruction is in my view of the stage in the form of a beam, and I can't peak around it.
+sentence2: I can't peak around the beam. 
+label: 1 (entailment)
+
+D)
+sentence1: There is a pillar between me and the stage, and I can't see around it.
+sentence2: I can't see around the pillar.
+label: 1 (entailment)","sentence1: A column obstructs my view of the podium, and I can't look past it.
+sentence2: I can't look past the column.
+label: 1 (entailment)","sentence1: There's a post blocking my line of sight to the platform, and I can't glimpse around it. 
+sentence2: I can't glimpse around the post. 
+label: 1 (entailment)","sentence1: An obstruction is in my view of the stage in the form of a beam, and I can't peak around it.
+sentence2: I can't peak around the beam. 
+label: 1 (entailment)","sentence1: There is a pillar between me and the stage, and I can't see around it.
+sentence2: I can't see around the pillar.
+label: 1 (entailment)"
+"Although they ran at about the same speed, Sue beat Sally because she had such a good start.",Sally had such a good start.,0 (not entailment),26,"sentence1: Although they ran at about the same speed, Sue beat Sally because she had such a good start.
+sentence2: Sally had such a good start.
+label: 0 (not entailment)","A)
+sentence1: While they sprinted at roughly the equivalent pace, Sue defeated Sally as she had such an excellent kickoff.
+sentence2: Sally had such an excellent kickoff.
+label: 0 (not entailment)
+
+B)
+sentence1: Although they dashed at approximately similar velocity, Sue outpaced Sally because she had such a terrific beginning.
+sentence2: Sally had such a terrific beginning.
+label: 0 (not entailment)
+
+C)
+sentence1: Despite they raced at around the comparable speed, Sue outdid Sally seeing as she had such a superb launch.
+sentence2: Sally had such a superb launch.
+label: 0 (not entailment)
+
+D)
+sentence1: Although they ran at about the same speed, Sue beat Sally because she had such a good start.
+sentence2: Sally had such a good start.
+label: 0 (not entailment)","sentence1: While they sprinted at roughly the equivalent pace, Sue defeated Sally as she had such an excellent kickoff.
+sentence2: Sally had such an excellent kickoff.
+label: 0 (not entailment)","sentence1: Although they dashed at approximately similar velocity, Sue outpaced Sally because she had such a terrific beginning.
+sentence2: Sally had such a terrific beginning.
+label: 0 (not entailment)","sentence1: Despite they raced at around the comparable speed, Sue outdid Sally seeing as she had such a superb launch.
+sentence2: Sally had such a superb launch.
+label: 0 (not entailment)","sentence1: Although they ran at about the same speed, Sue beat Sally because she had such a good start.
+sentence2: Sally had such a good start.
+label: 0 (not entailment)"
+Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy.,Any direction on his own account was just another proof of David's innate idiocy.,1 (entailment),63,"sentence1: Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy.
+sentence2: Any direction on his own account was just another proof of David's innate idiocy.
+label: 1 (entailment)","A)
+sentence1: Mr. Taylor was a person of unpredictable mood and his overall inclination was to believe that David was a miserable fool and that any action he took independently was simply further evidence of his inherent stupidity.
+sentence2: Any action taken independently was merely further evidence of David's inherent stupidity.
+label: 1 (entailment)
+
+B)
+sentence1: Mr. Taylor was an individual with unstable disposition and his usual bias was to assume that David was a pathetic idiot and that whatever move he made on his own was basically additional confirmation of his innate foolishness.
+sentence2: Any move made on his own was essentially additional confirmation of David's innate foolishness.
+label: 1 (entailment)
+
+C)
+sentence1: Mr. Taylor was a man of erratic temperament and his dominant tendency was to consider that David was a pitiful simpleton and that whichever route he chose without consultancy was merely further proof of his congenital imbecility.
+sentence2: Whichever route chosen without consultancy was merely further proof of David's congenital imbecility.
+label: 1 (entailment)
+
+D)
+sentence1: Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy.
+sentence2: Any direction on his own account was just another proof of David's innate idiocy.
+label: 1 (entailment)","sentence1: Mr. Taylor was a person of unpredictable mood and his overall inclination was to believe that David was a miserable fool and that any action he took independently was simply further evidence of his inherent stupidity.
+sentence2: Any action taken independently was merely further evidence of David's inherent stupidity.
+label: 1 (entailment)","sentence1: Mr. Taylor was an individual with unstable disposition and his usual bias was to assume that David was a pathetic idiot and that whatever move he made on his own was basically additional confirmation of his innate foolishness.
+sentence2: Any move made on his own was essentially additional confirmation of David's innate foolishness.
+label: 1 (entailment)","sentence1: Mr. Taylor was a man of erratic temperament and his dominant tendency was to consider that David was a pitiful simpleton and that whichever route he chose without consultancy was merely further proof of his congenital imbecility.
+sentence2: Whichever route chosen without consultancy was merely further proof of David's congenital imbecility.
+label: 1 (entailment)","sentence1: Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy.
+sentence2: Any direction on his own account was just another proof of David's innate idiocy.
+label: 1 (entailment)"
+"George got free tickets to the play, but he gave them to Eric, because he was not particularly eager to see it.",Eric was not particularly eager to see it.,0 (not entailment),70,"sentence1: George got free tickets to the play, but he gave them to Eric, because he was not particularly eager to see it.
+sentence2: Eric was not particularly eager to see it.
+label: 0 (not entailment)","A)
+sentence1: George received complimentary passes for the drama, yet he donated them to Eric, for he was not excessively keen to view it.
+sentence2: Eric was not excessively keen to view it.
+label: 0 (not entailment)
+
+B)
+sentence1: George obtained costless admissions to the spectacle, nonetheless he transferred them to Eric, as he was not notably excited to watch it.
+sentence2: Eric was not notably excited to watch it.
+label: 0 (not entailment)
+
+C)
+sentence1: George secured gratuitous entry to the stage show, but he handed them to Eric, considering he was not remarkably enthusiastic to observe it.
+sentence2: Eric was not remarkably enthusiastic to observe it.
+label: 0 (not entailment)
+
+D)
+sentence1: George got free tickets to the play, but he gave them to Eric, because he was not particularly eager to see it.
+sentence2: Eric was not particularly eager to see it.
+label: 0 (not entailment)","sentence1: George received complimentary passes for the drama, yet he donated them to Eric, for he was not excessively keen to view it.
+sentence2: Eric was not excessively keen to view it.
+label: 0 (not entailment)","sentence1: George obtained costless admissions to the spectacle, nonetheless he transferred them to Eric, as he was not notably excited to watch it.
+sentence2: Eric was not notably excited to watch it.
+label: 0 (not entailment)","sentence1: George secured gratuitous entry to the stage show, but he handed them to Eric, considering he was not remarkably enthusiastic to observe it.
+sentence2: Eric was not remarkably enthusiastic to observe it.
+label: 0 (not entailment)","sentence1: George got free tickets to the play, but he gave them to Eric, because he was not particularly eager to see it.
+sentence2: Eric was not particularly eager to see it.
+label: 0 (not entailment)"
+"Sam took French classes from Adam, because he was known to speak it fluently.",Sam was known to speak it fluently.,0 (not entailment),55,"sentence1: Sam took French classes from Adam, because he was known to speak it fluently.
+sentence2: Sam was known to speak it fluently.
+label: 0 (not entailment)","A)
+sentence1: Sam learned French from Adam, as he was acknowledged for his fluency in it.
+sentence2: Sam was recognized for his fluency in it.
+label: 0 (not entailment)
+
+B)
+sentence1: Sam received French lessons from Adam, due to Adam's reputation for speaking it smoothly.
+sentence2: Sam was famous for speaking it smoothly.
+label: 0 (not entailment)
+
+C)
+sentence1: Sam took French instruction from Adam, because he was renowned for his proficiency in the language.
+sentence2: Sam was celebrated for his proficiency in the language.
+label: 0 (not entailment)
+
+D)
+sentence1: Sam took French classes from Adam, because he was known to speak it fluently.
+sentence2: Sam was known to speak it fluently.
+label: 0 (not entailment)","sentence1: Sam learned French from Adam, as he was acknowledged for his fluency in it.
+sentence2: Sam was recognized for his fluency in it.
+label: 0 (not entailment)","sentence1: Sam received French lessons from Adam, due to Adam's reputation for speaking it smoothly.
+sentence2: Sam was famous for speaking it smoothly.
+label: 0 (not entailment)","sentence1: Sam took French instruction from Adam, because he was renowned for his proficiency in the language.
+sentence2: Sam was celebrated for his proficiency in the language.
+label: 0 (not entailment)","sentence1: Sam took French classes from Adam, because he was known to speak it fluently.
+sentence2: Sam was known to speak it fluently.
+label: 0 (not entailment)"
+"The dog chased the cat, which ran up a tree. It waited at the top.",The cat waited at the top.,1 (entailment),68,"sentence1: The dog chased the cat, which ran up a tree. It waited at the top.
+sentence2: The cat waited at the top.
+label: 1 (entailment)","A)
+sentence1: The hound pursued the feline, that scurried up a trunk. It lingered at the peak.
+sentence2: The feline lingered at the peak.
+label: 1 (entailment)
+
+B)
+sentence1: The canine trailed the tomcat, which darted up a tree. It paused at the zenith.
+sentence2: The tomcat paused at the zenith.
+label: 1 (entailment)
+
+C)
+sentence1: The pup tracked the kitty, who bolted up a timber. It stood by at the apex.
+sentence2: The kitty stood by at the apex.
+label: 1 (entailment)
+
+D)
+sentence1: The dog chased the cat, which ran up a tree. It waited at the top.
+sentence2: The cat waited at the top.
+label: 1 (entailment)","sentence1: The hound pursued the feline, that scurried up a trunk. It lingered at the peak.
+sentence2: The feline lingered at the peak.
+label: 1 (entailment)","sentence1: The canine trailed the tomcat, which darted up a tree. It paused at the zenith.
+sentence2: The tomcat paused at the zenith.
+label: 1 (entailment)","sentence1: The pup tracked the kitty, who bolted up a timber. It stood by at the apex.
+sentence2: The kitty stood by at the apex.
+label: 1 (entailment)","sentence1: The dog chased the cat, which ran up a tree. It waited at the top.
+sentence2: The cat waited at the top.
+label: 1 (entailment)"
+"Susan knew that Ann's son had been in a car accident, so she told her about it.",Ann told her about it.,0 (not entailment),5,"sentence1: Susan knew that Ann's son had been in a car accident, so she told her about it.
+sentence2: Ann told her about it.
+label: 0 (not entailment)","A)
+sentence1: Susan was aware that Ann's offspring had been involved in a vehicle crash, so she informed her about it.
+sentence2: Ann informed her about it.
+label: 0 (not entailment)
+
+B)
+sentence1: Susan realized that Ann's child had been in a car collision, so she apprised her of it.
+sentence2: Ann apprised her of it.
+label: 0 (not entailment)
+
+C)
+sentence1: Susan understood that Ann's kid had been in an automobile incident, so she let her know about it.
+sentence2: Ann let her know about it.
+label: 0 (not entailment)
+
+D)
+sentence1: Susan knew that Ann's son had been in a car accident, so she told her about it.
+sentence2: Ann told her about it.
+label: 0 (not entailment)","sentence1: Susan was aware that Ann's offspring had been involved in a vehicle crash, so she informed her about it.
+sentence2: Ann informed her about it.
+label: 0 (not entailment)","sentence1: Susan realized that Ann's child had been in a car collision, so she apprised her of it.
+sentence2: Ann apprised her of it.
+label: 0 (not entailment)","sentence1: Susan understood that Ann's kid had been in an automobile incident, so she let her know about it.
+sentence2: Ann let her know about it.
+label: 0 (not entailment)","sentence1: Susan knew that Ann's son had been in a car accident, so she told her about it.
+sentence2: Ann told her about it.
+label: 0 (not entailment)"
+Jane knocked on Susan's door but she did not answer.,Susan did not answer.,1 (entailment),1,"sentence1: Jane knocked on Susan's door but she did not answer.
+sentence2: Susan did not answer.
+label: 1 (entailment)","A)
+sentence1: Jane rapped on Susan's door but she didn't respond.
+sentence2: Susan didn't respond.
+label: 1 (entailment)
+
+B)
+sentence1: Jane pounded on Susan's door but there was no reply.
+sentence2: Susan gave no reply.
+label: 1 (entailment)
+
+C)
+sentence1: Jane hit Susan's door but she didn't react.
+sentence2: Susan didn't react.
+label: 1 (entailment)
+
+D)
+sentence1: Jane knocked on Susan's door but she did not answer.
+sentence2: Susan did not answer.
+label: 1 (entailment)","sentence1: Jane rapped on Susan's door but she didn't respond.
+sentence2: Susan didn't respond.
+label: 1 (entailment)","sentence1: Jane pounded on Susan's door but there was no reply.
+sentence2: Susan gave no reply.
+label: 1 (entailment)","sentence1: Jane hit Susan's door but she didn't react.
+sentence2: Susan didn't react.
+label: 1 (entailment)","sentence1: Jane knocked on Susan's door but she did not answer.
+sentence2: Susan did not answer.
+label: 1 (entailment)"
+Fred is the only man still alive who remembers my great-grandfather. He is a remarkable man.,Fred is a remarkable man.,1 (entailment),27,"sentence1: Fred is the only man still alive who remembers my great-grandfather. He is a remarkable man.
+sentence2: Fred is a remarkable man.
+label: 1 (entailment)","A)
+sentence1: Fred is the sole male still living who recalls my great-grandfather. He is an extraordinary man.
+sentence2: Fred is an extraordinary man.
+label: 1 (entailment)
+
+B)
+sentence1: Fred is the lone gentleman still breathing who can recollect my great-grandfather. He is a striking man.
+sentence2: Fred is a striking man.
+label: 1 (entailment)
+
+C)
+sentence1: Fred is the only guy left alive who reminisces about my great-grandfather. He is a remarkable fellow.
+sentence2: Fred is a remarkable fellow.
+label: 1 (entailment)
+
+D)
+sentence1: Fred is the only man still alive who remembers my great-grandfather. He is a remarkable man.
+sentence2: Fred is a remarkable man.
+label: 1 (entailment)","sentence1: Fred is the sole male still living who recalls my great-grandfather. He is an extraordinary man.
+sentence2: Fred is an extraordinary man.
+label: 1 (entailment)","sentence1: Fred is the lone gentleman still breathing who can recollect my great-grandfather. He is a striking man.
+sentence2: Fred is a striking man.
+label: 1 (entailment)","sentence1: Fred is the only guy left alive who reminisces about my great-grandfather. He is a remarkable fellow.
+sentence2: Fred is a remarkable fellow.
+label: 1 (entailment)","sentence1: Fred is the only man still alive who remembers my great-grandfather. He is a remarkable man.
+sentence2: Fred is a remarkable man.
+label: 1 (entailment)"
+"The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.",The cat was too cautious.,0 (not entailment),50,"sentence1: The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.
+sentence2: The cat was too cautious.
+label: 0 (not entailment)","A)
+sentence1: The feline was reclining near the mouse opening anticipating the rodent, nonetheless it was overly prudent.
+sentence2: The feline was exceedingly prudent.
+label: 0 (not entailment)
+
+B)
+sentence1: The kitty was lounging adjacent to the rodent hole biding its time for the vermin, nevertheless it was too circumspect.
+sentence2: The kitty was extremely circumspect.
+label: 0 (not entailment)
+
+C)
+sentence1: The tomcat was lying in wait next to the mouse's exit eager for the creature, yet it was too wary.
+sentence2: The tomcat was notably wary.
+label: 0 (not entailment)
+
+D)
+sentence1: The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.
+sentence2: The cat was too cautious.
+label: 0 (not entailment)","sentence1: The feline was reclining near the mouse opening anticipating the rodent, nonetheless it was overly prudent.
+sentence2: The feline was exceedingly prudent.
+label: 0 (not entailment)","sentence1: The kitty was lounging adjacent to the rodent hole biding its time for the vermin, nevertheless it was too circumspect.
+sentence2: The kitty was extremely circumspect.
+label: 0 (not entailment)","sentence1: The tomcat was lying in wait next to the mouse's exit eager for the creature, yet it was too wary.
+sentence2: The tomcat was notably wary.
+label: 0 (not entailment)","sentence1: The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.
+sentence2: The cat was too cautious.
+label: 0 (not entailment)"
+"Beth didn't get angry with Sally, who had cut her off, because she stopped and counted to ten.",Sally stopped and counted to ten.,0 (not entailment),2,"sentence1: Beth didn't get angry with Sally, who had cut her off, because she stopped and counted to ten.
+sentence2: Sally stopped and counted to ten.
+label: 0 (not entailment)","A)
+sentence1: Beth didn't become irate with Sally, who had interrupted her, because she paused and counted to ten.
+sentence2: Sally paused and counted to ten.
+label: 0 (not entailment)
+
+B)
+sentence1: Beth didn't turn furious at Sally, who had blocked her, because she halted and counted to ten.
+sentence2: Sally halted and counted to ten.
+label: 0 (not entailment)
+
+C)
+sentence1: Beth didn't grow mad at Sally, who had obstructed her, because she ceased and counted to ten.
+sentence2: Sally ceased and counted to ten.
+label: 0 (not entailment)
+
+D)
+sentence1: Beth didn't get angry with Sally, who had cut her off, because she stopped and counted to ten.
+sentence2: Sally stopped and counted to ten.
+label: 0 (not entailment)","sentence1: Beth didn't become irate with Sally, who had interrupted her, because she paused and counted to ten.
+sentence2: Sally paused and counted to ten.
+label: 0 (not entailment)","sentence1: Beth didn't turn furious at Sally, who had blocked her, because she halted and counted to ten.
+sentence2: Sally halted and counted to ten.
+label: 0 (not entailment)","sentence1: Beth didn't grow mad at Sally, who had obstructed her, because she ceased and counted to ten.
+sentence2: Sally ceased and counted to ten.
+label: 0 (not entailment)","sentence1: Beth didn't get angry with Sally, who had cut her off, because she stopped and counted to ten.
+sentence2: Sally stopped and counted to ten.
+label: 0 (not entailment)"
+The drain is clogged with hair. It has to be removed.,The drain has to be removed.,0 (not entailment),40,"sentence1: The drain is clogged with hair. It has to be removed.
+sentence2: The drain has to be removed.
+label: 0 (not entailment)","A)
+sentence1: The conduit is blocked with strands. It requires elimination.
+sentence2: The conduit requires elimination.
+label: 0 (not entailment)
+
+B)
+sentence1: The sewer is jammed with tresses. It must be extracted.
+sentence2: The sewer must be extracted.
+label: 0 (not entailment)
+
+C)
+sentence1: The outlet is obstructed with locks. It needs to be cleared.
+sentence2: The outlet needs to be cleared.
+label: 0 (not entailment)
+
+D)
+sentence1: The drain is clogged with hair. It has to be removed.
+sentence2: The drain has to be removed.
+label: 0 (not entailment)","sentence1: The conduit is blocked with strands. It requires elimination.
+sentence2: The conduit requires elimination.
+label: 0 (not entailment)","sentence1: The sewer is jammed with tresses. It must be extracted.
+sentence2: The sewer must be extracted.
+label: 0 (not entailment)","sentence1: The outlet is obstructed with locks. It needs to be cleared.
+sentence2: The outlet needs to be cleared.
+label: 0 (not entailment)","sentence1: The drain is clogged with hair. It has to be removed.
+sentence2: The drain has to be removed.
+label: 0 (not entailment)"
+"Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it off.",He changed his mind and turned the dishwasher off.,0 (not entailment),52,"sentence1: Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it off.
+sentence2: He changed his mind and turned the dishwasher off.
+label: 0 (not entailment)","A)
+sentence1: Fred was obliged to operate the dishwasher, yet he postponed it, since he preferred to view television. However, the program proved to be dull, so he altered his decision and switched it off.
+sentence2: He changed his opinion and turned the dishwasher off.
+label: 0 (not entailment)
+
+B)
+sentence1: Fred was meant to handle the dishwasher, but he delayed it, given he was inclined to watch the TV. Yet, the television show was tedious, so he reconsidered and turned it off.
+sentence2: He reevaluated his decision and switched the dishwasher off.
+label: 0 (not entailment)
+
+C)
+sentence1: Fred was expected to use the dishwasher, however, he deferred it, due to his desire to tune into TV. Contrarily, the broadcast was uninteresting, so he revised his perspective and powered it off.
+sentence2: He reversed his judgment and powered down the dishwasher.
+label: 0 (not entailment)
+
+D)
+sentence1: Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it off.
+sentence2: He changed his mind and turned the dishwasher off.
+label: 0 (not entailment)","sentence1: Fred was obliged to operate the dishwasher, yet he postponed it, since he preferred to view television. However, the program proved to be dull, so he altered his decision and switched it off.
+sentence2: He changed his opinion and turned the dishwasher off.
+label: 0 (not entailment)","sentence1: Fred was meant to handle the dishwasher, but he delayed it, given he was inclined to watch the TV. Yet, the television show was tedious, so he reconsidered and turned it off.
+sentence2: He reevaluated his decision and switched the dishwasher off.
+label: 0 (not entailment)","sentence1: Fred was expected to use the dishwasher, however, he deferred it, due to his desire to tune into TV. Contrarily, the broadcast was uninteresting, so he revised his perspective and powered it off.
+sentence2: He reversed his judgment and powered down the dishwasher.
+label: 0 (not entailment)","sentence1: Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it off.
+sentence2: He changed his mind and turned the dishwasher off.
+label: 0 (not entailment)"
+"It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot.",The spot under the tree was hot.,0 (not entailment),69,"sentence1: It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot.
+sentence2: The spot under the tree was hot.
+label: 0 (not entailment)","A)
+sentence1: It was an estival noon, and the hound was seated in the center of the yard. After some time, it stood and relocated to a position under the oak, due to the heat.
+sentence2: The position under the oak was warm.
+label: 0 (not entailment)
+
+B)
+sentence1: It was a summertime afternoon, and the canine was resting in the heart of the grassland. After a bit, it arose and shifted to a location beneath the tree, as it was sweltering.
+sentence2: The location beneath the tree was sweltering.
+label: 0 (not entailment)
+
+C)
+sentence1: It was a midsummer day, and the pup was stationing in the midst of the ground. Subsequently, it sprung and migrated to an area under the tree, for it was torrid.
+sentence2: The area under the tree was torrid.
+label: 0 (not entailment)
+
+D)
+sentence1: It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot.
+sentence2: The spot under the tree was hot.
+label: 0 (not entailment)","sentence1: It was an estival noon, and the hound was seated in the center of the yard. After some time, it stood and relocated to a position under the oak, due to the heat.
+sentence2: The position under the oak was warm.
+label: 0 (not entailment)","sentence1: It was a summertime afternoon, and the canine was resting in the heart of the grassland. After a bit, it arose and shifted to a location beneath the tree, as it was sweltering.
+sentence2: The location beneath the tree was sweltering.
+label: 0 (not entailment)","sentence1: It was a midsummer day, and the pup was stationing in the midst of the ground. Subsequently, it sprung and migrated to an area under the tree, for it was torrid.
+sentence2: The area under the tree was torrid.
+label: 0 (not entailment)","sentence1: It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot.
+sentence2: The spot under the tree was hot.
+label: 0 (not entailment)"
+"Tatyana knew that Grandma always enjoyed serving an abundance of food to her guests. Now Tatyana watched as Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled her to the table, lifting her shawl from her shoulders, seating her in the place of honor, and saying simply: ""There's plenty.""","Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled Tatyana to the table.",0 (not entailment),20,"sentence1: Tatyana knew that Grandma always enjoyed serving an abundance of food to her guests. Now Tatyana watched as Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled her to the table, lifting her shawl from her shoulders, seating her in the place of honor, and saying simply: ""There's plenty.""
+sentence2: Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled Tatyana to the table.
+label: 0 (not entailment)","A)
+sentence1: Tatyana realized that her grandmother always took pleasure in providing a bounty of meals to her visitors. Now Tatyana observed as her Grandma pulled Tatyana's petite mother into a large, skinny hug, and then directed her toward the dining table, removing her mantilla from her shoulders, situating her in the esteemed position, and just stated: ""There's a lot.""
+sentence2: Grandma pulled Tatyana's petite mother into a large, skinny hug and then pushed Tatyana toward the table.
+label: 0 (not entailment)
+
+B)
+sentence1: Tatyana understood that Granny always loved supplying a plethora of cuisine to her company. Now Tatyana witnessed as Granny drew Tatyana's compact mother into a broad, thin clamp, and then ushered her to the dining area, peeling off her shroud from her shoulders, placing her in the respected spot, and unpretentiously expressed: ""There's enough.""
+sentence2: Granny drew Tatyana's compact mother into a broad, thin clamp and then guided Tatyana to the dining area.
+label: 0 (not entailment)
+
+C)
+sentence1: Tatyana was aware that her Nana always relished dispensing a copious amount of dishes to her guest. Now Tatyana stared as Nana invited Tatyana's small-sized mom into a wide, lean hold, and then navigated her to the supper table, sliding off her cape from her shoulders, anchoring her in the exalted site, and quietly voiced: ""There's surplus.""
+sentence2: Nana invited Tatyana's small-sized mom into a wide, lean hold and then escorted Tatyana to the supper table.
+label: 0 (not entailment)
+
+D)
+sentence1: Tatyana knew that Grandma always enjoyed serving an abundance of food to her guests. Now Tatyana watched as Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled her to the table, lifting her shawl from her shoulders, seating her in the place of honor, and saying simply: ""There's plenty.""
+sentence2: Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled Tatyana to the table.
+label: 0 (not entailment)","sentence1: Tatyana realized that her grandmother always took pleasure in providing a bounty of meals to her visitors. Now Tatyana observed as her Grandma pulled Tatyana's petite mother into a large, skinny hug, and then directed her toward the dining table, removing her mantilla from her shoulders, situating her in the esteemed position, and just stated: ""There's a lot.""
+sentence2: Grandma pulled Tatyana's petite mother into a large, skinny hug and then pushed Tatyana toward the table.
+label: 0 (not entailment)","sentence1: Tatyana understood that Granny always loved supplying a plethora of cuisine to her company. Now Tatyana witnessed as Granny drew Tatyana's compact mother into a broad, thin clamp, and then ushered her to the dining area, peeling off her shroud from her shoulders, placing her in the respected spot, and unpretentiously expressed: ""There's enough.""
+sentence2: Granny drew Tatyana's compact mother into a broad, thin clamp and then guided Tatyana to the dining area.
+label: 0 (not entailment)","sentence1: Tatyana was aware that her Nana always relished dispensing a copious amount of dishes to her guest. Now Tatyana stared as Nana invited Tatyana's small-sized mom into a wide, lean hold, and then navigated her to the supper table, sliding off her cape from her shoulders, anchoring her in the exalted site, and quietly voiced: ""There's surplus.""
+sentence2: Nana invited Tatyana's small-sized mom into a wide, lean hold and then escorted Tatyana to the supper table.
+label: 0 (not entailment)","sentence1: Tatyana knew that Grandma always enjoyed serving an abundance of food to her guests. Now Tatyana watched as Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled her to the table, lifting her shawl from her shoulders, seating her in the place of honor, and saying simply: ""There's plenty.""
+sentence2: Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled Tatyana to the table.
+label: 0 (not entailment)"
+"They broadcast an announcement, but a subway came into the station and I couldn't hear it.",I couldn't hear the subway.,0 (not entailment),57,"sentence1: They broadcast an announcement, but a subway came into the station and I couldn't hear it.
+sentence2: I couldn't hear the subway.
+label: 0 (not entailment)","A)
+sentence1: They aired a proclamation, but a metro arrived at the terminal and I failed to catch it.
+sentence2: I failed to catch the metro.
+label: 0 (not entailment)
+
+B)
+sentence1: They transmitted a declaration, but an underground train pulled into the depot and I could not receive it.
+sentence2: I could not receive the underground train.
+label: 0 (not entailment)
+
+C)
+sentence1: They relayed a notice, but a tube entered the stop and I was unable to apprehend it.
+sentence2: I was unable to apprehend the tube.
+label: 0 (not entailment)
+
+D)
+sentence1: They broadcast an announcement, but a subway came into the station and I couldn't hear it.
+sentence2: I couldn't hear the subway.
+label: 0 (not entailment)","sentence1: They aired a proclamation, but a metro arrived at the terminal and I failed to catch it.
+sentence2: I failed to catch the metro.
+label: 0 (not entailment)","sentence1: They transmitted a declaration, but an underground train pulled into the depot and I could not receive it.
+sentence2: I could not receive the underground train.
+label: 0 (not entailment)","sentence1: They relayed a notice, but a tube entered the stop and I was unable to apprehend it.
+sentence2: I was unable to apprehend the tube.
+label: 0 (not entailment)","sentence1: They broadcast an announcement, but a subway came into the station and I couldn't hear it.
+sentence2: I couldn't hear the subway.
+label: 0 (not entailment)"
+"Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized.",Sally stopped and apologized.,1 (entailment),32,"sentence1: Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized.
+sentence2: Sally stopped and apologized.
+label: 1 (entailment)","A)
+sentence1: Beth wasn't furious with Sally, who had interrupted her, since she halted and expressed regret.
+sentence2: Sally halted and expressed regret.
+label: 1 (entailment)
+
+B)
+sentence1: Beth didn't become irate with Sally, who had discontinued her, because she paused and asked for forgiveness.
+sentence2: Sally paused and asked for forgiveness.
+label: 1 (entailment)
+
+C)
+sentence1: Beth didn't turn antagonistic towards Sally, who had blocked her, given she ceased and offered an apology.
+sentence2: Sally ceased and offered an apology.
+label: 1 (entailment)
+
+D)
+sentence1: Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized.
+sentence2: Sally stopped and apologized.
+label: 1 (entailment)","sentence1: Beth wasn't furious with Sally, who had interrupted her, since she halted and expressed regret.
+sentence2: Sally halted and expressed regret.
+label: 1 (entailment)","sentence1: Beth didn't become irate with Sally, who had discontinued her, because she paused and asked for forgiveness.
+sentence2: Sally paused and asked for forgiveness.
+label: 1 (entailment)","sentence1: Beth didn't turn antagonistic towards Sally, who had blocked her, given she ceased and offered an apology.
+sentence2: Sally ceased and offered an apology.
+label: 1 (entailment)","sentence1: Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized.
+sentence2: Sally stopped and apologized.
+label: 1 (entailment)"
+John was doing research in the library when he heard a man humming and whistling. He was very annoying.,John was very annoying.,0 (not entailment),42,"sentence1: John was doing research in the library when he heard a man humming and whistling. He was very annoying.
+sentence2: John was very annoying.
+label: 0 (not entailment)","A)
+sentence1: John was conducting study in the library when he noticed a man humming and whistling. He was highly disturbing.
+sentence2: John was highly disturbing.
+label: 0 (not entailment)
+
+B)
+sentence1: John was engaged in research in the library when his attention was caught by a man humming and whistling. He was incredibly irritating.
+sentence2: John was incredibly irritating.
+label: 0 (not entailment)
+
+C)
+sentence1: John was carrying out research in the library when he perceived a man humming and whistling. He was profoundly bothersome.
+sentence2: John was profoundly bothersome.
+label: 0 (not entailment)
+
+D)
+sentence1: John was doing research in the library when he heard a man humming and whistling. He was very annoying.
+sentence2: John was very annoying.
+label: 0 (not entailment)","sentence1: John was conducting study in the library when he noticed a man humming and whistling. He was highly disturbing.
+sentence2: John was highly disturbing.
+label: 0 (not entailment)","sentence1: John was engaged in research in the library when his attention was caught by a man humming and whistling. He was incredibly irritating.
+sentence2: John was incredibly irritating.
+label: 0 (not entailment)","sentence1: John was carrying out research in the library when he perceived a man humming and whistling. He was profoundly bothersome.
+sentence2: John was profoundly bothersome.
+label: 0 (not entailment)","sentence1: John was doing research in the library when he heard a man humming and whistling. He was very annoying.
+sentence2: John was very annoying.
+label: 0 (not entailment)"
+The delivery truck zoomed by the school bus because it was going so slow.,The school bus was going so slow.,1 (entailment),23,"sentence1: The delivery truck zoomed by the school bus because it was going so slow.
+sentence2: The school bus was going so slow.
+label: 1 (entailment)","A)
+sentence1: The transport vehicle dashed past the school coach as it was traveling at these moderate speeds.
+sentence2: The school coach was traveling at moderate speeds.
+label: 1 (entailment)
+
+B)
+sentence1: The shipping van raced past the school shuttle because it was moving so leisurely.
+sentence2: The school shuttle was moving so leisurely.
+label: 1 (entailment)
+
+C)
+sentence1: The courier lorry sped by the education transport because it was pacing so slow.
+sentence2: The education transport was pacing so slow.
+label: 1 (entailment)
+
+D)
+sentence1: The delivery truck zoomed by the school bus because it was going so slow.
+sentence2: The school bus was going so slow.
+label: 1 (entailment)","sentence1: The transport vehicle dashed past the school coach as it was traveling at these moderate speeds.
+sentence2: The school coach was traveling at moderate speeds.
+label: 1 (entailment)","sentence1: The shipping van raced past the school shuttle because it was moving so leisurely.
+sentence2: The school shuttle was moving so leisurely.
+label: 1 (entailment)","sentence1: The courier lorry sped by the education transport because it was pacing so slow.
+sentence2: The education transport was pacing so slow.
+label: 1 (entailment)","sentence1: The delivery truck zoomed by the school bus because it was going so slow.
+sentence2: The school bus was going so slow.
+label: 1 (entailment)"
+"This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked it down.",This afternoon the wind knocked The sand castle down.,0 (not entailment),64,"sentence1: This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked it down.
+sentence2: This afternoon the wind knocked The sand castle down.
+label: 0 (not entailment)","A)
+sentence1: Earlier today, Joey constructed a sand fortress on the seashore, and placed a trinket banner in the lofty turret, but later the breeze toppled it over.
+sentence2: Later the breeze toppled the sand fortress over.
+label: 0 (not entailment)
+
+B)
+sentence1: This A.M., Joey assembled a sand palace by the ocean, and lodged a toy pennant in the apex turret, but this P.M. the zephyr collapsed it.
+sentence2: This P.M. the zephyr collapsed the sand palace.
+label: 0 (not entailment)
+
+C)
+sentence1: During the sunrise, Joey erected a sand stronghold on the shoreline, and inserted a miniature standard in the summit pillar, but afternoon's gust blew it away.
+sentence2: Afternoon's gust blew the sand stronghold away.
+label: 0 (not entailment)
+
+D)
+sentence1: This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked it down.
+sentence2: This afternoon the wind knocked The sand castle down.
+label: 0 (not entailment)","sentence1: Earlier today, Joey constructed a sand fortress on the seashore, and placed a trinket banner in the lofty turret, but later the breeze toppled it over.
+sentence2: Later the breeze toppled the sand fortress over.
+label: 0 (not entailment)","sentence1: This A.M., Joey assembled a sand palace by the ocean, and lodged a toy pennant in the apex turret, but this P.M. the zephyr collapsed it.
+sentence2: This P.M. the zephyr collapsed the sand palace.
+label: 0 (not entailment)","sentence1: During the sunrise, Joey erected a sand stronghold on the shoreline, and inserted a miniature standard in the summit pillar, but afternoon's gust blew it away.
+sentence2: Afternoon's gust blew the sand stronghold away.
+label: 0 (not entailment)","sentence1: This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked it down.
+sentence2: This afternoon the wind knocked The sand castle down.
+label: 0 (not entailment)"
+"If the con artist has succeeded in fooling Sam, he would have gotten a lot of money.",Sam would have gotten a lot of money.,0 (not entailment),15,"sentence1: If the con artist has succeeded in fooling Sam, he would have gotten a lot of money.
+sentence2: Sam would have gotten a lot of money.
+label: 0 (not entailment)","A)
+sentence1: If the scam artist has triumphed in deceiving Sam, he would have procured a large sum of money.
+sentence2: Sam would have procured a large sum of money.
+label: 0 (not entailment)
+
+B)
+sentence1: Should the swindler have prevailed in duping Sam, he would have acquired substantial wealth.
+sentence2: Sam would have acquired substantial wealth.
+label: 0 (not entailment)
+
+C)
+sentence1: Assuming the fraudster was successful in tricking Sam, he would have garnered plenty of money.
+sentence2: Sam would have garnered plenty of money.
+label: 0 (not entailment)
+
+D)
+sentence1: If the con artist has succeeded in fooling Sam, he would have gotten a lot of money.
+sentence2: Sam would have gotten a lot of money.
+label: 0 (not entailment)","sentence1: If the scam artist has triumphed in deceiving Sam, he would have procured a large sum of money.
+sentence2: Sam would have procured a large sum of money.
+label: 0 (not entailment)","sentence1: Should the swindler have prevailed in duping Sam, he would have acquired substantial wealth.
+sentence2: Sam would have acquired substantial wealth.
+label: 0 (not entailment)","sentence1: Assuming the fraudster was successful in tricking Sam, he would have garnered plenty of money.
+sentence2: Sam would have garnered plenty of money.
+label: 0 (not entailment)","sentence1: If the con artist has succeeded in fooling Sam, he would have gotten a lot of money.
+sentence2: Sam would have gotten a lot of money.
+label: 0 (not entailment)"
+"Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.",Anyone who knew that he was 19 years old could take his claim away from anyone.,0 (not entailment),9,"sentence1: Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.
+sentence2: Anyone who knew that he was 19 years old could take his claim away from anyone.
+label: 0 (not entailment)","A)
+sentence1: Bernard, who had not disclosed to the state representative that he was under 21 when he applied for a property right, didn't view his act as fraudulent. Yet, any person aware that he was merely 19 could seize this claim from him.
+sentence2: Any individual aware that he was merely 19 could confiscate his claim from anyone.
+label: 0 (not entailment)
+
+B)
+sentence1: Bernard, who hadn't revealed to the authority officer that he was not yet 21 when he lodged a land possession request, saw nothing wrong in his action. However, someone who had knowledge that he was just 19 could deprive him of his possession claim.
+sentence2: Someone who had knowledge that he was just 19 could strip anyone of his claim.
+label: 0 (not entailment)
+
+C)
+sentence1: Bernard, who hadn't indicated to the government agent that he fell short of 21 when he made a homestead stake, didn't think he had been deceitful. Nevertheless, someone cognizant that he was only 19 could remove his entitlement from him.
+sentence2: Someone cognizant that he was only 19 could revoke his entitlement from anyone.
+label: 0 (not entailment)
+
+D)
+sentence1: Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.
+sentence2: Anyone who knew that he was 19 years old could take his claim away from anyone.
+label: 0 (not entailment)","sentence1: Bernard, who had not disclosed to the state representative that he was under 21 when he applied for a property right, didn't view his act as fraudulent. Yet, any person aware that he was merely 19 could seize this claim from him.
+sentence2: Any individual aware that he was merely 19 could confiscate his claim from anyone.
+label: 0 (not entailment)","sentence1: Bernard, who hadn't revealed to the authority officer that he was not yet 21 when he lodged a land possession request, saw nothing wrong in his action. However, someone who had knowledge that he was just 19 could deprive him of his possession claim.
+sentence2: Someone who had knowledge that he was just 19 could strip anyone of his claim.
+label: 0 (not entailment)","sentence1: Bernard, who hadn't indicated to the government agent that he fell short of 21 when he made a homestead stake, didn't think he had been deceitful. Nevertheless, someone cognizant that he was only 19 could remove his entitlement from him.
+sentence2: Someone cognizant that he was only 19 could revoke his entitlement from anyone.
+label: 0 (not entailment)","sentence1: Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.
+sentence2: Anyone who knew that he was 19 years old could take his claim away from anyone.
+label: 0 (not entailment)"
+"Grant worked hard to harvest his beans so he and his family would have enough to eat that winter, His friend Henry let him stack them in his barn where they would dry. Later, he and Tatyana would shell them and cook them for their Sunday dinners.","Later, he and Tatyana would shell them and cook them for the beans' Sunday dinners.",0 (not entailment),31,"sentence1: Grant worked hard to harvest his beans so he and his family would have enough to eat that winter, His friend Henry let him stack them in his barn where they would dry. Later, he and Tatyana would shell them and cook them for their Sunday dinners.
+sentence2: Later, he and Tatyana would shell them and cook them for the beans' Sunday dinners.
+label: 0 (not entailment)","A)
+sentence1: Grant exerted effort to gather his beans so he and his kin would possess sufficient to feed on that winter, His comrade Henry allowed him to pile them in his granary where they would dehydrate. Subsequently, he and Tatyana would hull them and prepare them for their weekly feasts.
+sentence2: Subsequently, he and Tatyana would hull them and prepare them for the beans' weekly feasts.
+label: 0 (not entailment)
+
+B)
+sentence1: Grant strained himself to collect his beans so he and his relatives could have plenty to consume that chilly season. His buddy Henry permitted him to heap them in his shed where they could dry out. At a later time, he and Tatyana would peel them and heat them for their Sabbath meals.
+sentence2: At a later time, he and Tatyana would peel them and heat them for the beans' Sabbath meals.
+label: 0 (not entailment)
+
+C)
+sentence1: Grant toiled to reap his beans so he and his loved ones wouldn't lack sustenance that frosty period. His associate Henry granted him to stack them in his barn where they could evaporate. Following, he and Tatyana would shell them and roast them for their Sunday banquets.
+sentence2: Following, he and Tatyana would shell them and roast them for the beans' Sunday banquets.
+label: 0 (not entailment)
+
+D)
+sentence1: Grant worked hard to harvest his beans so he and his family would have enough to eat that winter, His friend Henry let him stack them in his barn where they would dry. Later, he and Tatyana would shell them and cook them for their Sunday dinners.
+sentence2: Later, he and Tatyana would shell them and cook them for the beans' Sunday dinners.
+label: 0 (not entailment)","sentence1: Grant exerted effort to gather his beans so he and his kin would possess sufficient to feed on that winter, His comrade Henry allowed him to pile them in his granary where they would dehydrate. Subsequently, he and Tatyana would hull them and prepare them for their weekly feasts.
+sentence2: Subsequently, he and Tatyana would hull them and prepare them for the beans' weekly feasts.
+label: 0 (not entailment)","sentence1: Grant strained himself to collect his beans so he and his relatives could have plenty to consume that chilly season. His buddy Henry permitted him to heap them in his shed where they could dry out. At a later time, he and Tatyana would peel them and heat them for their Sabbath meals.
+sentence2: At a later time, he and Tatyana would peel them and heat them for the beans' Sabbath meals.
+label: 0 (not entailment)","sentence1: Grant toiled to reap his beans so he and his loved ones wouldn't lack sustenance that frosty period. His associate Henry granted him to stack them in his barn where they could evaporate. Following, he and Tatyana would shell them and roast them for their Sunday banquets.
+sentence2: Following, he and Tatyana would shell them and roast them for the beans' Sunday banquets.
+label: 0 (not entailment)","sentence1: Grant worked hard to harvest his beans so he and his family would have enough to eat that winter, His friend Henry let him stack them in his barn where they would dry. Later, he and Tatyana would shell them and cook them for their Sunday dinners.
+sentence2: Later, he and Tatyana would shell them and cook them for the beans' Sunday dinners.
+label: 0 (not entailment)"
+The city councilmen refused the demonstrators a permit because they advocated violence.,The demonstrators advocated violence.,1 (entailment),43,"sentence1: The city councilmen refused the demonstrators a permit because they advocated violence.
+sentence2: The demonstrators advocated violence.
+label: 1 (entailment)","A)
+sentence1: The municipal representatives denied the protestors a license since they promoted aggression. 
+sentence2: The protestors advocated hostility. 
+label: 1 (entailment)
+
+B)
+sentence1: The urban lawmakers rejected the demonstrators a consent since they supported brutality.
+sentence2: The demonstrators endorsed savagery.
+label: 1 (entailment)
+
+C)
+sentence1: The town delegates turned down the activists a permit as they propagated violence.
+sentence2: The activists promoted violence.
+label: 1 (entailment)
+
+D)
+sentence1: The city councilmen refused the demonstrators a permit because they advocated violence.
+sentence2: The demonstrators advocated violence.
+label: 1 (entailment)","sentence1: The municipal representatives denied the protestors a license since they promoted aggression. 
+sentence2: The protestors advocated hostility. 
+label: 1 (entailment)","sentence1: The urban lawmakers rejected the demonstrators a consent since they supported brutality.
+sentence2: The demonstrators endorsed savagery.
+label: 1 (entailment)","sentence1: The town delegates turned down the activists a permit as they propagated violence.
+sentence2: The activists promoted violence.
+label: 1 (entailment)","sentence1: The city councilmen refused the demonstrators a permit because they advocated violence.
+sentence2: The demonstrators advocated violence.
+label: 1 (entailment)"
+"The lawyer asked the witness a question, but he was reluctant to repeat it.",The lawyer was reluctant to repeat it.,1 (entailment),16,"sentence1: The lawyer asked the witness a question, but he was reluctant to repeat it.
+sentence2: The lawyer was reluctant to repeat it.
+label: 1 (entailment)","A)
+sentence1: The attorney queried the bystander, yet he was hesitant to reiterate.
+sentence2: The attorney was hesitant to reiterate.
+label: 1 (entailment)
+
+B)
+sentence1: The counsel questioned the observer, but he was unwilling to echo it.
+sentence2: The counsel was unwilling to echo it.
+label: 1 (entailment)
+
+C)
+sentence1: The advocate probed the onlooker, however, he was disinclined to recap.
+sentence2: The advocate was disinclined to recap.
+label: 1 (entailment)
+
+D)
+sentence1: The lawyer asked the witness a question, but he was reluctant to repeat it.
+sentence2: The lawyer was reluctant to repeat it.
+label: 1 (entailment)","sentence1: The attorney queried the bystander, yet he was hesitant to reiterate.
+sentence2: The attorney was hesitant to reiterate.
+label: 1 (entailment)","sentence1: The counsel questioned the observer, but he was unwilling to echo it.
+sentence2: The counsel was unwilling to echo it.
+label: 1 (entailment)","sentence1: The advocate probed the onlooker, however, he was disinclined to recap.
+sentence2: The advocate was disinclined to recap.
+label: 1 (entailment)","sentence1: The lawyer asked the witness a question, but he was reluctant to repeat it.
+sentence2: The lawyer was reluctant to repeat it.
+label: 1 (entailment)"
+"By rolling over in her upper berth, Tatyana could look over the edge of it and see her mother plainly. How very small and straight and rigid she lay in the bunk below! Her eyes were closed, but Tatyana doubted if she slept.",How very small and straight and rigid her mother lay in the bunk below!,1 (entailment),51,"sentence1: By rolling over in her upper berth, Tatyana could look over the edge of it and see her mother plainly. How very small and straight and rigid she lay in the bunk below! Her eyes were closed, but Tatyana doubted if she slept.
+sentence2: How very small and straight and rigid her mother lay in the bunk below!
+label: 1 (entailment)","A)
+sentence1: By turning around in her top bunk, Tatyana was able to peer over its edge and clearly see her mother. The woman appeared so tiny and upright and stiff in the bed beneath! Her eyes were shut, yet Tatyana questioned if she was genuinely asleep.
+sentence2: How incredibly tiny and upright and stiff her mother was resting in the underneath bed!
+label: 1 (entailment)
+
+B)
+sentence1: By pivoting in her overhead sleeping area, Tatyana could glance past its rim and distinctly view her mother. She was so petite and vertical and inflexible in the lower berth! Her eyes were closed, yet Tatyana was skeptical if she was slumbering.
+sentence2: How exceedingly petite and vertical and inflexible her mother was in the bed beneath!
+label: 1 (entailment)
+
+C)
+sentence1: By shifting in her upper sleeping spot, Tatyana could survey beyond its boundary and visually perceive her mother. Noticing how diminutive, straight-lined, and unyielding she was in the couch underneath! Her eyes were occluded, though Tatyana was uncertain if she was dozing.
+sentence2: How particularly diminutive, straight-lined and unyielding her mother was on the lower couch!
+label: 1 (entailment)
+
+D)
+sentence1: By rolling over in her upper berth, Tatyana could look over the edge of it and see her mother plainly. How very small and straight and rigid she lay in the bunk below! Her eyes were closed, but Tatyana doubted if she slept.
+sentence2: How very small and straight and rigid her mother lay in the bunk below!
+label: 1 (entailment)","sentence1: By turning around in her top bunk, Tatyana was able to peer over its edge and clearly see her mother. The woman appeared so tiny and upright and stiff in the bed beneath! Her eyes were shut, yet Tatyana questioned if she was genuinely asleep.
+sentence2: How incredibly tiny and upright and stiff her mother was resting in the underneath bed!
+label: 1 (entailment)","sentence1: By pivoting in her overhead sleeping area, Tatyana could glance past its rim and distinctly view her mother. She was so petite and vertical and inflexible in the lower berth! Her eyes were closed, yet Tatyana was skeptical if she was slumbering.
+sentence2: How exceedingly petite and vertical and inflexible her mother was in the bed beneath!
+label: 1 (entailment)","sentence1: By shifting in her upper sleeping spot, Tatyana could survey beyond its boundary and visually perceive her mother. Noticing how diminutive, straight-lined, and unyielding she was in the couch underneath! Her eyes were occluded, though Tatyana was uncertain if she was dozing.
+sentence2: How particularly diminutive, straight-lined and unyielding her mother was on the lower couch!
+label: 1 (entailment)","sentence1: By rolling over in her upper berth, Tatyana could look over the edge of it and see her mother plainly. How very small and straight and rigid she lay in the bunk below! Her eyes were closed, but Tatyana doubted if she slept.
+sentence2: How very small and straight and rigid her mother lay in the bunk below!
+label: 1 (entailment)"
+No one joins Facebook to be sad and lonely. But a new study from the University of Wisconsin psychologist George Lincoln argues that that's exactly how it makes us feel.,That's exactly how Facebook makes us feel.,1 (entailment),3,"sentence1: No one joins Facebook to be sad and lonely. But a new study from the University of Wisconsin psychologist George Lincoln argues that that's exactly how it makes us feel.
+sentence2: That's exactly how Facebook makes us feel.
+label: 1 (entailment)","A)
+sentence1: Nobody signs up on Facebook to feel miserable and isolated. Yet, a recent research from the University of Wisconsin's psychologist George Lincoln posits that's precisely the sensation it imparts.
+sentence2: That's precisely the impression Facebook imparts to us.
+label: 1 (entailment)
+
+B)
+sentence1: No individual becomes a part of Facebook to be downhearted and solitary. However, fresh investigations by George Lincoln, a psychologist at the University of Wisconsin, are suggesting that's the exact sentiment it propagates.
+sentence2: That's the exact sentiment Facebook propagates.
+label: 1 (entailment)
+
+C)
+sentence1: No person gets involved with Facebook to feel gloomy and lonesome. But a newly conducted enquiry by the University of Wisconsin psychologist, George Lincoln, insists that's precisely the emotional response it provokes.
+sentence2: That's precisely the emotional response that Facebook provokes.
+label: 1 (entailment)
+
+D)
+sentence1: No one joins Facebook to be sad and lonely. But a new study from the University of Wisconsin psychologist George Lincoln argues that that's exactly how it makes us feel.
+sentence2: That's exactly how Facebook makes us feel.
+label: 1 (entailment)","sentence1: Nobody signs up on Facebook to feel miserable and isolated. Yet, a recent research from the University of Wisconsin's psychologist George Lincoln posits that's precisely the sensation it imparts.
+sentence2: That's precisely the impression Facebook imparts to us.
+label: 1 (entailment)","sentence1: No individual becomes a part of Facebook to be downhearted and solitary. However, fresh investigations by George Lincoln, a psychologist at the University of Wisconsin, are suggesting that's the exact sentiment it propagates.
+sentence2: That's the exact sentiment Facebook propagates.
+label: 1 (entailment)","sentence1: No person gets involved with Facebook to feel gloomy and lonesome. But a newly conducted enquiry by the University of Wisconsin psychologist, George Lincoln, insists that's precisely the emotional response it provokes.
+sentence2: That's precisely the emotional response that Facebook provokes.
+label: 1 (entailment)","sentence1: No one joins Facebook to be sad and lonely. But a new study from the University of Wisconsin psychologist George Lincoln argues that that's exactly how it makes us feel.
+sentence2: That's exactly how Facebook makes us feel.
+label: 1 (entailment)"
+"The older students were bullying the younger ones, so we rescued them.",We rescued the older students.,0 (not entailment),34,"sentence1: The older students were bullying the younger ones, so we rescued them.
+sentence2: We rescued the older students.
+label: 0 (not entailment)","A)
+sentence1: The senior pupils were tormenting the junior ones, so we saved them.
+sentence2: We saved the senior pupils.
+label: 0 (not entailment)
+
+B)
+sentence1: The elder learners were intimidating the lesser ones, so we delivered them.
+sentence2: We delivered the elder learners.
+label: 0 (not entailment)
+
+C)
+sentence1: The older trainees were harassing the younger ones, so we liberated them.
+sentence2: We liberated the older trainees.
+label: 0 (not entailment)
+
+D)
+sentence1: The older students were bullying the younger ones, so we rescued them.
+sentence2: We rescued the older students.
+label: 0 (not entailment)","sentence1: The senior pupils were tormenting the junior ones, so we saved them.
+sentence2: We saved the senior pupils.
+label: 0 (not entailment)","sentence1: The elder learners were intimidating the lesser ones, so we delivered them.
+sentence2: We delivered the elder learners.
+label: 0 (not entailment)","sentence1: The older trainees were harassing the younger ones, so we liberated them.
+sentence2: We liberated the older trainees.
+label: 0 (not entailment)","sentence1: The older students were bullying the younger ones, so we rescued them.
+sentence2: We rescued the older students.
+label: 0 (not entailment)"
+"They broadcast an announcement, but a subway came into the station and I couldn't hear over it.",I couldn't hear the subway.,1 (entailment),30,"sentence1: They broadcast an announcement, but a subway came into the station and I couldn't hear over it.
+sentence2: I couldn't hear the subway.
+label: 1 (entailment)","A)
+sentence1: They aired a proclamation, but a metro entered into the station and I wasn't able to hear over it.
+sentence2: I wasn't able to hear the metro.
+label: 1 (entailment)
+
+B)
+sentence1: They transmitted a declaration, but a train arrived at the station and I couldn't perceive it.
+sentence2: I couldn't perceive the train.
+label: 1 (entailment)
+
+C)
+sentence1: They disseminated an announcement, but a tube pulled into the station and I failed to hear above it.
+sentence2: I failed to hear the tube.
+label: 1 (entailment)
+
+D)
+sentence1: They broadcast an announcement, but a subway came into the station and I couldn't hear over it.
+sentence2: I couldn't hear the subway.
+label: 1 (entailment)","sentence1: They aired a proclamation, but a metro entered into the station and I wasn't able to hear over it.
+sentence2: I wasn't able to hear the metro.
+label: 1 (entailment)","sentence1: They transmitted a declaration, but a train arrived at the station and I couldn't perceive it.
+sentence2: I couldn't perceive the train.
+label: 1 (entailment)","sentence1: They disseminated an announcement, but a tube pulled into the station and I failed to hear above it.
+sentence2: I failed to hear the tube.
+label: 1 (entailment)","sentence1: They broadcast an announcement, but a subway came into the station and I couldn't hear over it.
+sentence2: I couldn't hear the subway.
+label: 1 (entailment)"
+"When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority.",The sponsors were very much in the majority.,0 (not entailment),10,"sentence1: When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority.
+sentence2: The sponsors were very much in the majority.
+label: 0 (not entailment)","A)
+sentence1: Upon the bill's advocates reaching the city center, they were astounded to discover the space packed with adversaries. They were primarily in the preponderance.
+sentence2: The bill's advocates were largely in the preponderance.
+label: 0 (not entailment)
+
+B) 
+sentence1: When the patrons of the legislation arrived at the municipal hall, they were shocked to learn that the place was crowded with antagonists. They were thoroughly in the dominance.
+sentence2: The patrons were thoroughly in the dominance.
+label: 0 (not entailment)
+
+C)
+sentence1: As the backers of the act showed up to the public building, they were astonished to find out that the chamber was filled with rivals. They were greatly in the bulk.
+sentence2: The backers were greatly in the bulk.
+label: 0 (not entailment)
+
+D)
+sentence1: When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority.
+sentence2: The sponsors were very much in the majority.
+label: 0 (not entailment)","sentence1: Upon the bill's advocates reaching the city center, they were astounded to discover the space packed with adversaries. They were primarily in the preponderance.
+sentence2: The bill's advocates were largely in the preponderance.
+label: 0 (not entailment)","sentence1: When the patrons of the legislation arrived at the municipal hall, they were shocked to learn that the place was crowded with antagonists. They were thoroughly in the dominance.
+sentence2: The patrons were thoroughly in the dominance.
+label: 0 (not entailment)","sentence1: As the backers of the act showed up to the public building, they were astonished to find out that the chamber was filled with rivals. They were greatly in the bulk.
+sentence2: The backers were greatly in the bulk.
+label: 0 (not entailment)","sentence1: When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority.
+sentence2: The sponsors were very much in the majority.
+label: 0 (not entailment)"
+"Fred and Alice had very warm down coats, but they were not enough for the cold in Alaska.",coats were not enough for the cold in Alaska.,1 (entailment),58,"sentence1: Fred and Alice had very warm down coats, but they were not enough for the cold in Alaska.
+sentence2: coats were not enough for the cold in Alaska.
+label: 1 (entailment)","A)
+sentence1: Fred and Alice owned extremely cozy feather jackets, but they were insufficient for the chill in Alaska.
+sentence2: jackets were insufficient for the chill in Alaska.
+label: 1 (entailment)
+
+B)
+sentence1: Fred and Alice possessed very hot down outerwear, but it did not suffice for the frost in Alaska.
+sentence2: outerwear did not suffice for the frost in Alaska.
+label: 1 (entailment)
+
+C)
+sentence1: Fred and Alice held very heated down garments, but these were inadequate for the iciness in Alaska.
+sentence2: garments were inadequate for the iciness in Alaska.
+label: 1 (entailment)
+
+D)
+sentence1: Fred and Alice had very warm down coats, but they were not enough for the cold in Alaska.
+sentence2: coats were not enough for the cold in Alaska.
+label: 1 (entailment)","sentence1: Fred and Alice owned extremely cozy feather jackets, but they were insufficient for the chill in Alaska.
+sentence2: jackets were insufficient for the chill in Alaska.
+label: 1 (entailment)","sentence1: Fred and Alice possessed very hot down outerwear, but it did not suffice for the frost in Alaska.
+sentence2: outerwear did not suffice for the frost in Alaska.
+label: 1 (entailment)","sentence1: Fred and Alice held very heated down garments, but these were inadequate for the iciness in Alaska.
+sentence2: garments were inadequate for the iciness in Alaska.
+label: 1 (entailment)","sentence1: Fred and Alice had very warm down coats, but they were not enough for the cold in Alaska.
+sentence2: coats were not enough for the cold in Alaska.
+label: 1 (entailment)"
+"Alice looked for her friend Jade in the crowd. Since she always wears a red turban, Alice spotted her quickly.","Since Alice always wears a red turban, Alice spotted her quickly.",0 (not entailment),67,"sentence1: Alice looked for her friend Jade in the crowd. Since she always wears a red turban, Alice spotted her quickly.
+sentence2: Since Alice always wears a red turban, Alice spotted her quickly.
+label: 0 (not entailment)","A)
+sentence1: Alice searched for her buddy Jade amidst the masses. Given that she persistently dons a red headwrap, Alice identified her rapidly.
+sentence2: Given that Alice persistently dons a red headwrap, Alice identified her rapidly.
+label: 0 (not entailment)
+
+B)
+sentence1: Alice scoured for her mate Jade within the swarm. As she invariably adorns a red bandana, Alice detected her swiftly.
+sentence2: As Alice invariably adorns a red bandana, Alice detected her swiftly.
+label: 0 (not entailment)
+
+C)
+sentence1: Alice hunted for her pal Jade among the throng. Seeing that she never fails to wear a red headdress, Alice noticed her promptly.
+sentence2: Seeing that Alice never fails to wear a red headdress, Alice noticed her promptly.
+label: 0 (not entailment)
+
+D)
+sentence1: Alice looked for her friend Jade in the crowd. Since she always wears a red turban, Alice spotted her quickly.
+sentence2: Since Alice always wears a red turban, Alice spotted her quickly.
+label: 0 (not entailment)","sentence1: Alice searched for her buddy Jade amidst the masses. Given that she persistently dons a red headwrap, Alice identified her rapidly.
+sentence2: Given that Alice persistently dons a red headwrap, Alice identified her rapidly.
+label: 0 (not entailment)","sentence1: Alice scoured for her mate Jade within the swarm. As she invariably adorns a red bandana, Alice detected her swiftly.
+sentence2: As Alice invariably adorns a red bandana, Alice detected her swiftly.
+label: 0 (not entailment)","sentence1: Alice hunted for her pal Jade among the throng. Seeing that she never fails to wear a red headdress, Alice noticed her promptly.
+sentence2: Seeing that Alice never fails to wear a red headdress, Alice noticed her promptly.
+label: 0 (not entailment)","sentence1: Alice looked for her friend Jade in the crowd. Since she always wears a red turban, Alice spotted her quickly.
+sentence2: Since Alice always wears a red turban, Alice spotted her quickly.
+label: 0 (not entailment)"
+"When Tommy dropped his ice cream, Timmy giggled, so father gave him a stern look.",Father gave Timmy a stern look.,1 (entailment),6,"sentence1: When Tommy dropped his ice cream, Timmy giggled, so father gave him a stern look.
+sentence2: Father gave Timmy a stern look.
+label: 1 (entailment)","A)
+sentence1: When Tommy let his ice cream fall, Timmy laughed, hence, dad directed at him a severe gaze.
+sentence2: Dad directed at Timmy a severe gaze.
+label: 1 (entailment)
+
+B)
+sentence1: When Tommy lost his ice cream, Timmy sniggered, therefore, papa gave him a harsh stare.
+sentence2: Papa gave Timmy a harsh stare.
+label: 1 (entailment)
+
+C)
+sentence1: When Tommy dropped his dessert, Timmy chortled, as a result, father handed him a serious glance.
+sentence2: Father handed Timmy a serious glance.
+label: 1 (entailment)
+
+D)
+sentence1: When Tommy dropped his ice cream, Timmy giggled, so father gave him a stern look.
+sentence2: Father gave Timmy a stern look.
+label: 1 (entailment)","sentence1: When Tommy let his ice cream fall, Timmy laughed, hence, dad directed at him a severe gaze.
+sentence2: Dad directed at Timmy a severe gaze.
+label: 1 (entailment)","sentence1: When Tommy lost his ice cream, Timmy sniggered, therefore, papa gave him a harsh stare.
+sentence2: Papa gave Timmy a harsh stare.
+label: 1 (entailment)","sentence1: When Tommy dropped his dessert, Timmy chortled, as a result, father handed him a serious glance.
+sentence2: Father handed Timmy a serious glance.
+label: 1 (entailment)","sentence1: When Tommy dropped his ice cream, Timmy giggled, so father gave him a stern look.
+sentence2: Father gave Timmy a stern look.
+label: 1 (entailment)"
+"Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.",Bernard was less than 21 when he filed for a homestead claim.,1 (entailment),38,"sentence1: Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.
+sentence2: Bernard was less than 21 when he filed for a homestead claim.
+label: 1 (entailment)","A)
+sentence1: Bernard, who had not informed the state bureaucrat that he was under 21 when he registered for a property pledge, didn't think he had committed any deceitful act. However, anyone aware that he was 19 years old could deprive him of his claim.
+sentence2: Bernard was under 21 when he registered for a property pledge.
+label: 1 (entailment)
+
+B)
+sentence1: Bernard, without confessing to the administration representative about being below 21 at the time he applied for a land declaration, believed he hadn't acted in an untruthful manner. Yet, someone knowing that his age was 19 could strip him of his claim.
+sentence2: Bernard was below 21 when he applied for a land declaration.
+label: 1 (entailment)
+
+C)
+sentence1: Bernard, refraining from stating to the government agent that his age was less than 21 when lodging a homestead request, did not think he had been dishonest. Nonetheless, anyone discerning he was 19 could seize his claim.
+sentence2: Bernard was less than 21 when he lodged the homestead request.
+label: 1 (entailment)
+
+D)
+sentence1: Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.
+sentence2: Bernard was less than 21 when he filed for a homestead claim.
+label: 1 (entailment)","sentence1: Bernard, who had not informed the state bureaucrat that he was under 21 when he registered for a property pledge, didn't think he had committed any deceitful act. However, anyone aware that he was 19 years old could deprive him of his claim.
+sentence2: Bernard was under 21 when he registered for a property pledge.
+label: 1 (entailment)","sentence1: Bernard, without confessing to the administration representative about being below 21 at the time he applied for a land declaration, believed he hadn't acted in an untruthful manner. Yet, someone knowing that his age was 19 could strip him of his claim.
+sentence2: Bernard was below 21 when he applied for a land declaration.
+label: 1 (entailment)","sentence1: Bernard, refraining from stating to the government agent that his age was less than 21 when lodging a homestead request, did not think he had been dishonest. Nonetheless, anyone discerning he was 19 could seize his claim.
+sentence2: Bernard was less than 21 when he lodged the homestead request.
+label: 1 (entailment)","sentence1: Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.
+sentence2: Bernard was less than 21 when he filed for a homestead claim.
+label: 1 (entailment)"
+Madonna fired her trainer because she slept with her boyfriend.,She slept with the trainer's boyfriend.,0 (not entailment),60,"sentence1: Madonna fired her trainer because she slept with her boyfriend.
+sentence2: She slept with the trainer's boyfriend.
+label: 0 (not entailment)","A)
+sentence1: Madonna dismissed her coach because she had relations with her beau.
+sentence2: She had relations with the coach's beau.
+label: 0 (not entailment)
+
+B)
+sentence1: Madonna discharged her instructor since she shared a bed with her significant other.
+sentence2: She shared a bed with the instructor's significant other.
+label: 0 (not entailment)
+
+C)
+sentence1: Madonna terminated her trainer as she was intimate with her partner.
+sentence2: She was intimate with the trainer's partner.
+label: 0 (not entailment)
+
+D)
+sentence1: Madonna fired her trainer because she slept with her boyfriend.
+sentence2: She slept with the trainer's boyfriend.
+label: 0 (not entailment)","sentence1: Madonna dismissed her coach because she had relations with her beau.
+sentence2: She had relations with the coach's beau.
+label: 0 (not entailment)","sentence1: Madonna discharged her instructor since she shared a bed with her significant other.
+sentence2: She shared a bed with the instructor's significant other.
+label: 0 (not entailment)","sentence1: Madonna terminated her trainer as she was intimate with her partner.
+sentence2: She was intimate with the trainer's partner.
+label: 0 (not entailment)","sentence1: Madonna fired her trainer because she slept with her boyfriend.
+sentence2: She slept with the trainer's boyfriend.
+label: 0 (not entailment)"
+I can't cut that tree down with that axe; it is too thick.,The tree is too thick.,1 (entailment),11,"sentence1: I can't cut that tree down with that axe; it is too thick.
+sentence2: The tree is too thick.
+label: 1 (entailment)","A)
+sentence1: I am unable to fell that tree using that hatchet; it is excessively dense.
+sentence2: The tree is too dense.
+label: 1 (entailment)
+
+B)
+sentence1: I can't chop down that tree with that ax; it's overly broad.
+sentence2: The tree is overly broad.
+label: 1 (entailment)
+
+C)
+sentence1: I can't bring down that tree with that axe; it is too stout.
+sentence2: The tree is too stout.
+label: 1 (entailment)
+
+D)
+sentence1: I can't cut that tree down with that axe; it is too thick.
+sentence2: The tree is too thick.
+label: 1 (entailment)","sentence1: I am unable to fell that tree using that hatchet; it is excessively dense.
+sentence2: The tree is too dense.
+label: 1 (entailment)","sentence1: I can't chop down that tree with that ax; it's overly broad.
+sentence2: The tree is overly broad.
+label: 1 (entailment)","sentence1: I can't bring down that tree with that axe; it is too stout.
+sentence2: The tree is too stout.
+label: 1 (entailment)","sentence1: I can't cut that tree down with that axe; it is too thick.
+sentence2: The tree is too thick.
+label: 1 (entailment)"
+"Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.",He couldn't afford the things.,1 (entailment),54,"sentence1: Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.
+sentence2: He couldn't afford the things.
+label: 1 (entailment)","A)
+sentence1: Dad gazed at the kids' expressions, now so confused and unhappy. It was terrible enough that they had to forego numerous items because he couldn't finance them.
+sentence2: He couldn't finance the items.
+label: 1 (entailment)
+
+B)
+sentence1: Father peered at the youngsters' countenances, currently so bewildered and melancholy. It was awful enough that they had to give up so much because he couldn't pay for them. 
+sentence2: He couldn't pay for the things. 
+label: 1 (entailment)
+
+C)
+sentence1: Pop surveyed the juveniles' features, so mystified and sorrowful at present. It was dreadful enough that they had to relinquish various essentials because he couldn't meet their costs.
+sentence2: He couldn't meet the costs of the things. 
+label: 1 (entailment)
+
+D)
+sentence1: Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.
+sentence2: He couldn't afford the things.
+label: 1 (entailment)","sentence1: Dad gazed at the kids' expressions, now so confused and unhappy. It was terrible enough that they had to forego numerous items because he couldn't finance them.
+sentence2: He couldn't finance the items.
+label: 1 (entailment)","sentence1: Father peered at the youngsters' countenances, currently so bewildered and melancholy. It was awful enough that they had to give up so much because he couldn't pay for them. 
+sentence2: He couldn't pay for the things. 
+label: 1 (entailment)","sentence1: Pop surveyed the juveniles' features, so mystified and sorrowful at present. It was dreadful enough that they had to relinquish various essentials because he couldn't meet their costs.
+sentence2: He couldn't meet the costs of the things. 
+label: 1 (entailment)","sentence1: Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.
+sentence2: He couldn't afford the things.
+label: 1 (entailment)"
+Emma did not pass the ball to Janie although she was open.,She saw that Emma was open.,0 (not entailment),41,"sentence1: Emma did not pass the ball to Janie although she was open.
+sentence2: She saw that Emma was open.
+label: 0 (not entailment)","A)
+sentence1: Emma failed to throw the ball to Janie even though she was unguarded.
+sentence2: She noticed that Emma was unobstructed.
+label: 0 (not entailment)
+
+B)
+sentence1: Emma didn't deliver the ball to Janie despite the fact that she was accessible.
+sentence2: She observed that Emma was available.
+label: 0 (not entailment)
+
+C)
+sentence1: Emma refrained from dispatching the ball to Janie though she was in a clear position.
+sentence2: She recognized that Emma was in a free spot.
+label: 0 (not entailment)
+
+D)
+sentence1: Emma did not pass the ball to Janie although she was open.
+sentence2: She saw that Emma was open.
+label: 0 (not entailment)","sentence1: Emma failed to throw the ball to Janie even though she was unguarded.
+sentence2: She noticed that Emma was unobstructed.
+label: 0 (not entailment)","sentence1: Emma didn't deliver the ball to Janie despite the fact that she was accessible.
+sentence2: She observed that Emma was available.
+label: 0 (not entailment)","sentence1: Emma refrained from dispatching the ball to Janie though she was in a clear position.
+sentence2: She recognized that Emma was in a free spot.
+label: 0 (not entailment)","sentence1: Emma did not pass the ball to Janie although she was open.
+sentence2: She saw that Emma was open.
+label: 0 (not entailment)"
+"The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.",The mouse was too cautious.,1 (entailment),46,"sentence1: The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.
+sentence2: The mouse was too cautious.
+label: 1 (entailment)","A)
+sentence1: The feline was lounging near the rodent opening anticipating the rodent, but it was overly careful.
+sentence2: The rodent was overly careful.
+label: 1 (entailment)
+
+B)
+sentence1: The tomcat was resting beside the mouse gap expecting the mouse, but it was too wary.
+sentence2: The mouse was too wary.
+label: 1 (entailment)
+
+C)
+sentence1: The kitty was lying adjacent to the mice hole awaiting the mouse, but it was extra vigilant.
+sentence2: The mouse was extra vigilant.
+label: 1 (entailment)
+
+D)
+sentence1: The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.
+sentence2: The mouse was too cautious.
+label: 1 (entailment)","sentence1: The feline was lounging near the rodent opening anticipating the rodent, but it was overly careful.
+sentence2: The rodent was overly careful.
+label: 1 (entailment)","sentence1: The tomcat was resting beside the mouse gap expecting the mouse, but it was too wary.
+sentence2: The mouse was too wary.
+label: 1 (entailment)","sentence1: The kitty was lying adjacent to the mice hole awaiting the mouse, but it was extra vigilant.
+sentence2: The mouse was extra vigilant.
+label: 1 (entailment)","sentence1: The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.
+sentence2: The mouse was too cautious.
+label: 1 (entailment)"
+"George got free tickets to the play, but he gave them to Eric, even though he was particularly eager to see it.",Eric was particularly eager to see it.,0 (not entailment),22,"sentence1: George got free tickets to the play, but he gave them to Eric, even though he was particularly eager to see it.
+sentence2: Eric was particularly eager to see it.
+label: 0 (not entailment)","A)
+sentence1: George acquired complimentary passes for the drama, but he handed them over to Eric, in spite of his pronounced keenness to watch it.
+sentence2: Eric was notably keen to watch it.
+label: 0 (not entailment)
+
+B)
+sentence1: George obtained costless admissions to the theatrical show, but he bestowed them upon Eric, despite his specific desire to attend.
+sentence2: Eric was especially desirous to attend.
+label: 0 (not entailment)
+
+C)
+sentence1: George received free entry for the stage show, but he passed them to Eric, even though he was particularly excited to witness it.
+sentence2: Eric was particularly excited to witness it.
+label: 0 (not entailment)
+
+D)
+sentence1: George got free tickets to the play, but he gave them to Eric, even though he was particularly eager to see it.
+sentence2: Eric was particularly eager to see it.
+label: 0 (not entailment)","sentence1: George acquired complimentary passes for the drama, but he handed them over to Eric, in spite of his pronounced keenness to watch it.
+sentence2: Eric was notably keen to watch it.
+label: 0 (not entailment)","sentence1: George obtained costless admissions to the theatrical show, but he bestowed them upon Eric, despite his specific desire to attend.
+sentence2: Eric was especially desirous to attend.
+label: 0 (not entailment)","sentence1: George received free entry for the stage show, but he passed them to Eric, even though he was particularly excited to witness it.
+sentence2: Eric was particularly excited to witness it.
+label: 0 (not entailment)","sentence1: George got free tickets to the play, but he gave them to Eric, even though he was particularly eager to see it.
+sentence2: Eric was particularly eager to see it.
+label: 0 (not entailment)"
+"Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.",He no longer requires Chester's financial support.,0 (not entailment),19,"sentence1: Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.
+sentence2: He no longer requires Chester's financial support.
+label: 0 (not entailment)","A)
+sentence1: Mr. Moncrieff paid a visit to Chester's plush New York flat, assuming that it was owned by his offspring, Edward. Consequently, Mr. Moncrieff has resolved to terminate Edward's financial aid under the notion that his monetary assistance is no longer needed.
+sentence2: He doesn't need Chester's fiscal aid anymore.
+label: 0 (not entailment)
+
+B)
+sentence1: Mr. Moncrieff stopped by at Chester's lavish New York condo, under the impression it was Edward's, his child. This led to Mr. Moncrieff's decision to call off Edward's stipend as he believed Edward no longer required his pecuniary backing. 
+sentence2: He doesn't require Chester's monetary help anymore.
+label: 0 (not entailment)
+
+C)
+sentence1: Mr. Moncrieff made a trip to Chester's opulent New York suite, contemplating it belonged to Edward, his progeny. The upshot was that Moncrieff took a stand to halt Edward's subsidy, believing he doesn't crave for his financial patronage anymore.
+sentence2: He no longer needs Chester's economic support.
+label: 0 (not entailment)
+
+D)
+sentence1: Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.
+sentence2: He no longer requires Chester's financial support.
+label: 0 (not entailment)","sentence1: Mr. Moncrieff paid a visit to Chester's plush New York flat, assuming that it was owned by his offspring, Edward. Consequently, Mr. Moncrieff has resolved to terminate Edward's financial aid under the notion that his monetary assistance is no longer needed.
+sentence2: He doesn't need Chester's fiscal aid anymore.
+label: 0 (not entailment)","sentence1: Mr. Moncrieff stopped by at Chester's lavish New York condo, under the impression it was Edward's, his child. This led to Mr. Moncrieff's decision to call off Edward's stipend as he believed Edward no longer required his pecuniary backing. 
+sentence2: He doesn't require Chester's monetary help anymore.
+label: 0 (not entailment)","sentence1: Mr. Moncrieff made a trip to Chester's opulent New York suite, contemplating it belonged to Edward, his progeny. The upshot was that Moncrieff took a stand to halt Edward's subsidy, believing he doesn't crave for his financial patronage anymore.
+sentence2: He no longer needs Chester's economic support.
+label: 0 (not entailment)","sentence1: Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.
+sentence2: He no longer requires Chester's financial support.
+label: 0 (not entailment)"
+I'm sure that my map will show this building; it is very famous.,The building is very famous.,1 (entailment),35,"sentence1: I'm sure that my map will show this building; it is very famous.
+sentence2: The building is very famous.
+label: 1 (entailment)","A)
+sentence1: I'm confident that my chart will indicate this structure; it is extremely well-known.
+sentence2: The structure is extremely well-known.
+label: 1 (entailment)
+
+B)
+sentence1: I'm certain that my diagram will display this edifice; it is very renowned.
+sentence2: The edifice is very renowned.
+label: 1 (entailment)
+
+C)
+sentence1: I'm convinced that my blueprint will reveal this premises; it is notably recognized.
+sentence2: The premises is notably recognized.
+label: 1 (entailment)
+
+D)
+sentence1: I'm sure that my map will show this building; it is very famous.
+sentence2: The building is very famous.
+label: 1 (entailment)","sentence1: I'm confident that my chart will indicate this structure; it is extremely well-known.
+sentence2: The structure is extremely well-known.
+label: 1 (entailment)","sentence1: I'm certain that my diagram will display this edifice; it is very renowned.
+sentence2: The edifice is very renowned.
+label: 1 (entailment)","sentence1: I'm convinced that my blueprint will reveal this premises; it is notably recognized.
+sentence2: The premises is notably recognized.
+label: 1 (entailment)","sentence1: I'm sure that my map will show this building; it is very famous.
+sentence2: The building is very famous.
+label: 1 (entailment)"
+The drain is clogged with hair. It has to be cleaned.,The hair has to be cleaned.,0 (not entailment),0,"sentence1: The drain is clogged with hair. It has to be cleaned.
+sentence2: The hair has to be cleaned.
+label: 0 (not entailment)","A)
+sentence1: The outlet is blocked with strands. It needs to be cleaned.
+sentence2: The strands need to be cleaned.
+label: 0 (not entailment)
+
+B)
+sentence1: The conduit is jammed with strands. It requires cleaning.
+sentence2: The strands require cleaning.
+label: 0 (not entailment)
+
+C)
+sentence1: The sewer is obstructed with tresses. It must be tidied up.
+sentence2: The tresses must be tidied up.
+label: 0 (not entailment)
+
+D)
+sentence1: The drain is clogged with hair. It has to be cleaned.
+sentence2: The hair has to be cleaned.
+label: 0 (not entailment)","sentence1: The outlet is blocked with strands. It needs to be cleaned.
+sentence2: The strands need to be cleaned.
+label: 0 (not entailment)","sentence1: The conduit is jammed with strands. It requires cleaning.
+sentence2: The strands require cleaning.
+label: 0 (not entailment)","sentence1: The sewer is obstructed with tresses. It must be tidied up.
+sentence2: The tresses must be tidied up.
+label: 0 (not entailment)","sentence1: The drain is clogged with hair. It has to be cleaned.
+sentence2: The hair has to be cleaned.
+label: 0 (not entailment)"
+"Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers.",The sheep ended up looking more like golfers.,0 (not entailment),47,"sentence1: Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers.
+sentence2: The sheep ended up looking more like golfers.
+label: 0 (not entailment)","A)
+sentence1: Sam endeavored to illustrate a depiction of shepherds with sheep, but they ended up appearing more like golfers.
+sentence2: The sheep ended up appearing more like golfers.
+label: 0 (not entailment)
+
+B)
+sentence1: Sam attempted to render a representation of shepherds with sheep, but they ultimately looked more like golfers.
+sentence2: The sheep ultimately looked more like golfers.
+label: 0 (not entailment)
+
+C)
+sentence1: Sam tried to create a portrayal of shepherds with sheep, but they eventually resembled more like golfers.
+sentence2: The sheep eventually resembled more like golfers.
+label: 0 (not entailment)
+
+D)
+sentence1: Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers.
+sentence2: The sheep ended up looking more like golfers.
+label: 0 (not entailment)","sentence1: Sam endeavored to illustrate a depiction of shepherds with sheep, but they ended up appearing more like golfers.
+sentence2: The sheep ended up appearing more like golfers.
+label: 0 (not entailment)","sentence1: Sam attempted to render a representation of shepherds with sheep, but they ultimately looked more like golfers.
+sentence2: The sheep ultimately looked more like golfers.
+label: 0 (not entailment)","sentence1: Sam tried to create a portrayal of shepherds with sheep, but they eventually resembled more like golfers.
+sentence2: The sheep eventually resembled more like golfers.
+label: 0 (not entailment)","sentence1: Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers.
+sentence2: The sheep ended up looking more like golfers.
+label: 0 (not entailment)"
+"When they had eventually calmed down a bit, and had gotten home, Mr. Farley put the magic pebble in an iron safe. Some day they might want to use it , but really for now, what more could they wish for?",Some day they might want to use the safe.,0 (not entailment),49,"sentence1: When they had eventually calmed down a bit, and had gotten home, Mr. Farley put the magic pebble in an iron safe. Some day they might want to use it , but really for now, what more could they wish for?
+sentence2: Some day they might want to use the safe.
+label: 0 (not entailment)","A)
+sentence1: Once they had finally tranquilized somewhat, and had returned home, Mr. Farley stowed the enchanted stone in a metal safe. Perhaps one day they would desire to utilize it, but genuinely for the moment, what else could they desire?
+sentence2: At some point, they might wish to employ the safe.
+label: 0 (not entailment)
+
+B)
+sentence1: After they had at last calmed considerably, and had made it home, Mr. Farley placed the magical rock in a steel strongbox. Someday they might opt to use it, but truly at present, what additional could they aspire for?
+sentence2: Eventually, they might decide to access the strongbox.
+label: 0 (not entailment)
+
+C)
+sentence1: Upon eventually calming themselves, and after reaching home, Mr. Farley inserted the bewitched pebble into a metallic lockbox. They may want to avail it someday, but actually at this time, what further could they hope for?
+sentence2: They might want to put the lockbox into use someday.
+label: 0 (not entailment)
+
+D)
+sentence1: When they had eventually calmed down a bit, and had gotten home, Mr. Farley put the magic pebble in an iron safe. Some day they might want to use it , but really for now, what more could they wish for?
+sentence2: Some day they might want to use the safe.
+label: 0 (not entailment)","sentence1: Once they had finally tranquilized somewhat, and had returned home, Mr. Farley stowed the enchanted stone in a metal safe. Perhaps one day they would desire to utilize it, but genuinely for the moment, what else could they desire?
+sentence2: At some point, they might wish to employ the safe.
+label: 0 (not entailment)","sentence1: After they had at last calmed considerably, and had made it home, Mr. Farley placed the magical rock in a steel strongbox. Someday they might opt to use it, but truly at present, what additional could they aspire for?
+sentence2: Eventually, they might decide to access the strongbox.
+label: 0 (not entailment)","sentence1: Upon eventually calming themselves, and after reaching home, Mr. Farley inserted the bewitched pebble into a metallic lockbox. They may want to avail it someday, but actually at this time, what further could they hope for?
+sentence2: They might want to put the lockbox into use someday.
+label: 0 (not entailment)","sentence1: When they had eventually calmed down a bit, and had gotten home, Mr. Farley put the magic pebble in an iron safe. Some day they might want to use it , but really for now, what more could they wish for?
+sentence2: Some day they might want to use the safe.
+label: 0 (not entailment)"
+The police arrested all of the gang members. They were trying to run the drug trade in the neighborhood.,The police were trying to run the drug trade in the neighborhood.,0 (not entailment),45,"sentence1: The police arrested all of the gang members. They were trying to run the drug trade in the neighborhood.
+sentence2: The police were trying to run the drug trade in the neighborhood.
+label: 0 (not entailment)","A)
+sentence1: The police apprehended all of the gang affiliates. They were attempting to control the drug commerce in the community.
+sentence2: The police were attempting to control the drug commerce in the community.
+label: 0 (not entailment)
+
+B)
+sentence1: The law enforcement detained all the mob participants. They were aiming to command the drug transactions in the locality.
+sentence2: The law enforcement was aiming to command the drug transactions in the locality.
+label: 0 (not entailment)
+
+C)
+sentence1: The policemen captured all the syndicate operatives. They were endeavouring to administer the drug business in the district.
+sentence2: The policemen were endeavouring to administer the drug business in the district.
+label: 0 (not entailment)
+
+D)
+sentence1: The police arrested all of the gang members. They were trying to run the drug trade in the neighborhood.
+sentence2: The police were trying to run the drug trade in the neighborhood.
+label: 0 (not entailment)","sentence1: The police apprehended all of the gang affiliates. They were attempting to control the drug commerce in the community.
+sentence2: The police were attempting to control the drug commerce in the community.
+label: 0 (not entailment)","sentence1: The law enforcement detained all the mob participants. They were aiming to command the drug transactions in the locality.
+sentence2: The law enforcement was aiming to command the drug transactions in the locality.
+label: 0 (not entailment)","sentence1: The policemen captured all the syndicate operatives. They were endeavouring to administer the drug business in the district.
+sentence2: The policemen were endeavouring to administer the drug business in the district.
+label: 0 (not entailment)","sentence1: The police arrested all of the gang members. They were trying to run the drug trade in the neighborhood.
+sentence2: The police were trying to run the drug trade in the neighborhood.
+label: 0 (not entailment)"
+The large ball crashed right through the table because it was made of styrofoam.,The large ball was made of styrofoam.,0 (not entailment),12,"sentence1: The large ball crashed right through the table because it was made of styrofoam.
+sentence2: The large ball was made of styrofoam.
+label: 0 (not entailment)","A)
+sentence1: The huge sphere broke directly in the desk because it was manufactured of foam plastic.
+sentence2: The huge sphere was manufactured of foam plastic.
+label: 0 (not entailment)
+
+B)
+sentence1: The big orb smashed straight through the counter since it was made from polystyrene foam.
+sentence2: The big orb was made from polystyrene foam.
+label: 0 (not entailment)
+
+C)
+sentence1: The enormous globe wreaked havoc right into the stand for it was constructed of foam.
+sentence2: The enormous globe was constructed of foam.
+label: 0 (not entailment)
+
+D)
+sentence1: The large ball crashed right through the table because it was made of styrofoam.
+sentence2: The large ball was made of styrofoam.
+label: 0 (not entailment)","sentence1: The huge sphere broke directly in the desk because it was manufactured of foam plastic.
+sentence2: The huge sphere was manufactured of foam plastic.
+label: 0 (not entailment)","sentence1: The big orb smashed straight through the counter since it was made from polystyrene foam.
+sentence2: The big orb was made from polystyrene foam.
+label: 0 (not entailment)","sentence1: The enormous globe wreaked havoc right into the stand for it was constructed of foam.
+sentence2: The enormous globe was constructed of foam.
+label: 0 (not entailment)","sentence1: The large ball crashed right through the table because it was made of styrofoam.
+sentence2: The large ball was made of styrofoam.
+label: 0 (not entailment)"
+Sam's drawing was hung just above Tina's and it did look much better with another one below it.,Tina's drawing did look much better with another one below it.,0 (not entailment),53,"sentence1: Sam's drawing was hung just above Tina's and it did look much better with another one below it.
+sentence2: Tina's drawing did look much better with another one below it.
+label: 0 (not entailment)","A)
+sentence1: Sam's sketch was displayed just over Tina's and it did appear significantly better with another one underneath it.
+sentence2: Tina's sketch did appear significantly better with another one underneath it.
+label: 0 (not entailment)
+
+B)
+sentence1: Sam's artwork was showcased just atop Tina's and it did seem greatly improved with another one beneath it.
+sentence2: Tina's artwork did seem greatly improved with another one beneath it.
+label: 0 (not entailment)
+
+C)
+sentence1: Sam's illustration was positioned just above Tina's and it did appear much enhanced with another one below it.
+sentence2: Tina's illustration did appear much enhanced with another one below it.
+label: 0 (not entailment)
+
+D)
+sentence1: Sam's drawing was hung just above Tina's and it did look much better with another one below it.
+sentence2: Tina's drawing did look much better with another one below it.
+label: 0 (not entailment)","sentence1: Sam's sketch was displayed just over Tina's and it did appear significantly better with another one underneath it.
+sentence2: Tina's sketch did appear significantly better with another one underneath it.
+label: 0 (not entailment)","sentence1: Sam's artwork was showcased just atop Tina's and it did seem greatly improved with another one beneath it.
+sentence2: Tina's artwork did seem greatly improved with another one beneath it.
+label: 0 (not entailment)","sentence1: Sam's illustration was positioned just above Tina's and it did appear much enhanced with another one below it.
+sentence2: Tina's illustration did appear much enhanced with another one below it.
+label: 0 (not entailment)","sentence1: Sam's drawing was hung just above Tina's and it did look much better with another one below it.
+sentence2: Tina's drawing did look much better with another one below it.
+label: 0 (not entailment)"
+Madonna fired her trainer because she slept with her boyfriend.,Madonna slept with her boyfriend.,0 (not entailment),14,"sentence1: Madonna fired her trainer because she slept with her boyfriend.
+sentence2: Madonna slept with her boyfriend.
+label: 0 (not entailment)","A)
+sentence1: Madonna dismissed her coach since she had an affair with her lover.
+sentence2: Madonna had an affair with her lover.
+label: 0 (not entailment)
+
+B)
+sentence1: Madonna released her instructor due to her sleeping with her paramour.
+sentence2: Madonna slept with her paramour.
+label: 0 (not entailment)
+
+C)
+sentence1: Madonna let go of her trainer because she shared a bed with her beau.
+sentence2: Madonna shared a bed with her beau.
+label: 0 (not entailment)
+
+D)
+sentence1: Madonna fired her trainer because she slept with her boyfriend.
+sentence2: Madonna slept with her boyfriend.
+label: 0 (not entailment)","sentence1: Madonna dismissed her coach since she had an affair with her lover.
+sentence2: Madonna had an affair with her lover.
+label: 0 (not entailment)","sentence1: Madonna released her instructor due to her sleeping with her paramour.
+sentence2: Madonna slept with her paramour.
+label: 0 (not entailment)","sentence1: Madonna let go of her trainer because she shared a bed with her beau.
+sentence2: Madonna shared a bed with her beau.
+label: 0 (not entailment)","sentence1: Madonna fired her trainer because she slept with her boyfriend.
+sentence2: Madonna slept with her boyfriend.
+label: 0 (not entailment)"
+"I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.",The lemon trees came out looking more like light bulbs.,0 (not entailment),13,"sentence1: I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.
+sentence2: The lemon trees came out looking more like light bulbs.
+label: 0 (not entailment)","A)
+sentence1: I attempted to illustrate an image of a plantation, with lemons among the citrus trees, but they ended up appearing more like lamps.
+sentence2: The citrus trees ended up appearing more like lamps.
+label: 0 (not entailment)
+
+B)
+sentence1: I endeavored to render a depiction of a groove, with lemons on the lemon trees, however they appeared more akin to light bulbs.
+sentence2: The lemon trees appeared more akin to light bulbs.
+label: 0 (not entailment)
+
+C)
+sentence1: I strove to sketch a scene of an orchard, with lemons hanging from the lemon trees, but they seemed more like illuminated spheres.
+sentence2: The lemon trees seemed more like illuminated spheres.
+label: 0 (not entailment)
+
+D)
+sentence1: I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.
+sentence2: The lemon trees came out looking more like light bulbs.
+label: 0 (not entailment)","sentence1: I attempted to illustrate an image of a plantation, with lemons among the citrus trees, but they ended up appearing more like lamps.
+sentence2: The citrus trees ended up appearing more like lamps.
+label: 0 (not entailment)","sentence1: I endeavored to render a depiction of a groove, with lemons on the lemon trees, however they appeared more akin to light bulbs.
+sentence2: The lemon trees appeared more akin to light bulbs.
+label: 0 (not entailment)","sentence1: I strove to sketch a scene of an orchard, with lemons hanging from the lemon trees, but they seemed more like illuminated spheres.
+sentence2: The lemon trees seemed more like illuminated spheres.
+label: 0 (not entailment)","sentence1: I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.
+sentence2: The lemon trees came out looking more like light bulbs.
+label: 0 (not entailment)"
+I poured water from the bottle into the cup until it was empty.,The bottle was empty.,1 (entailment),66,"sentence1: I poured water from the bottle into the cup until it was empty.
+sentence2: The bottle was empty.
+label: 1 (entailment)","A)
+sentence1: I transferred liquid from the container to the glass until it was vacant.
+sentence2: The container was vacant.
+label: 1 (entailment)
+
+B)
+sentence1: I decanted liquid from the flask into the mug until it was devoid.
+sentence2: The flask was devoid.
+label: 1 (entailment)
+
+C)
+sentence1: I poured juice from the can into the tumbler until it was unoccupied.
+sentence2: The can was unoccupied.
+label: 1 (entailment)
+
+D)
+sentence1: I poured water from the bottle into the cup until it was empty.
+sentence2: The bottle was empty.
+label: 1 (entailment)","sentence1: I transferred liquid from the container to the glass until it was vacant.
+sentence2: The container was vacant.
+label: 1 (entailment)","sentence1: I decanted liquid from the flask into the mug until it was devoid.
+sentence2: The flask was devoid.
+label: 1 (entailment)","sentence1: I poured juice from the can into the tumbler until it was unoccupied.
+sentence2: The can was unoccupied.
+label: 1 (entailment)","sentence1: I poured water from the bottle into the cup until it was empty.
+sentence2: The bottle was empty.
+label: 1 (entailment)"
+"I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like telephone poles.",The lemons came out looking more like telephone poles.,0 (not entailment),36,"sentence1: I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like telephone poles.
+sentence2: The lemons came out looking more like telephone poles.
+label: 0 (not entailment)","A)
+sentence1: I attempted to illustrate a depiction of a grove, with lemons in the citrus trees, but they appeared more like telegraph posts.
+sentence2: The lemons appeared more like telegraph posts.
+label: 0 (not entailment)
+
+B)
+sentence1: I endeavored to paint a portrait of a fruit garden, with lemons in the lemon shrubs, however they turned out looking more akin to utility poles.
+sentence2: The lemons turned out looking more akin to utility poles.
+label: 0 (not entailment)
+
+C)
+sentence1: I strove to portray an image of a plantation, with lemons in the lemon plants, yet they emerged looking more equivalent to power poles.
+sentence2: The lemons emerged looking more equivalent to power poles.
+label: 0 (not entailment)
+
+D)
+sentence1: I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like telephone poles.
+sentence2: The lemons came out looking more like telephone poles.
+label: 0 (not entailment)","sentence1: I attempted to illustrate a depiction of a grove, with lemons in the citrus trees, but they appeared more like telegraph posts.
+sentence2: The lemons appeared more like telegraph posts.
+label: 0 (not entailment)","sentence1: I endeavored to paint a portrait of a fruit garden, with lemons in the lemon shrubs, however they turned out looking more akin to utility poles.
+sentence2: The lemons turned out looking more akin to utility poles.
+label: 0 (not entailment)","sentence1: I strove to portray an image of a plantation, with lemons in the lemon plants, yet they emerged looking more equivalent to power poles.
+sentence2: The lemons emerged looking more equivalent to power poles.
+label: 0 (not entailment)","sentence1: I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like telephone poles.
+sentence2: The lemons came out looking more like telephone poles.
+label: 0 (not entailment)"
+"In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it repaired.",Now I have to get The roof repaired.,1 (entailment),65,"sentence1: In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it repaired.
+sentence2: Now I have to get The roof repaired.
+label: 1 (entailment)","A)
+sentence1: Amid the tempest, the plant toppled over and smashed into the cover of my residence. At present, I must have it mended.
+sentence2: Currently I must have the canopy mended.
+label: 1 (entailment)
+
+B)
+sentence1: During the cyclone, the wood collapsed and slammed through the top of my dwelling. Now, I am obliged to get it fixed.
+sentence2: Now I am obliged to get the ceiling fixed.
+label: 1 (entailment)
+
+C)
+sentence1: In the gale, the timber came down and plowed through the ceiling of my crib. Now, I have to arrange for its repair.
+sentence2: Now I have to arrange for the top repair.
+label: 1 (entailment)
+
+D)
+sentence1: In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it repaired.
+sentence2: Now I have to get The roof repaired.
+label: 1 (entailment)","sentence1: Amid the tempest, the plant toppled over and smashed into the cover of my residence. At present, I must have it mended.
+sentence2: Currently I must have the canopy mended.
+label: 1 (entailment)","sentence1: During the cyclone, the wood collapsed and slammed through the top of my dwelling. Now, I am obliged to get it fixed.
+sentence2: Now I am obliged to get the ceiling fixed.
+label: 1 (entailment)","sentence1: In the gale, the timber came down and plowed through the ceiling of my crib. Now, I have to arrange for its repair.
+sentence2: Now I have to arrange for the top repair.
+label: 1 (entailment)","sentence1: In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it repaired.
+sentence2: Now I have to get The roof repaired.
+label: 1 (entailment)"
+Look! There is a minnow swimming right below that duck! It had better get away to safety fast!,The duck had better get away to safety fast!,0 (not entailment),8,"sentence1: Look! There is a minnow swimming right below that duck! It had better get away to safety fast!
+sentence2: The duck had better get away to safety fast!
+label: 0 (not entailment)","A)
+sentence1: Observe! A small fish is moving just beneath that waterfowl! It needs to escape to protection swiftly!
+sentence2: The waterfowl needs to escape to protection swiftly!
+label: 0 (not entailment)
+
+B)
+sentence1: Look out! A little aquatic creature is swimming right under that mallard! It must abscond to security immediately!
+sentence2: The mallard must abscond to security immediately!
+label: 0 (not entailment)
+
+C)
+sentence1: Take note! Under that quacker, a fry is fluttering about! It ought to skedaddle towards safety rapidly!
+sentence2: The quacker ought to skedaddle towards safety rapidly!
+label: 0 (not entailment)
+
+D)
+sentence1: Look! There is a minnow swimming right below that duck! It had better get away to safety fast!
+sentence2: The duck had better get away to safety fast!
+label: 0 (not entailment)","sentence1: Observe! A small fish is moving just beneath that waterfowl! It needs to escape to protection swiftly!
+sentence2: The waterfowl needs to escape to protection swiftly!
+label: 0 (not entailment)","sentence1: Look out! A little aquatic creature is swimming right under that mallard! It must abscond to security immediately!
+sentence2: The mallard must abscond to security immediately!
+label: 0 (not entailment)","sentence1: Take note! Under that quacker, a fry is fluttering about! It ought to skedaddle towards safety rapidly!
+sentence2: The quacker ought to skedaddle towards safety rapidly!
+label: 0 (not entailment)","sentence1: Look! There is a minnow swimming right below that duck! It had better get away to safety fast!
+sentence2: The duck had better get away to safety fast!
+label: 0 (not entailment)"

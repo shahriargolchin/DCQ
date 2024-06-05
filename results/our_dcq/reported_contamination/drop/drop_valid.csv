@@ -1,0 +1,1101 @@
+question,section_id,query_id,instance,generated_options,option_a,option_b,option_c,option_d,bdq_results,bcq_results_for_position_b,bcq_results_for_position_c,bcq_results_for_position_d
+"How many more whites were there than blacks, in percentage?",history_2187,b47bb9de-dcdf-4590-b4e2-d8aedf732110,"Question: How many more whites were there than blacks, in percentage?","A)
+Question: How many additional whites were there than blacks, in percentage?
+
+B)
+Question: How many supplementary whites were there than blacks, in percentage?
+
+C)
+Question: How many more Caucasians were there than African Americans, in terms of percentage?
+
+D)
+Question: What was the percentage difference between the number of whites and blacks?","Question: How many additional whites were there than blacks, in percentage?","Question: How many supplementary whites were there than blacks, in percentage?","Question: How many more Caucasians were there than African Americans, in terms of percentage?",Question: What was the percentage difference between the number of whites and blacks?,E,E,C,D
+Which ancestral groups are at least 10%?,history_2609,99ab1d37-75c3-4cbc-a7a7-57164e1ffbe2,Question: Which ancestral groups are at least 10%?,"A)
+Question: Which progenitor groups are at minimum 10%?
+
+B)
+Question: Which precursor groups are no less than 10%?
+
+C)
+Question: Which forefather groups are at the very least 10%?
+
+D)
+Question: Which antecedent groups are not below 10%?",Question: Which progenitor groups are at minimum 10%?,Question: Which precursor groups are no less than 10%?,Question: Which forefather groups are at the very least 10%?,Question: Which antecedent groups are not below 10%?,E,E,E,E
+"What happened first, he revived the Centenary Medal or the Kahin Prize?",history_936,e4848f6e-1b08-4204-b264-f79d18d6c2dc,"Question: What happened first, he revived the Centenary Medal or the Kahin Prize?","A)
+Question: What occured first, he rejuvenated the Centenary Medal or the Kahin Prize?
+
+B)
+Question: What transpired first, he restored the Centenary Medal or the Kahin Prize?
+
+C)
+Question: What happened initially, he revived the Centenary Medal or the Kahin Prize?
+
+D)
+Question: What event took place first, he rekindled the Centenary Medal or the Kahin Prize?","Question: What occured first, he rejuvenated the Centenary Medal or the Kahin Prize?","Question: What transpired first, he restored the Centenary Medal or the Kahin Prize?","Question: What happened initially, he revived the Centenary Medal or the Kahin Prize?","Question: What event took place first, he rekindled the Centenary Medal or the Kahin Prize?",E,A,E,A
+Who kicked most number of field goals?,nfl_227,89c9a58f-f199-4f44-b16a-e6592004f0e6,Question: Who kicked most number of field goals?,"A)
+Question: Who booted most number of field goals?
+
+B)
+Question: Who struck most number of field goals?
+
+C)
+Question: Who hit most number of field goals?
+
+D)
+Question: Who punted most number of field goals?",Question: Who booted most number of field goals?,Question: Who struck most number of field goals?,Question: Who hit most number of field goals?,Question: Who punted most number of field goals?,E,B,C,D
+Which groups are at least 30000 in size?,history_1940,db6cc06e-0c2a-42f0-be9b-3ef19473fb26,Question: Which groups are at least 30000 in size?,"A)
+Question: Which collectives are at minimum 30000 in magnitude?
+
+B)
+Question: Which assemblies are at least 30000 in dimension?
+
+C)
+Question: Which sets are minimum 30000 in scale?
+
+D)
+Question: Which clusters are no less than 30000 in volume?",Question: Which collectives are at minimum 30000 in magnitude?,Question: Which assemblies are at least 30000 in dimension?,Question: Which sets are minimum 30000 in scale?,Question: Which clusters are no less than 30000 in volume?,E,E,E,E
+How many percent of people were not from 2 or more races?,history_3115,6caa1915-ecc7-40ba-92d8-a8ba95e267d3,Question: How many percent of people were not from 2 or more races?,"A)
+Question: How many percent of individuals were not from 2 or more races?
+
+B)
+Question: How many percent of persons were not from 2 or more ethnicities?
+
+C)
+Question: What proportion of the population was not from 2 or more races?
+
+D)
+Question: What percentage of people were not from 2 or more races?",Question: How many percent of individuals were not from 2 or more races?,Question: How many percent of persons were not from 2 or more ethnicities?,Question: What proportion of the population was not from 2 or more races?,Question: What percentage of people were not from 2 or more races?,D,E,C,D
+How many more housing units are there than households?,history_1948,38cf41da-b758-46e0-8c15-1ed7228eb52d,Question: How many more housing units are there than households?,"A)
+Question: How many additional dwelling places are there than families?
+
+B)
+Question: How many extra residence areas exist than domestic groups?
+
+C)
+Question: How many surplus living spaces are present compared to households?
+
+D)
+Question: How many more habitable units can be found than family units?",Question: How many additional dwelling places are there than families?,Question: How many extra residence areas exist than domestic groups?,Question: How many surplus living spaces are present compared to households?,Question: How many more habitable units can be found than family units?,A,B,C,D
+How many more millions of exports to China did Nepal have in 2015/2016 than they did in 2014/2015?,history_2949,3973cc5b-5868-43a2-a515-23765ec458ee,Question: How many more millions of exports to China did Nepal have in 2015/2016 than they did in 2014/2015?,"A)
+Question: How many additional millions of exports to China did Nepal have in 2015/2016 compared to 2014/2015?
+
+B)
+Question: What is the increase in millions of exports to China that Nepal experienced in 2015/2016 compared to 2014/2015?
+
+C)
+Question: What was the excess in millions of exports to China that Nepal recorded in 2015/2016 over 2014/2015?
+
+D)
+Question: How many surplus millions of exports to China did Nepal register in 2015/2016 compared to 2014/2015?",Question: How many additional millions of exports to China did Nepal have in 2015/2016 compared to 2014/2015?,Question: What is the increase in millions of exports to China that Nepal experienced in 2015/2016 compared to 2014/2015?,Question: What was the excess in millions of exports to China that Nepal recorded in 2015/2016 over 2014/2015?,Question: How many surplus millions of exports to China did Nepal register in 2015/2016 compared to 2014/2015?,E,E,E,E
+How many more housing units are there than families?,history_1952,df70ba28-afce-40bb-b427-ee6f901bfae5,Question: How many more housing units are there than families?,"A)
+Question: How many additional residential properties are there than families?
+
+B)
+Question: How many extra dwellings are there than families?
+
+C)
+Question: How many surplus homes are there than families?
+
+D)
+Question: How many more accommodation units are there than families?",Question: How many additional residential properties are there than families?,Question: How many extra dwellings are there than families?,Question: How many surplus homes are there than families?,Question: How many more accommodation units are there than families?,E,E,E,E
+Which age group had the most people?,history_2164,9ca85d82-280e-4a4c-81ed-3bba23f42ad2,Question: Which age group had the most people?,"A)
+Question: Which age bracket had the most individuals?
+
+B)
+Question: Which age category had the pinnacle number of people?
+
+C)
+Question: Which age cohort encompassed the greatest number of individuals?
+
+D)
+Question: Which age division contained the highest count of people?",Question: Which age bracket had the most individuals?,Question: Which age category had the pinnacle number of people?,Question: Which age cohort encompassed the greatest number of individuals?,Question: Which age division contained the highest count of people?,E,E,E,D
+How many percent of people were not between 30 and 34 years?,history_1860,4fb48a64-3b41-49f0-8593-157acd633eb2,Question: How many percent of people were not between 30 and 34 years?,"A)
+Question: What percentage of individuals were not aged 30 to 34 years?
+
+B)
+Question: How many percent of individuals were not in the age bracket of 30 to 34 years?
+
+C)
+Question: What proportion of people were not in the age range of 30 to 34 years?
+
+D)
+Question: How many percent of people were not within 30 and 34 years of age?",Question: What percentage of individuals were not aged 30 to 34 years?,Question: How many percent of individuals were not in the age bracket of 30 to 34 years?,Question: What proportion of people were not in the age range of 30 to 34 years?,Question: How many percent of people were not within 30 and 34 years of age?,E,E,E,E
+What year was the first time the Evansville Braves won the Three-I League title?,nfl_3594,5529a5d1-146e-4889-985c-742c97ba8f3e,Question: What year was the first time the Evansville Braves won the Three-I League title?,"A)
+Question: In which year did the Evansville Braves first triumph in the Three-I League championship?
+
+B)
+Question: When was the inaugural victory of the Evansville Braves in the Three-I League title?
+
+C)
+Question: What year marked the initial success of the Evansville Braves in the Three-I League title?
+
+D)
+Question: In which year were the Evansville Braves first crowned the champions of the Three-I League?",Question: In which year did the Evansville Braves first triumph in the Three-I League championship?,Question: When was the inaugural victory of the Evansville Braves in the Three-I League title?,Question: What year marked the initial success of the Evansville Braves in the Three-I League title?,Question: In which year were the Evansville Braves first crowned the champions of the Three-I League?,E,B,C,D
+Which player scored the first touchdown of the second half?,nfl_1207,aad0dc72-afb8-4a0d-bcf8-81019f4daef1,Question: Which player scored the first touchdown of the second half?,"A)
+Question: Which athlete netted the initial touchdown of the second half?
+
+B)
+Question: Who was the player to strike the opening touchdown of the second half?
+
+C)
+Question: Which participant recorded the inaugural touchdown of the second half?
+
+D)
+Question: Who is the player that tallied the first touchdown of the second half?",Question: Which athlete netted the initial touchdown of the second half?,Question: Who was the player to strike the opening touchdown of the second half?,Question: Which participant recorded the inaugural touchdown of the second half?,Question: Who is the player that tallied the first touchdown of the second half?,A,A,C,D
+"What happened first, the actual transfer of power or Drastamat Kanayan sent a telegram to Njdeh?",history_1250,970affc7-c2e0-47e1-8314-056ab838e814,"Question: What happened first, the actual transfer of power or Drastamat Kanayan sent a telegram to Njdeh?","A)
+Question: What occurred first, the genuine transition of authority or Drastamat Kanayan dispatched a telegram to Njdeh?
+
+B)
+Question: What transpired first, the real passage of power or Drastamat Kanayan forwarded a telegram to Njdeh?
+
+C)
+Question: What took place first, the authentic shift of control or Drastamat Kanayan transmitted a telegram to Njdeh?
+
+D)
+Question: What unfolded first, the veritable changeover of command or Drastamat Kanayan sent a telegram to Njdeh?","Question: What occurred first, the genuine transition of authority or Drastamat Kanayan dispatched a telegram to Njdeh?","Question: What transpired first, the real passage of power or Drastamat Kanayan forwarded a telegram to Njdeh?","Question: What took place first, the authentic shift of control or Drastamat Kanayan transmitted a telegram to Njdeh?","Question: What unfolded first, the veritable changeover of command or Drastamat Kanayan sent a telegram to Njdeh?",E,E,C,D
+How many points did the Steelers score in the first half?,nfl_1412,b8765a65-0f8d-4ce3-ac9e-5a86f078301f,Question: How many points did the Steelers score in the first half?,"A)
+Question: How many points did the Steelers tally in the first half?
+
+B)
+Question: How many points did the Steelers accumulate in the first half?
+
+C)
+Question: How many points did the Steelers amass in the first half?
+
+D)
+Question: How many points were scored by the Steelers in the first half?",Question: How many points did the Steelers tally in the first half?,Question: How many points did the Steelers accumulate in the first half?,Question: How many points did the Steelers amass in the first half?,Question: How many points were scored by the Steelers in the first half?,A,B,C,D
+How many fewer members were there in 2010 vs 1970?,history_883,c6bd72c5-2e04-4296-b3f8-917b6061b744,Question: How many fewer members were there in 2010 vs 1970?,"A)
+Question: How many less associates were there in 2010 compared to 1970?
+
+B)
+Question: How many reduced members were there in 2010 in contrast to 1970?
+
+C)
+Question: How many lesser participants were there in 2010 versus 1970?
+
+D)
+Question: How many diminished members were there in 2010 as opposed to 1970?",Question: How many less associates were there in 2010 compared to 1970?,Question: How many reduced members were there in 2010 in contrast to 1970?,Question: How many lesser participants were there in 2010 versus 1970?,Question: How many diminished members were there in 2010 as opposed to 1970?,E,E,E,E
+What team scored the first touchdown of the game?,nfl_286,4c0987ef-93f9-411e-b97d-89647b278224,Question: What team scored the first touchdown of the game?,"A)
+Question: What squad made the initial touchdown of the match?
+
+B)
+Question: What crew established the first touchdown of the contest?
+
+C)
+Question: What unit scored the opening touchdown of the game?
+
+D)
+Question: Which team netted the first touchdown of the match?",Question: What squad made the initial touchdown of the match?,Question: What crew established the first touchdown of the contest?,Question: What unit scored the opening touchdown of the game?,Question: Which team netted the first touchdown of the match?,E,B,C,D
+How many percent were not from 18 to 24?,history_2162,ab6302bd-1eb9-4230-aa4f-a3ba1636fded,Question: How many percent were not from 18 to 24?,"A)
+Question: How many percent were not between 18 and 24?
+
+B)
+Question: How many percent were not among 18 to 24?
+
+C)
+Question: How many percent were not within 18 to 24?
+
+D)
+Question: What percentage were not from 18 to 24?",Question: How many percent were not between 18 and 24?,Question: How many percent were not among 18 to 24?,Question: How many percent were not within 18 to 24?,Question: What percentage were not from 18 to 24?,A,A,A,A
+How many more people had parents who were both born in Cyprus than people who had one parent born in Turkey?,history_2892,dba79110-b575-4c1c-8bae-2cd9da55e166,Question: How many more people had parents who were both born in Cyprus than people who had one parent born in Turkey?,"A)
+Question: How many additional individuals had parents who were both born in Cyprus than those who had a single parent born in Turkey?
+
+B)
+Question: How many extra persons had parents who were both native to Cyprus than individuals who had a mother or father born in Turkey?
+
+C)
+Question: How many surplus people had parents who were both originated from Cyprus than folks who had one progenitor born in Turkey?
+
+D)
+Question: How many further humans had parents who were both hailing from Cyprus than people who had just one birth parent from Turkey?",Question: How many additional individuals had parents who were both born in Cyprus than those who had a single parent born in Turkey?,Question: How many extra persons had parents who were both native to Cyprus than individuals who had a mother or father born in Turkey?,Question: How many surplus people had parents who were both originated from Cyprus than folks who had one progenitor born in Turkey?,Question: How many further humans had parents who were both hailing from Cyprus than people who had just one birth parent from Turkey?,E,E,C,D
+Whose treaty did the Polish Senate decline to ratify?,history_908,9ed332d1-8f75-422d-9e98-c3ce311d9996,Question: Whose treaty did the Polish Senate decline to ratify?,"A)
+Question: Whose agreement did the Polish Senate refuse to approve?
+
+B)
+Question: Whose pact did the Polish Senate decline to confirm?
+
+C)
+Question: Whose accord did the Polish Senate deny to ratify?
+
+D)
+Question: Whose convention did the Polish Senate reject to endorse?",Question: Whose agreement did the Polish Senate refuse to approve?,Question: Whose pact did the Polish Senate decline to confirm?,Question: Whose accord did the Polish Senate deny to ratify?,Question: Whose convention did the Polish Senate reject to endorse?,E,B,C,E
+How many teams in the AFC had a better 1995 season than the Steelers?,history_2086,ba4dbd45-a771-4d19-9bb1-79ec00450c44,Question: How many teams in the AFC had a better 1995 season than the Steelers?,"A)
+Question: How many squads in the AFC enjoyed a superior 1995 season than the Steelers?
+
+B)
+Question: How many groups in the AFC had an improved 1995 season compared to the Steelers?
+
+C)
+Question: How many units in the AFC had a better 1995 campaign than the Steelers?
+
+D)
+Question: How many collections in the AFC experienced a superior 1995 season over the Steelers?",Question: How many squads in the AFC enjoyed a superior 1995 season than the Steelers?,Question: How many groups in the AFC had an improved 1995 season compared to the Steelers?,Question: How many units in the AFC had a better 1995 campaign than the Steelers?,Question: How many collections in the AFC experienced a superior 1995 season over the Steelers?,A,B,A,D
+How many days after 25 villages belonging to the city of Memmingen rebelled were the Twelve Articles agreed on by the Upper Swabian Peasants Confederation?,history_632,1a1214d1-4131-432f-8319-968c5704abaa,Question: How many days after 25 villages belonging to the city of Memmingen rebelled were the Twelve Articles agreed on by the Upper Swabian Peasants Confederation?,"A)
+Question: How many days post the insurrection of 25 villages under the authority of Memmingen did the Upper Swabian Peasants Confederation consent to the Twelve Articles?
+
+B)
+Question: Following the rebellion of 25 villages under the jurisdiction of the city of Memmingen, after how many days were the Twelve Articles approved by the Upper Swabian Peasants Confederation?
+
+C)
+Question: After 25 villages tied to the city of Memmingen revolted, how many days later did the Upper Swabian Peasants Confederation come to an agreement on the Twelve Articles?
+
+D)
+Question: How many days after 25 villages connected to the city of Memmingen rose in rebellion were the Twelve Articles sanctioned by the Upper Swabian Peasants Confederation?",Question: How many days post the insurrection of 25 villages under the authority of Memmingen did the Upper Swabian Peasants Confederation consent to the Twelve Articles?,"Question: Following the rebellion of 25 villages under the jurisdiction of the city of Memmingen, after how many days were the Twelve Articles approved by the Upper Swabian Peasants Confederation?","Question: After 25 villages tied to the city of Memmingen revolted, how many days later did the Upper Swabian Peasants Confederation come to an agreement on the Twelve Articles?",Question: How many days after 25 villages connected to the city of Memmingen rose in rebellion were the Twelve Articles sanctioned by the Upper Swabian Peasants Confederation?,E,B,E,D
+How many yards were scored on touchdown passes by Drew Brees?,nfl_1962,355ca7c5-b3f9-4aca-8ed6-e0b8dc745835,Question: How many yards were scored on touchdown passes by Drew Brees?,"A)
+Question: How many yards were tallied on touchdown passes by Drew Brees?
+
+B)
+Question: How many yards were recorded on touchdown passes by Drew Brees?
+
+C)
+Question: How many yards were accumulated on touchdown passes by Drew Brees?
+
+D)
+Question: How many yards were registered on touchdown passes by Drew Brees?",Question: How many yards were tallied on touchdown passes by Drew Brees?,Question: How many yards were recorded on touchdown passes by Drew Brees?,Question: How many yards were accumulated on touchdown passes by Drew Brees?,Question: How many yards were registered on touchdown passes by Drew Brees?,A,A,A,A
+How many touchdown passes were thrown during the first half?,nfl_1914,3f9e7e06-9664-4d89-a581-e55eb45f3689,Question: How many touchdown passes were thrown during the first half?,"A)
+Question: How many touchdown throws were made during the initial half?
+
+B)
+Question: How many touchdown passes were tossed during the opening half?
+
+C)
+Question: How many touchdown passes were hurled during the initial half?
+
+D)
+Question: How many touchdown passes were pitched during the first half?",Question: How many touchdown throws were made during the initial half?,Question: How many touchdown passes were tossed during the opening half?,Question: How many touchdown passes were hurled during the initial half?,Question: How many touchdown passes were pitched during the first half?,E,B,C,D
+"How many fewer, in percentage points were unemployed in 2006 compared to in 2000?",history_2530,2a54f7f8-b7c9-460a-b55a-7c86e4a382e2,"Question: How many fewer, in percentage points were unemployed in 2006 compared to in 2000?","A)
+Question: In terms of percentage points, how much lower was the unemployment in 2006 than in 2000?
+
+B)
+Question: By how many percentage points was the rate of unemployment less in 2006 than in 2000?
+
+C)
+Question: What was the decrease in the percentage points of unemployment in 2006 compared to 2000?
+
+D)
+Question: How many percentage points was the unemployment rate reduced in 2006 in comparison to 2000?","Question: In terms of percentage points, how much lower was the unemployment in 2006 than in 2000?",Question: By how many percentage points was the rate of unemployment less in 2006 than in 2000?,Question: What was the decrease in the percentage points of unemployment in 2006 compared to 2000?,Question: How many percentage points was the unemployment rate reduced in 2006 in comparison to 2000?,B,A,B,B
+How many years after Ricklefs was presented with the Cultural Award was he made a member of the Order of Australia?,history_936,5b5c5adb-d079-48b2-be7b-6e86455c1437,Question: How many years after Ricklefs was presented with the Cultural Award was he made a member of the Order of Australia?,"A)
+Question: How many years post Ricklefs receiving the Cultural Award was he inducted as a member of the Order of Australia?
+
+B)
+Question: How many years subsequent to Ricklefs winning the Cultural Award was he granted membership to the Order of Australia?
+
+C)
+Question: How many years following Ricklefs obtaining the Cultural Award was he admitted into the Order of Australia?
+
+D)
+Question: How many years after Ricklefs was awarded the Cultural Award was he recognized as a member of the Order of Australia?",Question: How many years post Ricklefs receiving the Cultural Award was he inducted as a member of the Order of Australia?,Question: How many years subsequent to Ricklefs winning the Cultural Award was he granted membership to the Order of Australia?,Question: How many years following Ricklefs obtaining the Cultural Award was he admitted into the Order of Australia?,Question: How many years after Ricklefs was awarded the Cultural Award was he recognized as a member of the Order of Australia?,D,B,D,E
+Would more galleys be used in the fight against Charles or in assisting the Turks?,history_130,4394ea14-887c-4415-86c2-446477fbbe9f,Question: Would more galleys be used in the fight against Charles or in assisting the Turks?,"A)
+Question: Would additional galleys be utilized in the battle against Charles or in aiding the Turks?
+
+B)
+Question: Would more ships be employed in the conflict against Charles or in supporting the Turks?
+
+C)
+Question: Would extra galleys be used in the warfare against Charles or in benefitting the Turks?
+
+D)
+Question: Would more vessels be engaged in the struggle against Charles or in helping the Turks?",Question: Would additional galleys be utilized in the battle against Charles or in aiding the Turks?,Question: Would more ships be employed in the conflict against Charles or in supporting the Turks?,Question: Would extra galleys be used in the warfare against Charles or in benefitting the Turks?,Question: Would more vessels be engaged in the struggle against Charles or in helping the Turks?,E,E,A,A
+How many years after Yongle Emperor began the preparation for relocating the imperial capital to Beiping was the reconstruction complete?,history_809,efc513e1-cf5a-4eaa-8951-a9db105ee511,Question: How many years after Yongle Emperor began the preparation for relocating the imperial capital to Beiping was the reconstruction complete?,"A)
+Question: How many years post Yongle Emperor initiated the groundwork for transferring the imperial capital to Beiping was the refurbishment finalized?
+
+B)
+Question: How many years after Yongle Emperor commenced preparation for shifting the imperial capital to Beiping was the remodel accomplished?
+
+C)
+Question: How many years subsequent to Yongle Emperor starting the planning for moving the imperial capital to Beiping was the restoration concluded?
+
+D)
+Question: How many years following Yongle Emperor kicked off the readiness for repositioning the imperial capital to Beiping was the reconstruction executed?",Question: How many years post Yongle Emperor initiated the groundwork for transferring the imperial capital to Beiping was the refurbishment finalized?,Question: How many years after Yongle Emperor commenced preparation for shifting the imperial capital to Beiping was the remodel accomplished?,Question: How many years subsequent to Yongle Emperor starting the planning for moving the imperial capital to Beiping was the restoration concluded?,Question: How many years following Yongle Emperor kicked off the readiness for repositioning the imperial capital to Beiping was the reconstruction executed?,B,B,B,B
+Who died first: Cardinal Jean de Caraman or Cardinal Bernard de la Tour?,history_2047,bc996123-d027-4cfa-9979-fcac945bd7e1,Question: Who died first: Cardinal Jean de Caraman or Cardinal Bernard de la Tour?,"A)
+Question: Who passed away first: Cardinal Jean de Caraman or Cardinal Bernard de la Tour?
+
+B)
+Question: Who perished first: Cardinal Jean de Caraman or Cardinal Bernard de la Tour?
+
+C)
+Question: Who departed first: Cardinal Jean de Caraman or Cardinal Bernard de la Tour?
+
+D)
+Question: Who expired first: Cardinal Jean de Caraman or Cardinal Bernard de la Tour?",Question: Who passed away first: Cardinal Jean de Caraman or Cardinal Bernard de la Tour?,Question: Who perished first: Cardinal Jean de Caraman or Cardinal Bernard de la Tour?,Question: Who departed first: Cardinal Jean de Caraman or Cardinal Bernard de la Tour?,Question: Who expired first: Cardinal Jean de Caraman or Cardinal Bernard de la Tour?,E,E,C,D
+How many yards was Peyton Manning's longest touchdown pass?,nfl_1478,948f71ed-5538-4286-ba31-61ba25d49b02,Question: How many yards was Peyton Manning's longest touchdown pass?,"A)
+Question: What was the yardage of Peyton Manning's longest touchdown throw?
+
+B)
+Question: How many yards did Peyton Manning's furthest touchdown pass cover?
+
+C)
+Question: What was the distance in yards of Peyton Manning's longest touchdown toss?
+
+D)
+Question: How many yards encompassed Peyton Manning's maximum touchdown pass?",Question: What was the yardage of Peyton Manning's longest touchdown throw?,Question: How many yards did Peyton Manning's furthest touchdown pass cover?,Question: What was the distance in yards of Peyton Manning's longest touchdown toss?,Question: How many yards encompassed Peyton Manning's maximum touchdown pass?,E,E,C,D
+How many touchdowns were the result of turnovers?,nfl_913,ec535936-67d5-4ea6-b548-e404f2f5862b,Question: How many touchdowns were the result of turnovers?,"A)
+Question: How many touchdowns emerged from turnovers?
+
+B)
+Question: How many touchdowns did turnovers produce?
+
+C)
+Question: How many touchdowns were the consequence of turnovers?
+
+D)
+Question: How many touchdowns were yielded by turnovers?",Question: How many touchdowns emerged from turnovers?,Question: How many touchdowns did turnovers produce?,Question: How many touchdowns were the consequence of turnovers?,Question: How many touchdowns were yielded by turnovers?,E,B,E,E
+How many scores did the Redskins have in the first quarter?,nfl_894,9c34a7b6-3983-4a47-9ac6-8a31cf9373a7,Question: How many scores did the Redskins have in the first quarter?,"A)
+Question: How many points did the Redskins tally in the initial quarter?
+
+B)
+Question: How many points did the Redskins accumulate in the first quarter?
+
+C)
+Question: How many points did the Redskins rack up in the first quarter?
+
+D)
+Question: How many points did the Redskins garner in the initial quarter?",Question: How many points did the Redskins tally in the initial quarter?,Question: How many points did the Redskins accumulate in the first quarter?,Question: How many points did the Redskins rack up in the first quarter?,Question: How many points did the Redskins garner in the initial quarter?,E,C,A,A
+How many touchdown passes were made in the fourth quarter?,nfl_1332,583d1c4f-208d-4d7e-9e43-cdd540a76dd1,Question: How many touchdown passes were made in the fourth quarter?,"A)
+Question: How many touchdown throws were recorded in the final quarter?
+
+B)
+Question: How many touchdown tosses were logged in the last quarter?
+
+C)
+Question: How many touchdown deliveries were completed in the concluding quarter?
+
+D)
+Question: How many touchdown pitchings were executed in the end quarter?",Question: How many touchdown throws were recorded in the final quarter?,Question: How many touchdown tosses were logged in the last quarter?,Question: How many touchdown deliveries were completed in the concluding quarter?,Question: How many touchdown pitchings were executed in the end quarter?,E,B,E,E
+Who is the Bills quarterback?,nfl_2528,bdfab8e9-51da-4f98-9e36-c10f06c43d7e,Question: Who is the Bills quarterback?,"A)
+Question: Who is the Bills signal caller?
+
+B)
+Question: Who is the Bills passer?
+
+C)
+Question: Who is the head offensive player for the Bills?
+
+D)
+Question: Who plays quarterback for the Bills?",Question: Who is the Bills signal caller?,Question: Who is the Bills passer?,Question: Who is the head offensive player for the Bills?,Question: Who plays quarterback for the Bills?,A,B,A,A
+How many yards was Joe Flacco's longest touchdown pass?,nfl_1454,1d07f078-c107-4743-99ff-8a57ded63e6a,Question: How many yards was Joe Flacco's longest touchdown pass?,"A)
+Question: How many yards was Joe Flacco's furthest touchdown pass?
+
+B)
+Question: How many yards was Joe Flacco's lengthiest touchdown pass?
+
+C)
+Question: How many yards was Joe Flacco's longest scoring throw?
+
+D)
+Question: How many yards was Joe Flacco's maximum yardage touchdown pass?",Question: How many yards was Joe Flacco's furthest touchdown pass?,Question: How many yards was Joe Flacco's lengthiest touchdown pass?,Question: How many yards was Joe Flacco's longest scoring throw?,Question: How many yards was Joe Flacco's maximum yardage touchdown pass?,A,B,C,D
+How many more females age 18 and over were there than males per 100?,history_3089,bb4e24f5-890c-4603-9842-cf6f21cdbb1f,Question: How many more females age 18 and over were there than males per 100?,"A)
+Question: How many additional women aged 18 and over were there compared to men for every 100?
+
+B)
+Question: How many surplus females who are 18 or older were there compared to males for every 100?
+
+C)
+Question: How many extra ladies who are 18 and up were there than men per 100?
+
+D)
+Question: How many more dames over the age of 18 were present than males for every 100?",Question: How many additional women aged 18 and over were there compared to men for every 100?,Question: How many surplus females who are 18 or older were there compared to males for every 100?,Question: How many extra ladies who are 18 and up were there than men per 100?,Question: How many more dames over the age of 18 were present than males for every 100?,E,B,E,E
+How many more large bears are there in Sweden compared to Finland?,history_2619,a625695a-d2b9-4b56-a2f6-efecfb49161d,Question: How many more large bears are there in Sweden compared to Finland?,"A)
+Question: How many additional big bears are there in Sweden compared to Finland?
+
+B)
+Question: How many other sizeable bears exist in Sweden as compared to Finland?
+
+C)
+Question: How many supplementary large bears are there in Sweden relative to Finland?
+
+D)
+Question: How many extra significant-size bears are present in Sweden in comparison to Finland?",Question: How many additional big bears are there in Sweden compared to Finland?,Question: How many other sizeable bears exist in Sweden as compared to Finland?,Question: How many supplementary large bears are there in Sweden relative to Finland?,Question: How many extra significant-size bears are present in Sweden in comparison to Finland?,E,E,E,D
+How many percent were not english?,history_2777,bd4c2c96-9713-4a98-b76d-10eb147699b3,Question: How many percent were not english?,"A)
+Question: What percentage were not English?
+
+B)
+Question: How much percent were not English?
+
+C)
+Question: What fraction were not English?
+
+D)
+Question: How numerous percent were not English?",Question: What percentage were not English?,Question: How much percent were not English?,Question: What fraction were not English?,Question: How numerous percent were not English?,A,E,A,E
+how many yards did julius jones get in his touch down runs?,nfl_1245,25bd45a8-4ae0-41b6-9ab3-6406659d31e9,Question: how many yards did julius jones get in his touch down runs?,"A)
+Question: how many yards did julius jones obtain in his touchdown runs?
+
+B)
+Question: how many yards did julius jones earn in his touchdown runs?
+
+C)
+Question: how many yards did julius jones acquire in his touchdown runs?
+
+D)
+Question: how many yards did julius jones gather in his touchdown runs?",Question: how many yards did julius jones obtain in his touchdown runs?,Question: how many yards did julius jones earn in his touchdown runs?,Question: how many yards did julius jones acquire in his touchdown runs?,Question: how many yards did julius jones gather in his touchdown runs?,A,A,A,A
+How many points difference is there between primary magnitude and secondary magnitude?,history_2363,3a69ca13-45bf-4e63-8819-fa3d9ebbda5b,Question: How many points difference is there between primary magnitude and secondary magnitude?,"A)
+Question: How many points variation is there between primary magnitude and secondary magnitude?
+
+B)
+Question: How many points divergence is there between primary magnitude and secondary magnitude?
+
+C)
+Question: How many points discrepancy is there between primary magnitude and secondary magnitude?
+
+D)
+Question: How many points distinction is there between primary magnitude and secondary magnitude?",Question: How many points variation is there between primary magnitude and secondary magnitude?,Question: How many points divergence is there between primary magnitude and secondary magnitude?,Question: How many points discrepancy is there between primary magnitude and secondary magnitude?,Question: How many points distinction is there between primary magnitude and secondary magnitude?,A,B,C,D
+How many in percent weren't 25 to 44?,history_3048,e97aa1ab-0fbe-4177-8248-fece7c7c9378,Question: How many in percent weren't 25 to 44?,"A)
+Question: How many in percentage were not 25 to 44?
+
+B)
+Question: How many proportionally were not 25 to 44?
+
+C)
+Question: How many in fractions weren't 25 to 44?
+
+D)
+Question: What percentage didn't fall in the age range of 25 to 44?",Question: How many in percentage were not 25 to 44?,Question: How many proportionally were not 25 to 44?,Question: How many in fractions weren't 25 to 44?,Question: What percentage didn't fall in the age range of 25 to 44?,E,A,E,A
+How many scoring plays were there in the second quarter?,nfl_2191,584d6213-7566-4160-b3ae-92cf68668025,Question: How many scoring plays were there in the second quarter?,"A)
+Question: How many points-related maneuvers were there in the second quarter?
+
+B)
+Question: How many scoring actions were there in the second quarter?
+
+C)
+Question: How many point-generating plays were there in the second quarter?
+
+D)
+Question: How many scoring activities were there in the second quarter?",Question: How many points-related maneuvers were there in the second quarter?,Question: How many scoring actions were there in the second quarter?,Question: How many point-generating plays were there in the second quarter?,Question: How many scoring activities were there in the second quarter?,A,B,C,D
+How many more field goals did Nick Folk make compared to Joe Nedney?,nfl_1240,cef3f6a2-7a96-46de-a2bb-68c1c5fceeaf,Question: How many more field goals did Nick Folk make compared to Joe Nedney?,"A)
+Question: How many additional field goals did Nick Folk score compared to Joe Nedney?
+
+B)
+Question: How many extra field goals were made by Nick Folk as compared to Joe Nedney?
+
+C)
+Question: By how many field goals did Nick Folk outscore Joe Nedney?
+
+D)
+Question: Compared to Joe Nedney, how many more field goals did Nick Folk create?",Question: How many additional field goals did Nick Folk score compared to Joe Nedney?,Question: How many extra field goals were made by Nick Folk as compared to Joe Nedney?,Question: By how many field goals did Nick Folk outscore Joe Nedney?,"Question: Compared to Joe Nedney, how many more field goals did Nick Folk create?",A,B,C,D
+"How many percent of the population were either Native American, Asian or Pacific Islander?",history_2815,aebf6d96-d25a-40b5-97ba-cc74b39e6434,"Question: How many percent of the population were either Native American, Asian or Pacific Islander?","A)
+Question: What percentage of the populace were either Indigenous American, Asian or Pacific Islander?
+
+B)
+Question: What proportion of the society were either Native American, Asian or Pacific Islander?
+
+C)
+Question: How many percent of the inhabitants were either Native American, Asian or Pacific Islander?
+
+D)
+Question: How much percent of the populace were either Indigenous American, Asian or Pacific Islander?","Question: What percentage of the populace were either Indigenous American, Asian or Pacific Islander?","Question: What proportion of the society were either Native American, Asian or Pacific Islander?","Question: How many percent of the inhabitants were either Native American, Asian or Pacific Islander?","Question: How much percent of the populace were either Indigenous American, Asian or Pacific Islander?",A,A,A,A
+What was the score coming out of half time?,nfl_1883,92510f57-e63a-4f5d-bde1-3ad6a42904af,Question: What was the score coming out of half time?,"A)
+Question: What was the tally exiting the mid-game interval?
+
+B)
+Question: What was the count after the break at half time?
+
+C)
+Question: What was the total at the completion of half time?
+
+D)
+Question: What was the numerical outcome after half time?",Question: What was the tally exiting the mid-game interval?,Question: What was the count after the break at half time?,Question: What was the total at the completion of half time?,Question: What was the numerical outcome after half time?,E,E,C,D
+How many fumbles did the Ravens force?,nfl_2151,735f9e35-f0b5-4858-98fc-1933174c070c,Question: How many fumbles did the Ravens force?,"A)
+Question: How many mishandles did the Ravens induce?
+
+B)
+Question: How many blunders did the Ravens compel?
+
+C)
+Question: How many gaffes did the Ravens coax?
+
+D)
+Question: How many slip-ups did the Ravens prompt?",Question: How many mishandles did the Ravens induce?,Question: How many blunders did the Ravens compel?,Question: How many gaffes did the Ravens coax?,Question: How many slip-ups did the Ravens prompt?,A,B,C,D
+Who paid the highest poll taxes; earls or knights?,history_2453,d81d0bd9-0f75-4e88-93d1-847ee4000a36,Question: Who paid the highest poll taxes; earls or knights?,"A)
+Question: Who contributed the most significant poll fees; earls or knights?
+
+B)
+Question: Who disbursed the maximum poll tariffs; earls or knights?
+
+C)
+Question: Who settled the greatest poll duties; earls or knights?
+
+D)
+Question: Who remitted the top poll levies; earls or knights?",Question: Who contributed the most significant poll fees; earls or knights?,Question: Who disbursed the maximum poll tariffs; earls or knights?,Question: Who settled the greatest poll duties; earls or knights?,Question: Who remitted the top poll levies; earls or knights?,E,E,C,E
+Which countries entered into an alliance with Polin in 1642?,history_130,6b2fe198-c401-42aa-8c47-5175d0f04e8e,Question: Which countries entered into an alliance with Polin in 1642?,"A)
+Question: Which nations formed a coalition with Polin in 1642?
+
+B)
+Question: Which countries made a pact with Polin in 1642?
+
+C)
+Question: Which nations joined a partnership with Polin in 1642?
+
+D)
+Question: Which territories entered into a union with Polin in 1642?",Question: Which nations formed a coalition with Polin in 1642?,Question: Which countries made a pact with Polin in 1642?,Question: Which nations joined a partnership with Polin in 1642?,Question: Which territories entered into a union with Polin in 1642?,E,E,E,E
+How many years was the 1726 peace treaty in place before it was annulled?,history_586,f7b03d43-5a32-4e8c-ba9d-b1ef65777133,Question: How many years was the 1726 peace treaty in place before it was annulled?,"A)
+Question: How many years did the 1726 peace agreement last before it was revoked?
+
+B)
+Question: For how many years was the 1726 peace pact effective before it was invalidated?
+
+C)
+Question: How many years was the 1726 peace contract in effect before it was nullified?
+
+D)
+Question: How long did the 1726 peace accord survive before it was rescinded?",Question: How many years did the 1726 peace agreement last before it was revoked?,Question: For how many years was the 1726 peace pact effective before it was invalidated?,Question: How many years was the 1726 peace contract in effect before it was nullified?,Question: How long did the 1726 peace accord survive before it was rescinded?,E,E,E,E
+How many yards longer was Drew Brees' longest touchdown pass than his shortest?,nfl_1222,5bbe99e7-72b9-43c6-bd48-78c5e039e015,Question: How many yards longer was Drew Brees' longest touchdown pass than his shortest?,"A)
+Question: How many yards further was Drew Brees' longest touchdown throw than his smallest?
+
+B)
+Question: How many yards extended was Drew Brees' greatest touchdown pass compared to his poorest?
+
+C)
+Question: By how many yards was Drew Brees' longest touchdown pass more than his least?
+
+D)
+Question: How many yards additionally was Drew Brees' maximum touchdown toss over his minimum?",Question: How many yards further was Drew Brees' longest touchdown throw than his smallest?,Question: How many yards extended was Drew Brees' greatest touchdown pass compared to his poorest?,Question: By how many yards was Drew Brees' longest touchdown pass more than his least?,Question: How many yards additionally was Drew Brees' maximum touchdown toss over his minimum?,A,B,C,D
+How many percent of people were not Chinese in 1931?,history_2925,ec2804ac-68d6-4e9d-aabd-bb6a206e7049,Question: How many percent of people were not Chinese in 1931?,"A)
+Question: What was the percentage of individuals in 1931 who were not Chinese?
+
+B)
+Question: In 1931, what proportion of the population was not Chinese?
+
+C)
+Question: What was the proportion of non-Chinese individuals in 1931?
+
+D)
+Question: What percentage of the populace was not of Chinese ethnicity in 1931?",Question: What was the percentage of individuals in 1931 who were not Chinese?,"Question: In 1931, what proportion of the population was not Chinese?",Question: What was the proportion of non-Chinese individuals in 1931?,Question: What percentage of the populace was not of Chinese ethnicity in 1931?,E,E,E,E
+How many touchdown catches did Smith catch in the first quarter?,nfl_2151,be734e26-8891-402c-bed9-c2a416c190d7,Question: How many touchdown catches did Smith catch in the first quarter?,"A)
+Question: How many touchdown receptions did Smith receive in the first quarter?
+
+B)
+Question: How many touchdown grasps did Smith grab in the first quarter?
+
+C)
+Question: How many touchdown captures did Smith capture in the first quarter?
+
+D)
+Question: How many touchdown snatches did Smith snatch in the first quarter?",Question: How many touchdown receptions did Smith receive in the first quarter?,Question: How many touchdown grasps did Smith grab in the first quarter?,Question: How many touchdown captures did Smith capture in the first quarter?,Question: How many touchdown snatches did Smith snatch in the first quarter?,A,A,A,A
+"How many people, in terms of percentage, were not either English or German?",history_1863,cc62aff3-dc3d-47d9-b2c6-5fd11faf11ad,"Question: How many people, in terms of percentage, were not either English or German?","A)
+Question: What proportion of individuals, as a percentage, were neither English nor German?
+
+B)
+Question: What percentage of the population were not classified as either English or German?
+
+C)
+Question: In terms of percentages, how many inhabitants were not either English or German?
+
+D)
+Question: What percentage of folks were not identified as either English or German?","Question: What proportion of individuals, as a percentage, were neither English nor German?",Question: What percentage of the population were not classified as either English or German?,"Question: In terms of percentages, how many inhabitants were not either English or German?",Question: What percentage of folks were not identified as either English or German?,E,E,E,E
+how many yards did carney complete?,nfl_264,327e9e0e-ac36-4ab5-ad77-7c545981e93b,Question: how many yards did carney complete?,"A)
+Question: how many yards did Carney accomplish?
+
+B)
+Question: how many yards did Carney finish?
+
+C)
+Question: how many yards did Carney fulfill?
+
+D)
+Question: how many yards did Carney achieve?",Question: how many yards did Carney accomplish?,Question: how many yards did Carney finish?,Question: how many yards did Carney fulfill?,Question: how many yards did Carney achieve?,E,A,E,A
+How many points were the Titans trailing by at halftime?,nfl_858,5e2ca593-323f-40a2-8455-e24f769afd50,Question: How many points were the Titans trailing by at halftime?,"A)
+Question: How many points were the Titans behind by at halftime?
+
+B)
+Question: How many points were the Titans lagging by at halftime?
+
+C)
+Question: By how many points were the Titans falling behind at halftime?
+
+D)
+Question: By how many points were the Titans in arrears at halftime?",Question: How many points were the Titans behind by at halftime?,Question: How many points were the Titans lagging by at halftime?,Question: By how many points were the Titans falling behind at halftime?,Question: By how many points were the Titans in arrears at halftime?,A,A,C,D
+How many percent of people were not German?,history_2187,9cfda451-d4d6-4191-bd43-ee0f38711cb5,Question: How many percent of people were not German?,"A)
+Question: What percentage of individuals were not German?
+
+B)
+Question: What proportion of people were not German?
+
+C)
+Question: How many percent of individuals were not German?
+
+D)
+Question: How many percent of folks were not German?",Question: What percentage of individuals were not German?,Question: What proportion of people were not German?,Question: How many percent of individuals were not German?,Question: How many percent of folks were not German?,E,E,E,E
+"Which player was older, Julio Franco or Roger Clemens?",history_2004,c34fa20a-3d88-4b27-90cc-c68b8d4ea7b7,"Question: Which player was older, Julio Franco or Roger Clemens?","A)
+Question: Which athlete was older, Julio Franco or Roger Clemens?
+
+B)
+Question: Which competitor was older, Julio Franco or Roger Clemens?
+
+C)
+Question: Which sportsman was older, Julio Franco or Roger Clemens?
+
+D)
+Question: Which participant was older, Julio Franco or Roger Clemens?","Question: Which athlete was older, Julio Franco or Roger Clemens?","Question: Which competitor was older, Julio Franco or Roger Clemens?","Question: Which sportsman was older, Julio Franco or Roger Clemens?","Question: Which participant was older, Julio Franco or Roger Clemens?",A,B,A,A
+Which group in percent of Huntington Beach from the 2010 United States Census is smaller: White or Native American?,history_1891,464008e3-b1b6-4c96-8a04-497a538bbf65,Question: Which group in percent of Huntington Beach from the 2010 United States Census is smaller: White or Native American?,"A)
+Question: Which demographic in percentage of Huntington Beach according to the 2010 United States Census is less: White or Native American?
+
+B)
+Question: Which population in proportion of Huntington Beach from the 2010 United States Census is fewer: White or Native American?
+
+C)
+Question: Which race in rate of Huntington Beach from the 2010 United States Census is lesser: White or Native American?
+
+D)
+Question: Which category in ratio of Huntington Beach from the 2010 United States Census is smaller: White or Native American?",Question: Which demographic in percentage of Huntington Beach according to the 2010 United States Census is less: White or Native American?,Question: Which population in proportion of Huntington Beach from the 2010 United States Census is fewer: White or Native American?,Question: Which race in rate of Huntington Beach from the 2010 United States Census is lesser: White or Native American?,Question: Which category in ratio of Huntington Beach from the 2010 United States Census is smaller: White or Native American?,A,A,A,A
+In which age grouping does the median age fall?,history_2857,cf1af85b-678c-4063-a4fe-a20beb5ddf49,Question: In which age grouping does the median age fall?,"A)
+Question: In which age bracket does the middle age fall?
+
+B)
+Question: In which age category does the median age reside?
+
+C)
+Question: In which age division does the average age lie?
+
+D)
+Question: In which age group does the median age belong?",Question: In which age bracket does the middle age fall?,Question: In which age category does the median age reside?,Question: In which age division does the average age lie?,Question: In which age group does the median age belong?,E,E,E,E
+Which cities did the Germans advance through?,history_539,915fe0e5-8b57-4a30-a689-d224fcae6f2c,Question: Which cities did the Germans advance through?,"A)
+Question: Which cities did the Germans progress through?
+
+B)
+Question: Which cities did the Germans move forward through?
+
+C)
+Question: Through which cities did the Germans march?
+
+D)
+Question: Which urban areas did the Germans push through?",Question: Which cities did the Germans progress through?,Question: Which cities did the Germans move forward through?,Question: Through which cities did the Germans march?,Question: Which urban areas did the Germans push through?,E,E,E,E
+How many percent were not from 45 to 64?,history_2857,e0dd83ac-8f70-49e6-974e-dc1e8cbd6f13,Question: How many percent were not from 45 to 64?,"A)
+Question: How many percent were not between 45 and 64?
+
+B)
+Question: How many percent were not ranging from 45 to 64?
+
+C)
+Question: What percentage were not from 45 to 64?
+
+D)
+Question: What percentage were not between 45 to 64?",Question: How many percent were not between 45 and 64?,Question: How many percent were not ranging from 45 to 64?,Question: What percentage were not from 45 to 64?,Question: What percentage were not between 45 to 64?,A,A,A,D
+How many years did it take to establish flying stations in Copenhagen and Nyborg?,history_405,b5416812-c31c-48fa-9b6f-c84dc1743e84,Question: How many years did it take to establish flying stations in Copenhagen and Nyborg?,"A)
+Question: How many years were required to set up flying stations in Copenhagen and Nyborg?
+
+B)
+Question: How many years were needed to create flying stations in Copenhagen and Nyborg?
+
+C)
+Question: How many years did it demand to erect flying stations in Copenhagen and Nyborg?
+
+D)
+Question: Over how many years were flying stations established in Copenhagen and Nyborg?",Question: How many years were required to set up flying stations in Copenhagen and Nyborg?,Question: How many years were needed to create flying stations in Copenhagen and Nyborg?,Question: How many years did it demand to erect flying stations in Copenhagen and Nyborg?,Question: Over how many years were flying stations established in Copenhagen and Nyborg?,E,E,E,D
+Which teams played in the 2004 National League Championship Series?,history_2004,73cbcf82-9292-4c30-9751-8a242d6d1a29,Question: Which teams played in the 2004 National League Championship Series?,"A)
+Question: Which squads competed in the 2004 National League Championship Series?
+
+B)
+Question: Which teams partook in the 2004 National League Championship Series?
+
+C)
+Question: Which groups battled in the 2004 National League Championship Series?
+
+D)
+Question: Which teams engaged in the 2004 National League Championship Series?",Question: Which squads competed in the 2004 National League Championship Series?,Question: Which teams partook in the 2004 National League Championship Series?,Question: Which groups battled in the 2004 National League Championship Series?,Question: Which teams engaged in the 2004 National League Championship Series?,A,B,C,D
+"Which art gallery came up last, Trescott Street Gallery or Art Euphoric?",history_1498,89fe8219-b100-4200-beff-e803747f2eb4,"Question: Which art gallery came up last, Trescott Street Gallery or Art Euphoric?","A)
+Question: Which art exhibition place was established latest, Trescott Street Gallery or Art Euphoric?
+
+B)
+Question: Which art display venue surfaced most recently, Trescott Street Gallery or Art Euphoric?
+
+C)
+Question: Which art exhibition hub was initiated most lately, Trescott Street Gallery or Art Euphoric?
+
+D)
+Question: Which art showroom was instituted last, Trescott Street Gallery or Art Euphoric?","Question: Which art exhibition place was established latest, Trescott Street Gallery or Art Euphoric?","Question: Which art display venue surfaced most recently, Trescott Street Gallery or Art Euphoric?","Question: Which art exhibition hub was initiated most lately, Trescott Street Gallery or Art Euphoric?","Question: Which art showroom was instituted last, Trescott Street Gallery or Art Euphoric?",A,A,A,A
+Which age group is smaller: 25 to 44 or 45 to 64?,history_2162,86f31734-854c-42dd-a9be-b3df83f0ac2f,Question: Which age group is smaller: 25 to 44 or 45 to 64?,"A)
+Question: Which age bracket is smaller: 25 to 44 or 45 to 64?
+
+B)
+Question: Which age range is smaller: 25 to 44 or 45 to 64?
+
+C)
+Question: Which age category is smaller: 25 to 44 or 45 to 64?
+
+D)
+Question: Which age division is smaller: 25 to 44 or 45 to 64?",Question: Which age bracket is smaller: 25 to 44 or 45 to 64?,Question: Which age range is smaller: 25 to 44 or 45 to 64?,Question: Which age category is smaller: 25 to 44 or 45 to 64?,Question: Which age division is smaller: 25 to 44 or 45 to 64?,E,A,E,E
+how many yards did lewis get,nfl_29,c44c5ebf-aa04-4917-9cf8-99c13a1234f9,Question: how many yards did lewis get,"A)
+Question: how many yards did lewis acquire
+
+B)
+Question: how many yards did lewis gain
+
+C)
+Question: how many yards did lewis obtain
+
+D)
+Question: how many yards did lewis secure",Question: how many yards did lewis acquire,Question: how many yards did lewis gain,Question: how many yards did lewis obtain,Question: how many yards did lewis secure,A,B,E,E
+How many in percent of households weren't made up of individuals?,history_1898,09ce64d8-f59f-41fb-a68a-023e0c2aa318,Question: How many in percent of households weren't made up of individuals?,"A)
+Question: What percentage of homes weren't composed of individuals?
+
+B)
+Question: What proportion in percent of households weren't constituted of individuals?
+
+C)
+Question: How many in percent of residences weren't made of individuals?
+
+D)
+Question: What fraction in percent of homes weren't constructed of individuals?",Question: What percentage of homes weren't composed of individuals?,Question: What proportion in percent of households weren't constituted of individuals?,Question: How many in percent of residences weren't made of individuals?,Question: What fraction in percent of homes weren't constructed of individuals?,E,A,A,E
+How many touchdown passes did Roberts catch?,nfl_3009,559d6785-d4fe-432c-8c2b-f4e15a987579,Question: How many touchdown passes did Roberts catch?,"A)
+Question: How many touchdown tosses did Roberts grab?
+
+B)
+Question: How many touchdown throws did Roberts snag?
+
+C)
+Question: How many goal passes did Roberts intercept?
+
+D)
+Question: How many scoring throws did Roberts capture?",Question: How many touchdown tosses did Roberts grab?,Question: How many touchdown throws did Roberts snag?,Question: How many goal passes did Roberts intercept?,Question: How many scoring throws did Roberts capture?,E,B,C,D
+How long was the longest field goal attempt in this game?,nfl_2894,9012daf2-c89a-4eb0-b53e-db831f17e562,Question: How long was the longest field goal attempt in this game?,"A)
+Question: How lengthy was the longest field goal try in this match?
+
+B)
+Question: How extensive was the longest field goal shot in this game?
+
+C)
+Question: How prolonged was the longest field goal effort in this contest?
+
+D)
+Question: What was the duration of the longest field goal attempt in this game?",Question: How lengthy was the longest field goal try in this match?,Question: How extensive was the longest field goal shot in this game?,Question: How prolonged was the longest field goal effort in this contest?,Question: What was the duration of the longest field goal attempt in this game?,A,B,C,D
+By how many did Chennai's population increase when the city limits were expanded in 2011?,history_2762,57f33e77-5e83-471d-8a20-b15bdd6fd340,Question: By how many did Chennai's population increase when the city limits were expanded in 2011?,"A)
+Question: By what number did the population of Chennai augment when the city boundaries were extended in 2011?
+
+B)
+Question: By what amount did the populace of Chennai grow when the city confines were broadened in 2011?
+
+C)
+Question: By how much did the number of people in Chennai rise when the city perimeters were expanded in 2011?
+
+D)
+Question: By what figure did the citizens of Chennai increase when the city territorial limits were extended in 2011?",Question: By what number did the population of Chennai augment when the city boundaries were extended in 2011?,Question: By what amount did the populace of Chennai grow when the city confines were broadened in 2011?,Question: By how much did the number of people in Chennai rise when the city perimeters were expanded in 2011?,Question: By what figure did the citizens of Chennai increase when the city territorial limits were extended in 2011?,E,B,C,D
+"Which player kicked the longest field goal, Josh Brown or Shaun Suisham?",nfl_1304,1db9bbe1-bb46-424f-a5ec-18c1df52e98e,"Question: Which player kicked the longest field goal, Josh Brown or Shaun Suisham?","A)
+Question: Who booted the greatest distance field goal, Josh Brown or Shaun Suisham?
+
+B)
+Question: Which athlete kicked the furthest field goal, Josh Brown or Shaun Suisham?
+
+C)
+Question: Who struck the longest field goal, Josh Brown or Shaun Suisham?
+
+D)
+Question: Which sportsman delivered the farthest field goal, Josh Brown or Shaun Suisham?","Question: Who booted the greatest distance field goal, Josh Brown or Shaun Suisham?","Question: Which athlete kicked the furthest field goal, Josh Brown or Shaun Suisham?","Question: Who struck the longest field goal, Josh Brown or Shaun Suisham?","Question: Which sportsman delivered the farthest field goal, Josh Brown or Shaun Suisham?",A,B,A,A
+How many percent are not households made up of individuals?,history_1859,2d2e6bc9-c93c-4121-9850-ca8466d6d9ab,Question: How many percent are not households made up of individuals?,"A)
+Question: What percentage is not comprised of individual households?
+
+B)
+Question: How many percent are not constituted of single households?
+
+C)
+Question: What proportion is not composed of individual homes?
+
+D)
+Question: How many percent are not built of solitary households?",Question: What percentage is not comprised of individual households?,Question: How many percent are not constituted of single households?,Question: What proportion is not composed of individual homes?,Question: How many percent are not built of solitary households?,E,E,E,E
+How many percent of people do the two lowest age groups have combined?,history_2857,69df7920-f11d-467a-98db-caabb6bb680e,Question: How many percent of people do the two lowest age groups have combined?,"A)
+Question: What percentage of the population do the two youngest age brackets represent combined?
+
+B)
+Question: What proportion of individuals do the two smallest age categories constitute jointly?
+
+C)
+Question: How much percentage of individuals do the two least age classes account for collectively?
+
+D)
+Question: What percentage of populace do the two bottom age divisions have together?",Question: What percentage of the population do the two youngest age brackets represent combined?,Question: What proportion of individuals do the two smallest age categories constitute jointly?,Question: How much percentage of individuals do the two least age classes account for collectively?,Question: What percentage of populace do the two bottom age divisions have together?,A,A,A,A
+How many infantry troops did Mindon send out?,history_1019,b9fea4cd-50ae-4d1f-9b74-355f58198057,Question: How many infantry troops did Mindon send out?,"A)
+Question: How many foot soldiers did Mindon dispatch?
+
+B)
+Question: How many ground forces did Mindon send forth?
+
+C)
+Question: How many infantry units did Mindon deploy?
+
+D)
+Question: How many foot troops did Mindon put out?",Question: How many foot soldiers did Mindon dispatch?,Question: How many ground forces did Mindon send forth?,Question: How many infantry units did Mindon deploy?,Question: How many foot troops did Mindon put out?,E,E,A,E
+How many died awaiting trial or executed?,history_783,0528e414-fe84-4c63-bc92-12cfdfaad433,Question: How many died awaiting trial or executed?,"A)
+Question: How many perished awaiting trial or executed?
+
+B)
+Question: How many succumbed awaiting trial or executed?
+
+C)
+Question: How many passed away awaiting trial or executed?
+
+D)
+Question: How many expired awaiting trial or executed?",Question: How many perished awaiting trial or executed?,Question: How many succumbed awaiting trial or executed?,Question: How many passed away awaiting trial or executed?,Question: How many expired awaiting trial or executed?,A,A,C,D
+How many flying stations were established in Copenhagen?,history_405,fca34a91-8067-41d9-9283-c3d08396d251,Question: How many flying stations were established in Copenhagen?,"A)
+Question: How many airborne stations were set up in Copenhagen?
+
+B)
+Question: How many flight stations were instituted in Copenhagen?
+
+C)
+Question: How many aviation stations were constituted in Copenhagen?
+
+D)
+Question: How many air stations were established in Copenhagen?",Question: How many airborne stations were set up in Copenhagen?,Question: How many flight stations were instituted in Copenhagen?,Question: How many aviation stations were constituted in Copenhagen?,Question: How many air stations were established in Copenhagen?,E,E,E,E
+How many of Flacco's passes to Smith were in the first quarter?,nfl_2151,9cf58332-1508-4190-bddf-5567a7d11483,Question: How many of Flacco's passes to Smith were in the first quarter?,"A)
+Question: How many of Flacco's throws to Smith occurred in the initial quarter?
+
+B)
+Question: How many of Flacco's tosses to Smith were in the opening quarter?
+
+C)
+Question: How many passes from Flacco to Smith were made in the first quarter?
+
+D)
+Question: How many times did Flacco pass to Smith in the preliminary quarter?",Question: How many of Flacco's throws to Smith occurred in the initial quarter?,Question: How many of Flacco's tosses to Smith were in the opening quarter?,Question: How many passes from Flacco to Smith were made in the first quarter?,Question: How many times did Flacco pass to Smith in the preliminary quarter?,E,B,C,D
+How many points did Atlanta win by?,nfl_2415,f8fee689-8978-43c0-98cd-6d8897a6d828,Question: How many points did Atlanta win by?,"A)
+Question: By how many points did Atlanta triumph?
+
+B)
+Question: What was the point margin of Atlanta's victory?
+
+C)
+Question: How many points was Atlanta ahead by at the end?
+
+D)
+Question: What was Atlanta's winning margin in terms of points?",Question: By how many points did Atlanta triumph?,Question: What was the point margin of Atlanta's victory?,Question: How many points was Atlanta ahead by at the end?,Question: What was Atlanta's winning margin in terms of points?,A,B,C,D
+Who threw the longest pass?,nfl_1789,1dc9a6ae-9b83-4707-ac4b-d7c8ae0888e2,Question: Who threw the longest pass?,"A)
+Question: Who hurled the farthest pass?
+
+B)
+Question: Who lobbed the lengthiest pass?
+
+C)
+Question: Who tossed the maximum distance pass?
+
+D)
+Question: Who launched the most extended pass?",Question: Who hurled the farthest pass?,Question: Who lobbed the lengthiest pass?,Question: Who tossed the maximum distance pass?,Question: Who launched the most extended pass?,A,B,C,D
+In 1871 how many more coloured people were there compared to whites?,history_2869,4f5f480c-b990-4dbc-92ec-93cdec87ed1b,Question: In 1871 how many more coloured people were there compared to whites?,"A)
+Question: In 1871, how many additional coloured individuals were there in comparison to whites?
+
+B)
+Question: In 1871, what was the excess of coloured persons compared to whites?
+
+C)
+Question: During 1871, how many more people of colour were present compared to white individuals?
+
+D)
+Question: How many more coloured individuals were in surplus compared to whites in 1871?","Question: In 1871, how many additional coloured individuals were there in comparison to whites?","Question: In 1871, what was the excess of coloured persons compared to whites?","Question: During 1871, how many more people of colour were present compared to white individuals?",Question: How many more coloured individuals were in surplus compared to whites in 1871?,B,E,C,D
+How many percent of people were not white?,history_3303,d657732c-517c-4ceb-b1ed-86aff2cbcdbd,Question: How many percent of people were not white?,"A)
+Question: What percentage of individuals were not Caucasian?
+
+B)
+Question: What's the proportion of people who weren't white?
+
+C)
+Question: How many percent of the population were non-white?
+
+D)
+Question: What was the percentage of non-Caucasian people?",Question: What percentage of individuals were not Caucasian?,Question: What's the proportion of people who weren't white?,Question: How many percent of the population were non-white?,Question: What was the percentage of non-Caucasian people?,E,E,E,E
+Which player scored on a TD pass in the second quarter with Mike Sims-Walker?,nfl_1492,add03390-bd4f-4af1-b050-69a78984e715,Question: Which player scored on a TD pass in the second quarter with Mike Sims-Walker?,"A)
+Question: Which athlete netted on a TD throw in the second quarter alongside Mike Sims-Walker?
+
+B)
+Question: Which contestant registered on a TD pass during the second quarter with Mike Sims-Walker?
+
+C)
+Question: Which participant lodged on a TD pass in the second quarter together with Mike Sims-Walker?
+
+D)
+Question: Which competitor tallied on a TD toss in the second quarter in association with Mike Sims-Walker?",Question: Which athlete netted on a TD throw in the second quarter alongside Mike Sims-Walker?,Question: Which contestant registered on a TD pass during the second quarter with Mike Sims-Walker?,Question: Which participant lodged on a TD pass in the second quarter together with Mike Sims-Walker?,Question: Which competitor tallied on a TD toss in the second quarter in association with Mike Sims-Walker?,A,B,C,D
+How many of the game's 4 field goals were in the second half?,nfl_1996,1c6d1cbe-9cbc-4b3f-97ab-e94d7fff7a36,Question: How many of the game's 4 field goals were in the second half?,"A)
+Question: How many of the match's 4 field goals materialized in the second half?
+
+B)
+Question: How many of the game's 4 field points were during the second half?
+
+C)
+Question: How many of the contest's 4 field goals occurred in the second half?
+
+D)
+Question: How many out of the 4 field goals in the game happened in the second half?",Question: How many of the match's 4 field goals materialized in the second half?,Question: How many of the game's 4 field points were during the second half?,Question: How many of the contest's 4 field goals occurred in the second half?,Question: How many out of the 4 field goals in the game happened in the second half?,A,E,C,D
+What year was DART daily ridership the highest?,history_3692,fd9f4aa9-62e0-4896-a03a-ac452679fac7,Question: What year was DART daily ridership the highest?,"A)
+Question: What year did DART daily ridership peak?
+
+B)
+Question: In what year was DART daily ridership at its zenith?
+
+C)
+Question: In which year did DART's daily ridership reach its apex?
+
+D)
+Question: What year was DART daily passenger volume at its maximum?",Question: What year did DART daily ridership peak?,Question: In what year was DART daily ridership at its zenith?,Question: In which year did DART's daily ridership reach its apex?,Question: What year was DART daily passenger volume at its maximum?,E,E,E,E
+What did they wiin,history_343,f9f08374-3373-4e65-b6a7-9579c273f853,Question: What did they wiin,"A)
+Question: What did they achieve
+
+B)
+Question: What did they attain
+
+C)
+Question: What did they earn
+
+D)
+Question: What did they gain",Question: What did they achieve,Question: What did they attain,Question: What did they earn,Question: What did they gain,E,E,E,E
+"How many total people would make up the population density of 5 square miles in this county, according to the census of 2000?",history_1952,5619b0a5-253b-4987-9bc7-2e781ef9bbdc,"Question: How many total people would make up the population density of 5 square miles in this county, according to the census of 2000?","A)
+Question: How many overall individuals would constitute the population density of 5 square miles in this county, as per the census of 2000?
+
+B)
+Question: According to the 2000 census, how many entire people would compose the population density of 5 square miles in this county?
+
+C)
+Question: How many cumulative people would form the population density of 5 square miles in this county, based on the census of 2000?
+
+D)
+Question: How many aggregate humans would represent the population density of 5 square miles in this county, as stipulated by the census of 2000?","Question: How many overall individuals would constitute the population density of 5 square miles in this county, as per the census of 2000?","Question: According to the 2000 census, how many entire people would compose the population density of 5 square miles in this county?","Question: How many cumulative people would form the population density of 5 square miles in this county, based on the census of 2000?","Question: How many aggregate humans would represent the population density of 5 square miles in this county, as stipulated by the census of 2000?",E,E,E,E
+How many total yards did Nedney have?,nfl_1240,10a7d5ea-81ed-482d-bbd8-5334a928e064,Question: How many total yards did Nedney have?,"A)
+Question: How many collective yards did Nedney accumulate?
+
+B)
+Question: How many overall yards did Nedney gain?
+
+C)
+Question: What was the total yards Nedney had?
+
+D)
+Question: What was the sum of yards that Nedney had?",Question: How many collective yards did Nedney accumulate?,Question: How many overall yards did Nedney gain?,Question: What was the total yards Nedney had?,Question: What was the sum of yards that Nedney had?,A,A,A,E
+"Which player scored more field goals, Sebastian Janikowski or Olindo Mare?",nfl_2082,e96eae9c-6db3-4534-a7ae-570c8bb9450f,"Question: Which player scored more field goals, Sebastian Janikowski or Olindo Mare?","A)
+Question: Who netted more field goals, Sebastian Janikowski or Olindo Mare?
+
+B)
+Question: Who kicked more field goals, Sebastian Janikowski or Olindo Mare?
+
+C)
+Question: Who made more field goals, Sebastian Janikowski or Olindo Mare?
+
+D)
+Question: Who achieved more field goals, Sebastian Janikowski or Olindo Mare?","Question: Who netted more field goals, Sebastian Janikowski or Olindo Mare?","Question: Who kicked more field goals, Sebastian Janikowski or Olindo Mare?","Question: Who made more field goals, Sebastian Janikowski or Olindo Mare?","Question: Who achieved more field goals, Sebastian Janikowski or Olindo Mare?",C,C,E,B
+Which age group is larger: 25 to 44 or 45 to 64?,history_1844,6d52f9a5-83f8-4903-8e8b-c364d498f375,Question: Which age group is larger: 25 to 44 or 45 to 64?,"A)
+Question: Which age bracket is larger: 25 to 44 or 45 to 64?
+
+B)
+Question: Which age range is bigger: 25 to 44 or 45 to 64?
+
+C)
+Question: Which demographic is more extensive: 25 to 44 or 45 to 64?
+
+D)
+Question: Which age division is greater: 25 to 44 or 45 to 64?",Question: Which age bracket is larger: 25 to 44 or 45 to 64?,Question: Which age range is bigger: 25 to 44 or 45 to 64?,Question: Which demographic is more extensive: 25 to 44 or 45 to 64?,Question: Which age division is greater: 25 to 44 or 45 to 64?,E,E,E,E
+Which group is smaller according to the census: people or households?,history_2142,3c7a62eb-eab5-43ee-a146-4d3bd04f2ded,Question: Which group is smaller according to the census: people or households?,"A)
+Question: Which faction is lesser as per the census: people or households?
+
+B)
+Question: As mentioned in the census, which is smaller: individuals or households?
+
+C)
+Question: As indicated by the census, which is less: persons or households?
+
+D)
+Question: As per the census data, which group is minor: populace or households?",Question: Which faction is lesser as per the census: people or households?,"Question: As mentioned in the census, which is smaller: individuals or households?","Question: As indicated by the census, which is less: persons or households?","Question: As per the census data, which group is minor: populace or households?",E,E,E,E
+Which team scored the last points of the game?,nfl_2601,b630ace2-dddc-4d94-b671-8b5c57391f62,Question: Which team scored the last points of the game?,"A)
+Question: Which squad netted the final scores of the match?
+
+B)
+Question: Which group tallied the concluding points of the competition?
+
+C)
+Question: Which side registered the last markings of the event?
+
+D)
+Question: Which crew accounted for the ultimate points of the contest?",Question: Which squad netted the final scores of the match?,Question: Which group tallied the concluding points of the competition?,Question: Which side registered the last markings of the event?,Question: Which crew accounted for the ultimate points of the contest?,E,B,E,D
+Who caught the longest touchdown pass?,nfl_1515,6144703e-834b-4094-89fa-0e593a45013d,Question: Who caught the longest touchdown pass?,"A)
+Question: Who grabbed the lengthiest touchdown throw?
+
+B)
+Question: Who seized the most extended touchdown pitch?
+
+C)
+Question: Who snagged the longest touchdown toss?
+
+D)
+Question: Who captured the furthest touchdown heave?",Question: Who grabbed the lengthiest touchdown throw?,Question: Who seized the most extended touchdown pitch?,Question: Who snagged the longest touchdown toss?,Question: Who captured the furthest touchdown heave?,C,B,C,D
+Who threw more touchdown passes?,nfl_1914,843d85c6-888b-4c64-bd2c-feca777b23d2,Question: Who threw more touchdown passes?,"A)
+Question: Who hurled more touchdown passes?
+
+B)
+Question: Who tossed more touchdown passes?
+
+C)
+Question: Who launched more touchdown passes?
+
+D)
+Question: Who lobbed more touchdown passes?",Question: Who hurled more touchdown passes?,Question: Who tossed more touchdown passes?,Question: Who launched more touchdown passes?,Question: Who lobbed more touchdown passes?,B,B,C,D
+Where did the game take place?,nfl_490,fd3c295a-46e7-4603-9a6d-4b29e40a1f6f,Question: Where did the game take place?,"A)
+Question: Where was the game conducted?
+
+B)
+Question: Where was the game held?
+
+C)
+Question: Where did the game occur?
+
+D)
+Question: Where was the game played out?",Question: Where was the game conducted?,Question: Where was the game held?,Question: Where did the game occur?,Question: Where was the game played out?,B,B,E,E
+How many yards shorter was Wes Welker's touchdown catch compared to Kevin Faulk's?,nfl_915,d23ad368-3f9d-46e5-a74d-42a9ea0dd3a9,Question: How many yards shorter was Wes Welker's touchdown catch compared to Kevin Faulk's?,"A)
+Question: How many yards less was Wes Welker's touchdown reception compared to Kevin Faulk's?
+
+B)
+Question: How many yards more compact was Wes Welker's touchdown grab compared to Kevin Faulk's?
+
+C)
+Question: By how many yards was Wes Welker's touchdown snatch smaller compared to Kevin Faulk's?
+
+D)
+Question: By how many yards was Wes Welker's touchdown catch lesser than Kevin Faulk's?",Question: How many yards less was Wes Welker's touchdown reception compared to Kevin Faulk's?,Question: How many yards more compact was Wes Welker's touchdown grab compared to Kevin Faulk's?,Question: By how many yards was Wes Welker's touchdown snatch smaller compared to Kevin Faulk's?,Question: By how many yards was Wes Welker's touchdown catch lesser than Kevin Faulk's?,A,A,A,A
+How many more yards did Brees have compared to Manning?,nfl_2994,c5b11880-45f9-4612-9511-18d0dc3ae401,Question: How many more yards did Brees have compared to Manning?,"A)
+Question: How many additional yards did Brees accumulate compared to Manning?
+
+B)
+Question: How many extra yards did Brees garner compared to Manning?
+
+C)
+Question: How many more yards did Brees gain compared to Manning?
+
+D)
+Question: How many supplementary yards did Brees amass compared to Manning?",Question: How many additional yards did Brees accumulate compared to Manning?,Question: How many extra yards did Brees garner compared to Manning?,Question: How many more yards did Brees gain compared to Manning?,Question: How many supplementary yards did Brees amass compared to Manning?,C,B,C,C
+How many yards was the longest touchdown?,nfl_2636,7d38bb21-e3a1-41fb-8b67-56a72b2e7097,Question: How many yards was the longest touchdown?,"A)
+Question: How many yards was the farthest touchdown?
+
+B)
+Question: How many yards was the longest TD?
+
+C)
+Question: How many yards was the maximum distance touchdown?
+
+D)
+Question: How many yards was the extreme length touchdown?",Question: How many yards was the farthest touchdown?,Question: How many yards was the longest TD?,Question: How many yards was the maximum distance touchdown?,Question: How many yards was the extreme length touchdown?,A,B,C,D
+How many more percent of people were Haitian compared to those who were either Jamaican or British West Indian?,history_4011,90788466-e8a7-46c8-a13f-028acd3d66d8,Question: How many more percent of people were Haitian compared to those who were either Jamaican or British West Indian?,"A)
+Question: What's the additional percentage of individuals identifying as Haitian compared to those identifying as either Jamaican or British West Indian?
+
+B)
+Question: By what further percentage were Haitian individuals more numerous than those either from Jamaica or the British West Indies?
+
+C)
+Question: How much additional percent of people were of Haitian origin compared to those who were either Jamaican or British West Indian?
+
+D)
+Question: What was the increased percentage of people from Haiti compared to those who were either Jamaican or hailing from the British West Indies?",Question: What's the additional percentage of individuals identifying as Haitian compared to those identifying as either Jamaican or British West Indian?,Question: By what further percentage were Haitian individuals more numerous than those either from Jamaica or the British West Indies?,Question: How much additional percent of people were of Haitian origin compared to those who were either Jamaican or British West Indian?,Question: What was the increased percentage of people from Haiti compared to those who were either Jamaican or hailing from the British West Indies?,E,E,E,E
+How many more people were German than Irish and Danish?,history_2609,eb1581c9-d297-47aa-a54d-c30be2e81530,Question: How many more people were German than Irish and Danish?,"A)
+Question: How many additional individuals were German compared to Irish and Danish?
+
+B)
+Question: How many extra individuals were German than Irish and Danish?
+
+C)
+Question: How many more individuals were of German origin than Irish and Danish?
+
+D)
+Question: How many surplus individuals were German as compared to Irish and Danish?",Question: How many additional individuals were German compared to Irish and Danish?,Question: How many extra individuals were German than Irish and Danish?,Question: How many more individuals were of German origin than Irish and Danish?,Question: How many surplus individuals were German as compared to Irish and Danish?,A,B,C,D
+How many total field goal yards did Shaun Suisham kick?,nfl_1768,b4c16807-b032-4c64-933f-163c1908f262,Question: How many total field goal yards did Shaun Suisham kick?,"A)
+Question: How many overall field goal yards did Shaun Suisham kick?
+
+B)
+Question: How many cumulative field goal yards did Shaun Suisham kick?
+
+C)
+Question: What's the total number of field goal yards kicked by Shaun Suisham?
+
+D)
+Question: What's the aggregate amount of field goal yards Shaun Suisham kicked?",Question: How many overall field goal yards did Shaun Suisham kick?,Question: How many cumulative field goal yards did Shaun Suisham kick?,Question: What's the total number of field goal yards kicked by Shaun Suisham?,Question: What's the aggregate amount of field goal yards Shaun Suisham kicked?,E,A,E,D

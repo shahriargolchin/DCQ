@@ -1,0 +1,2259 @@
+id,dialogue,summary,instance,generated_options,option_a,option_b,option_c,option_d,bdq_results,bcq_results_for_position_a,bcq_results_for_position_b,bcq_results_for_position_c,bcq_results_for_position_d
+13716075,"Claire: <file_photo>
+Kim: Looks delicious...
+Linda: No way... Look what I'm cooking right now:
+Linda: <file_photo>
+Claire: hahahaha 
+Kim: Curry dream team
+Claire: Enjoy your dinner :*",Both Claire and Linda are making curry for dinner. ,summary: Both Claire and Linda are making curry for dinner. ,"A)
+summary: Both Claire and Linda are concocting curry for the evening meal.
+
+B)
+summary: Both Claire and Linda are preparing curry for supper.
+
+C)
+summary: Both Claire and Linda are cooking curry for the night's meal.
+
+D)
+summary: Both Claire and Linda are making curry for dinner. ",summary: Both Claire and Linda are concocting curry for the evening meal.,summary: Both Claire and Linda are preparing curry for supper.,summary: Both Claire and Linda are cooking curry for the night's meal.,summary: Both Claire and Linda are making curry for dinner.,E,E,B,C,D
+13681165-1,"Alyssa: Have you seen Fergie’s national anthem? Illuminati does a great job.
+Derek: This is not normal. I saw it last week…
+Alyssa: What do you think about it?
+Derek: I can fart bright stripes and bright stars better then she sings.
+Alyssa: The best part is that she acts like she nailed it. But at least it's funny in a good way.
+Derek: It is 😂",Derek and Alyssa make fun of Fergie's performance of the national anthem.,summary: Derek and Alyssa make fun of Fergie's performance of the national anthem.,"A)
+summary: Derek and Alyssa mock Fergie's rendition of the national anthem.
+
+B)
+summary: Derek and Alyssa ridicule Fergie's version of the national anthem.
+
+C)
+summary: Derek and Alyssa deride Fergie's performance of the national anthem.
+
+D)
+summary: Derek and Alyssa make fun of Fergie's performance of the national anthem.",summary: Derek and Alyssa mock Fergie's rendition of the national anthem.,summary: Derek and Alyssa ridicule Fergie's version of the national anthem.,summary: Derek and Alyssa deride Fergie's performance of the national anthem.,summary: Derek and Alyssa make fun of Fergie's performance of the national anthem.,A,A,A,A,A
+13612194,"Ann: Hi, is the laptop still available?
+Josh: Yes it is
+Ann: I can pay 200 dollars
+Josh: The price is 250 and it's non-negotiable
+Ann: Do you have a bag for it? Some other accessories?
+Josh: I have a bag and a small usb mouse
+Ann: Sounds good, I'll take it, where can I pick it up?",Ann wants to buy Josh's laptop for $200. Josh doesn't want to negotiate the price. Ann will take it for $250 with accessories. ,summary: Ann wants to buy Josh's laptop for $200. Josh doesn't want to negotiate the price. Ann will take it for $250 with accessories. ,"A)
+summary: Ann intends to purchase Josh's computer for $200. Josh has no intention to bargain the cost. Ann will grab it for $250 with add-ons. 
+
+B)
+summary: Ann plans to procure Josh's notebook for $200. Josh refuses to negotiate the pricing. Ann will acquire it for $250 with peripherals.
+
+C)
+summary: Ann looks to secure Josh's laptop for $200. Josh does not plan to haggle over the amount. Ann will snap it up for $250 with extras.
+
+D)
+summary: Ann wants to buy Josh's laptop for $200. Josh doesn't want to negotiate the price. Ann will take it for $250 with accessories. ",summary: Ann intends to purchase Josh's computer for $200. Josh has no intention to bargain the cost. Ann will grab it for $250 with add-ons.,summary: Ann plans to procure Josh's notebook for $200. Josh refuses to negotiate the pricing. Ann will acquire it for $250 with peripherals.,summary: Ann looks to secure Josh's laptop for $200. Josh does not plan to haggle over the amount. Ann will snap it up for $250 with extras.,summary: Ann wants to buy Josh's laptop for $200. Josh doesn't want to negotiate the price. Ann will take it for $250 with accessories.,E,E,E,C,D
+13819045,"Matt: have you heard that Bon Jovi are coming to Poland?
+Phil: No way!
+Phil: where, when?
+Matt: Warsaw, next July
+Tony: would you like to go?
+Matt: Sure!
+Phil: how much are the tickets? Very expensive?
+Phil: they're huge, I guess tix can cost a bomb
+Matt: I read the cheapest ones start from pln 250
+Phil: not too bad, for Bon Jovi
+Matt: Yep!
+Tony: maybe I will go too
+Tony: Would you like to get the tix soon?
+Matt: Yes
+Matt: The sooner, the better
+Tony: Right, they may be sold out pretty soon
+Matt: How about you, Phil?
+Matt: would you like to go too?
+Phil: Will think about it
+Phil: I liked them a lot when I was a kid
+Phil: It would be great to see them live
+Matt: I guess so!
+Matt: Think about it and let me know soon, ok?
+Phil: Sure",Matt and Tony want to go to the concert of Bon Jovi next July in Poland and are planning to buy the tickets that cost 250 PLN before they’re sold out. Phil will think about it and let them know.,summary: Matt and Tony want to go to the concert of Bon Jovi next July in Poland and are planning to buy the tickets that cost 250 PLN before they’re sold out. Phil will think about it and let them know.,"A)
+summary: Matt and Tony desire to attend the concert of Bon Jovi the following July in Poland and are organizing to purchase the tickets that are priced at 250 PLN prior they’re bought up. Phil will contemplate it and inform them later.
+
+B)
+summary: Matt and Tony wish to visit Bon Jovi's concert next July in Poland and are scheming to acquire the tickets costing 250 PLN before they’re exhausted. Phil will mull over it and notify them.
+
+C)
+summary: Matt and Tony are keen on being a part of Bon Jovi's concert upcoming July in Poland and are strategizing to procure the 250 PLN priced tickets ahead they’re snapped up. Phil will reflect on it and update them.
+
+D)
+summary: Matt and Tony want to go to the concert of Bon Jovi next July in Poland and are planning to buy the tickets that cost 250 PLN before they’re sold out. Phil will think about it and let them know.",summary: Matt and Tony desire to attend the concert of Bon Jovi the following July in Poland and are organizing to purchase the tickets that are priced at 250 PLN prior they’re bought up. Phil will contemplate it and inform them later.,summary: Matt and Tony wish to visit Bon Jovi's concert next July in Poland and are scheming to acquire the tickets costing 250 PLN before they’re exhausted. Phil will mull over it and notify them.,summary: Matt and Tony are keen on being a part of Bon Jovi's concert upcoming July in Poland and are strategizing to procure the 250 PLN priced tickets ahead they’re snapped up. Phil will reflect on it and update them.,summary: Matt and Tony want to go to the concert of Bon Jovi next July in Poland and are planning to buy the tickets that cost 250 PLN before they’re sold out. Phil will think about it and let them know.,E,A,B,C,D
+13814769,"Anastasia: Our new school photos
+Anastasia: <file_photo>
+Anastasia: Look how happy I am
+Darrell: You don't look unhappy to me but it's like you're, uh
+Darrell: What was the word
+Darrell: Sceptical of something
+Darrell: ""what am I doing here""
+Anastasia: Ahahaha
+Anastasia: That's my mood everywhere I step in
+Darrell: Hahaha
+Anastasia: Well
+Anastasia: They took the photo in less than a minute actually
+Darrell: Oh wow... well, I guess there were a lot of people?
+Anastasia: Yeah
+Anastasia: School photos always suck
+Anastasia: They take them so fast and carelessly
+Darrell: They would only really take group photos of us in middle and high school
+Darrell: If someone wanted a portrait photo, I guess it was possible
+Darrell: But not obligatory
+Anastasia: Well, I needed a new one for my school ID
+Anastasia: So I had no choice here
+Darrell: Luckily no one really has to look at your school ID most of the time, haha
+Darrell: Don't worry about it
+Anastasia: Ah no, I'm not worried, I actually find it kind of funny, it's fine",Anastasia sent her new school photos to Darrell.,summary: Anastasia sent her new school photos to Darrell.,"A)
+summary: Anastasia dispatched her fresh academy portraits to Darrell.
+
+B)
+summary: Anastasia transmitted her novel education images to Darrell.
+
+C)
+summary: Anastasia conveyed her latest institution pictures to Darrell.
+
+D)
+summary: Anastasia sent her new school photos to Darrell.",summary: Anastasia dispatched her fresh academy portraits to Darrell.,summary: Anastasia transmitted her novel education images to Darrell.,summary: Anastasia conveyed her latest institution pictures to Darrell.,summary: Anastasia sent her new school photos to Darrell.,E,A,B,C,D
+13864917,"Mike: who is going for the research trip?
+Jake: Me, Florence, Margot and others
+Jake: but that's not important
+Florence: hahah
+Margot: true, we have our nice bunch of people
+Mike: so maybe I'll apply too
+Jake: but remember it can be harsh in Swazi now
+Mike: gosh, Jake, have you realised at least that it's not even Swazi anymore?
+Florence: hahaha, quite hilarious
+Jake: ?
+Margot: they changed the name of the country last year
+Jake: what? so what's the name now?
+Margot: Eswatini
+Jake: are you kidding me?
+Margot: Jake, it's basic knowledge before the trip LOL","Jake, Florence, Margot and others are going on a research trip to Swazi. The name of the country was changed last year and it's now Eswatini.","summary: Jake, Florence, Margot and others are going on a research trip to Swazi. The name of the country was changed last year and it's now Eswatini.","A)
+summary: Jake, Florence, Margot and additional individuals are embarking on an investigative journey to Swazi. The designation of the nation was altered the previous year and it's currently Eswatini.
+
+B)
+summary: Jake, Florence, Margot and the rest are proceeding on a study excursion to Swazi. The moniker of the country was modified last year and it's presently Eswatini.
+
+C)
+summary: Jake, Florence, Margot and others are setting off on an exploration voyage to Swazi. The name of the state was transformed last year and it's at this time Eswatini.
+
+D)
+summary: Jake, Florence, Margot and others are going on a research trip to Swazi. The name of the country was changed last year and it's now Eswatini.","summary: Jake, Florence, Margot and additional individuals are embarking on an investigative journey to Swazi. The designation of the nation was altered the previous year and it's currently Eswatini.","summary: Jake, Florence, Margot and the rest are proceeding on a study excursion to Swazi. The moniker of the country was modified last year and it's presently Eswatini.","summary: Jake, Florence, Margot and others are setting off on an exploration voyage to Swazi. The name of the state was transformed last year and it's at this time Eswatini.","summary: Jake, Florence, Margot and others are going on a research trip to Swazi. The name of the country was changed last year and it's now Eswatini.",E,A,B,C,D
+13717309,"Nathalie: have you thought about the holiday?
+Pauline: me & tony are into greece really
+Jacob: anywhere warm and sunny. greece cool
+Anthony: greece is warm sunny and cheapish
+Nathalie: i guess cob we ok w that
+Jacob: sure thing
+Pauline: so august as we said?
+Jacob: thats the thing. we need to be back by aug 10
+Anthony: what?? why??
+Nathalie: sis wedding
+Pauline: your lil sis getting married?!? lol
+Jacob: she's not little. seen her tony?
+Anthony: worth a look?
+Nathalie: shut up assholes. shes my sister for fucks sake
+Pauline: idiots
+Jacob: come one just kidding. we love you
+Anthony: we have no choice XD","Nathalie, Pauline, Jacob and Anthony are thinking about spending holidays in Greece together in August. Jacob and Nathalie need to be back by August 10 because of Nathalie's younger sister's wedding. ","summary: Nathalie, Pauline, Jacob and Anthony are thinking about spending holidays in Greece together in August. Jacob and Nathalie need to be back by August 10 because of Nathalie's younger sister's wedding. ","A)
+summary: Nathalie, Pauline, Jacob, and Anthony are considering taking a vacation in Greece as a group in August. Jacob and Nathalie must return by August 10 due to the marriage ceremony of Nathalie's younger sibling.
+
+B)
+summary: Nathalie, Pauline, Jacob, and Anthony are contemplating about having their holidays in Greece collectively in August. Jacob and Nathalie are required to be home by August 10 because of Nathalie's younger sister's nuptials.
+
+C)
+summary: Nathalie, Pauline, Jacob, and Anthony are mulling over about enjoying their holidays together in Greece in August. Jacob and Nathalie have to be back by August 10 owing to the wedding of Nathalie's junior sister.
+
+D)
+summary: Nathalie, Pauline, Jacob and Anthony are thinking about spending holidays in Greece together in August. Jacob and Nathalie need to be back by August 10 because of Nathalie's younger sister's wedding. ","summary: Nathalie, Pauline, Jacob, and Anthony are considering taking a vacation in Greece as a group in August. Jacob and Nathalie must return by August 10 due to the marriage ceremony of Nathalie's younger sibling.","summary: Nathalie, Pauline, Jacob, and Anthony are contemplating about having their holidays in Greece collectively in August. Jacob and Nathalie are required to be home by August 10 because of Nathalie's younger sister's nuptials.","summary: Nathalie, Pauline, Jacob, and Anthony are mulling over about enjoying their holidays together in Greece in August. Jacob and Nathalie have to be back by August 10 owing to the wedding of Nathalie's junior sister.","summary: Nathalie, Pauline, Jacob and Anthony are thinking about spending holidays in Greece together in August. Jacob and Nathalie need to be back by August 10 because of Nathalie's younger sister's wedding.",A,A,B,A,A
+13728313,"Kim: Hey, listen, have you got any idea where I can get some fresh ramal fish in Warsaw?
+Margot: Hi, I don't know about ""fresh"", but you could try the marketplace at Polna street. 
+Margot: Other than that, I haven't got a clue...
+Kim: Already tried Polna :(
+Margot: Ah!
+Margot: Hm...
+Margot: And did you check Internet for fish market in Warsaw?
+Kim: Yeah, there's none.
+Kim: Or I didn't find it. 
+Margot: You could have a look at restaurants' menus. And if you find it there, you could ask about their source. 
+Margot: Although I'm not sure they'd eager to give you such infromation. But you can always try..
+Kim: Great idea, I haven't though about this! Thx!
+Kim: I'll try. After all, I have nothing to loose. 
+Margot: Btw, is there a special occasion you want to cook it for?
+Kim: Yes! Acctually I'll grill it ;)
+Kim: And it's a surprise, so I'm not giving away any details!
+Margot: I'm so curious!
+Margot: I understant it's sth good, so I'm happy for you girl :)
+Kim: Indeed, it's good. But you won't get any more infromation from me now.
+Kim: All in good time :)
+Margot: Cruel you! Find that fish!!! ;)
+Kim: :D",Kim needs to get some fresh fish in Warsaw. Kim will ask at restaurants about their source. Kim is planning something special but won't share any details with Margot for now.,summary: Kim needs to get some fresh fish in Warsaw. Kim will ask at restaurants about their source. Kim is planning something special but won't share any details with Margot for now.,"A)
+summary: Kim needs to procure some newly caught seafood in Warsaw. Kim will inquire at eateries regarding their supplier. Kim is organizing something extraordinary but chooses not to reveal any specifics to Margot at the moment.
+
+B)
+summary: Kim requires to secure some just netted marine food in Warsaw. Kim will question at bistros about their origin. Kim is arranging something unique but elects not to divulge any particulars to Margot currently.
+
+C)
+summary: Kim has to obtain some fresh aquatic produce in Warsaw. Kim will query at dining spots about their procurement. Kim is formulating something unusual but decides not to impart any specifics to Margot for the time being.
+
+D)
+summary: Kim needs to get some fresh fish in Warsaw. Kim will ask at restaurants about their source. Kim is planning something special but won't share any details with Margot for now.",summary: Kim needs to procure some newly caught seafood in Warsaw. Kim will inquire at eateries regarding their supplier. Kim is organizing something extraordinary but chooses not to reveal any specifics to Margot at the moment.,summary: Kim requires to secure some just netted marine food in Warsaw. Kim will question at bistros about their origin. Kim is arranging something unique but elects not to divulge any particulars to Margot currently.,summary: Kim has to obtain some fresh aquatic produce in Warsaw. Kim will query at dining spots about their procurement. Kim is formulating something unusual but decides not to impart any specifics to Margot for the time being.,summary: Kim needs to get some fresh fish in Warsaw. Kim will ask at restaurants about their source. Kim is planning something special but won't share any details with Margot for now.,E,A,B,C,D
+13729680,"Malik: have you heard of that paleo diet?
+Malik: i need to lose some weight and i really want to try it
+Samantha: i've heard of it but i've also heard about the keto diet
+Samantha: AAAAANNNDDDD... i also need to lose weight lol
+Malik: what are you talking about?!? lol
+Malik: you're so skinny
+Samantha: whatever :-)
+Malik: should we try one of those together?
+Malik: it's always easier when someone's doing it with you
+Samantha: YES!!!!
+Malik: we can also go for runs together like we used to :-D
+Samantha: let's do it!! i'm so pumped!
+Malik: so paleo or keto?
+Samantha: what's the difference?
+Malik: i think they're practically the same, but you can't have dairy on paleo
+Samantha: can you have dairy on keto?
+Malik: i think you can, i'm no sure though
+Samantha: ok let me go online and read more about this
+Samantha: and i'll text you back later with more info
+Malik: ok
+Malik: are you excited??
+Samantha: i really am!!!!!!!!! :-D","Malik and Samanta want to lose weight. They will try to keep a diet, keto or paleo, and go for runs together.","summary: Malik and Samanta want to lose weight. They will try to keep a diet, keto or paleo, and go for runs together.","A)
+summary: Malik and Samanta desire to shed pounds. They will attempt to maintain a diet, keto or paleo, and opt for jogs collectively.
+
+B)
+summary: Malik and Samanta yearn to drop weight. They will endeavor to stick to a diet, keto or paleo, and set off for runs in unison.
+
+C)
+summary: Malik and Samanta aspire to lose mass. They will strive to adhere to a diet, keto or paleo, and proceed for runs jointly.
+
+D)
+summary: Malik and Samanta want to lose weight. They will try to keep a diet, keto or paleo, and go for runs together.","summary: Malik and Samanta desire to shed pounds. They will attempt to maintain a diet, keto or paleo, and opt for jogs collectively.","summary: Malik and Samanta yearn to drop weight. They will endeavor to stick to a diet, keto or paleo, and set off for runs in unison.","summary: Malik and Samanta aspire to lose mass. They will strive to adhere to a diet, keto or paleo, and proceed for runs jointly.","summary: Malik and Samanta want to lose weight. They will try to keep a diet, keto or paleo, and go for runs together.",E,A,B,C,D
+13862650,"Suzy: don't forget to follow me on Instagram :P
+Linda: do I need to? :P
+Suzy: come on, nice pictures ;)
+Linda: done
+Suzy: :)
+Linda: you're welcome ;)",Suzy urges Linda to follow her on Instagram and she obliges.,summary: Suzy urges Linda to follow her on Instagram and she obliges.,"A)
+summary: Suzy encourages Linda to join her on Instagram and she complies.
+
+B)
+summary: Suzy persuades Linda to accompany her on Instagram and she concedes.
+
+C)
+summary: Suzy prompts Linda to trail her on Instagram and she accedes.
+
+D)
+summary: Suzy urges Linda to follow her on Instagram and she obliges.",summary: Suzy encourages Linda to join her on Instagram and she complies.,summary: Suzy persuades Linda to accompany her on Instagram and she concedes.,summary: Suzy prompts Linda to trail her on Instagram and she accedes.,summary: Suzy urges Linda to follow her on Instagram and she obliges.,A,A,E,E,D
+13730333,"Jones: Hey.
+Angelina: Hey.
+Angelina: Long time. How are you doing?
+Jones: I'm fine
+Jones: You?
+Angelina: I'm cool too.
+Jones: You think we can meet today later in the afternoon in town?
+Angelina: Definitely.
+Jones: Okay. I will call you to confirm where we will meet.
+Angelina: Cool",Jones and Angelina will meet in town in the afternoon.,summary: Jones and Angelina will meet in town in the afternoon.,"A)
+summary: Jones and Angelina are set to rendezvous in the city during the afternoon.
+
+B)
+summary: Jones and Angelina will rendezvous in the urbanity during the p.m.
+
+C)
+summary: Jones and Angelina will convene in the metropolis post noon.
+
+D)
+summary: Jones and Angelina will meet in town in the afternoon.",summary: Jones and Angelina are set to rendezvous in the city during the afternoon.,summary: Jones and Angelina will rendezvous in the urbanity during the p.m.,summary: Jones and Angelina will convene in the metropolis post noon.,summary: Jones and Angelina will meet in town in the afternoon.,E,E,E,C,D
+13810336,"Erin: hey Zach
+Erin: look at this babe, I've just baked it
+Erin: <file_photo>
+Zachary: looks delicious!
+Zachary: pls bring me a piece of this later on
+Zachary: I'm pretty busy right now
+Erin: oh what are you doing then?
+Zachary: I decided to clean the flat, can you imagine?
+Erin: hardly, I need hard evidence
+Zachary: here it goes
+Zachary: <file_photo>",Erin has just baked something that Zachary finds delicious. Zachary wants her to bring him a piece of it as now he's busy cleaning. ,summary: Erin has just baked something that Zachary finds delicious. Zachary wants her to bring him a piece of it as now he's busy cleaning. ,"A)
+summary: Erin has recently cooked something that Zachary deems delectable. Zachary desires her to deliver him a portion of it as currently he's occupied with tidying.
+
+B)
+summary: Erin has freshly prepared a dish that Zachary considers tantalizing. Zachary wishes her to convey him a piece of it as he's presently engaged in sanitizing.
+
+C)
+summary: Erin has just whipped up a delicacy that Zachary finds mouth-watering. Zachary urges her to transport a slice of it to him as he is preoccupied with cleaning at the moment.
+
+D)
+summary: Erin has just baked something that Zachary finds delicious. Zachary wants her to bring him a piece of it as now he's busy cleaning. ",summary: Erin has recently cooked something that Zachary deems delectable. Zachary desires her to deliver him a portion of it as currently he's occupied with tidying.,summary: Erin has freshly prepared a dish that Zachary considers tantalizing. Zachary wishes her to convey him a piece of it as he's presently engaged in sanitizing.,summary: Erin has just whipped up a delicacy that Zachary finds mouth-watering. Zachary urges her to transport a slice of it to him as he is preoccupied with cleaning at the moment.,summary: Erin has just baked something that Zachary finds delicious. Zachary wants her to bring him a piece of it as now he's busy cleaning.,E,A,B,C,D
+13813401,"Piper: When is the payment expected?
+Bryan: I have asked my manager to send the payment
+Piper: When would he send it to me?
+Bryan: He will send you tonight
+Piper: I would be waiting
+Bryan: Sure, Client liked your work
+Piper: Hope to work with you long term ",Piper will get paid tonight. Client liked Piper's work and wants to work with her on a long-term basis.,summary: Piper will get paid tonight. Client liked Piper's work and wants to work with her on a long-term basis.,"A)
+summary: Piper will receive payment this evening. Customer appreciated Piper's efforts and desires to collaborate with her on a continuing basis. 
+
+B)
+summary: Piper is set to be compensated tonight. The client enjoyed Piper's contributions and has an interest in partnering with her long term.
+
+C)
+summary: Piper is looking at remuneration tonight. The client valued Piper's output and is hoping to engage with her over an extended period.
+
+D)
+summary: Piper will get paid tonight. Client liked Piper's work and wants to work with her on a long-term basis.",summary: Piper will receive payment this evening. Customer appreciated Piper's efforts and desires to collaborate with her on a continuing basis.,summary: Piper is set to be compensated tonight. The client enjoyed Piper's contributions and has an interest in partnering with her long term.,summary: Piper is looking at remuneration tonight. The client valued Piper's output and is hoping to engage with her over an extended period.,summary: Piper will get paid tonight. Client liked Piper's work and wants to work with her on a long-term basis.,E,A,A,C,D
+13865430,"Ulysses: Did you see your grades?
+Peter: Yes. 
+Ulysses: I got an A
+Peter: Me too
+Julia: B
+Martha: Where can I check them?
+Julia: Online
+Julia: On the course page","Ulysses and Peter got an A, Julia got a B. The grades are to be checked on the course page.","summary: Ulysses and Peter got an A, Julia got a B. The grades are to be checked on the course page.","A)
+summary: Ulysses and Peter secured an A, Julia secured a B. The scores are meant to be confirmed on the program site.
+
+B)
+summary: Ulysses and Peter achieved an A, Julia attained a B. The marks can be verified on the course webpage.
+
+C)
+summary: Ulysses and Peter received an A, Julia received a B. The grading should be inspected on the course web page.
+
+D)
+summary: Ulysses and Peter got an A, Julia got a B. The grades are to be checked on the course page.","summary: Ulysses and Peter secured an A, Julia secured a B. The scores are meant to be confirmed on the program site.","summary: Ulysses and Peter achieved an A, Julia attained a B. The marks can be verified on the course webpage.","summary: Ulysses and Peter received an A, Julia received a B. The grading should be inspected on the course web page.","summary: Ulysses and Peter got an A, Julia got a B. The grades are to be checked on the course page.",E,E,E,E,E
+13829115,"Cora: Have you heard how much fuss British media made about meet and greet with James Charles in Birmingham?
+Ellie: no...! what happened?
+Cora: Well, there was a meet and greet with James Charles in one of the malls in Birmingham and about 8000 fans showed up for it.
+Cora: It cause a gridlock around the mall and - of course - British media had to make some (quite negative) comments on it.
+Ellie: they came for sister James?! >:(
+Ellie: i sister snapped!! :p :D
+Cora: Haha :D
+Cora: You shouldn't watch so much youtube, you're getting weirder and weirder. :d
+Ellie: sister shut up :P so, what did they say?
+Cora: ;) :* ""Daily Mail"" was surprised that a meet and greet with a ""virtually unknown"" youtuber gathered 8000 people. :p
+Cora: A host from LBC tried to find an answer to an unanswerable question: ""Who is James Charles?"". Eventually James called him and introduced himself. On air. :D
+Ellie: there's something called google lol
+Cora: Right? :p
+Cora: Some hosts from ITV Central couldn't wrap their heads around the fact that a guy can wear makeup.
+Ellie: really???
+Ellie: smh it's 21st century, they should have noticed already...  there are so many amazing male makeup artists
+Cora: I agree! There are still plenty of dinosaurs in the media. :/",There was a meet-and-greet with James Charles in Birmingham which gathered 8000  people.,summary: There was a meet-and-greet with James Charles in Birmingham which gathered 8000  people.,"A)
+summary: There was a mingle session with James Charles in Birmingham which attracted 8000 individuals.
+
+B)
+summary: There was a rendezvous with James Charles in Birmingham which assembled 8000 folks.
+
+C)
+summary: There was a meet-up with James Charles in Birmingham which drew 8000 attendees.
+
+D)
+summary: There was a meet-and-greet with James Charles in Birmingham which gathered 8000  people.",summary: There was a mingle session with James Charles in Birmingham which attracted 8000 individuals.,summary: There was a rendezvous with James Charles in Birmingham which assembled 8000 folks.,summary: There was a meet-up with James Charles in Birmingham which drew 8000 attendees.,summary: There was a meet-and-greet with James Charles in Birmingham which gathered 8000  people.,A,A,B,C,A
+13865165,"Adam: My friend told me he saw Tim with a guy.
+Nate: And?
+Adam: <file_photo>
+Nate: omg
+Julia: Yeah, what a shocker
+Adam: ??? You knew?!
+Julia: I thought everyone knew
+Nate: I had no idea
+Nate: Did he tell you anything?
+Julia: That he’s gay? God no
+Adam: Why didn’t you tell us?
+Julia: First: I assumed you knew
+Julia: Second: Why would I? it’s not my business
+Nate: I think he should’ve told us ;/ not cool
+Adam: yeah, I made a completely idiot out of myself defending him
+Julia: Against whom? I’m not surprised he didn’t tell you
+Nate: Well, it’s not fair, we’re his friends
+Julia: And? Does it change anything?","Julia knew Tim was gay, while Adam and Nate didn't. ","summary: Julia knew Tim was gay, while Adam and Nate didn't. ","A)
+summary: Julia understood Tim was homosexual, whereas Adam and Nate were oblivious. 
+
+B)
+summary: Julia was aware that Tim was queer, yet Adam and Nate were unaware.
+
+C)
+summary: Julia realized Tim was gay, while Adam and Nate lacked knowledge.
+
+D)
+summary: Julia knew Tim was gay, while Adam and Nate didn't. ","summary: Julia understood Tim was homosexual, whereas Adam and Nate were oblivious.","summary: Julia was aware that Tim was queer, yet Adam and Nate were unaware.","summary: Julia realized Tim was gay, while Adam and Nate lacked knowledge.","summary: Julia knew Tim was gay, while Adam and Nate didn't.",E,E,B,C,D
+13728818,"Lily: I need to rent a pop corn machine
+Daniel: :D
+Lily: for our office Christmas party
+Daniel: very Christmasy
+Lily: We will screen Love Actually :P
+Daniel: oh I get it now
+Lily: Do you know someone who rents them?
+Daniel: I'll check!",Daniel will find out who rents a pop corn machines on Lily's request.,summary: Daniel will find out who rents a pop corn machines on Lily's request.,"A)
+summary: Daniel is going to uncover who supplies a popcorn apparatus on Lily's demand.
+
+B)
+summary: Daniel will discover who leases a corn popper at Lily's behest.
+
+C)
+summary: Daniel is set to find out who offers popcorn device rental at Lily's request.
+
+D)
+summary: Daniel will find out who rents a pop corn machines on Lily's request.",summary: Daniel is going to uncover who supplies a popcorn apparatus on Lily's demand.,summary: Daniel will discover who leases a corn popper at Lily's behest.,summary: Daniel is set to find out who offers popcorn device rental at Lily's request.,summary: Daniel will find out who rents a pop corn machines on Lily's request.,C,A,B,B,C
+13682380,"Phil: Hi. Are you home?
+Nancy: Yes. Where are you?
+Phil: Still in the shop. 
+Nancy: What are you doing there? 
+Phil: There are such crowds. Everywhere.
+Nancy: Really?
+Phil: First, I couldn't find any parking place. Now I'm standing in a gigantic queue.
+Nancy: Have you got everything?
+Phil: I think so.
+Nancy: Oh, I'm sorry. I know you hate it before X-mas.
+Phil: Will you make an apple pie? Please? I was passing by a cafe and thought of that immediately. My mouth is watering when I think of that smell.
+Nancy: Sure, honey. Of course I will.
+Phil: Wonderful! I think I'll be home in an hour.
+Nancy: Ok. Waiting for you :-) I've got everything I need for the pie, so it will be in the oven when you arrive :-)
+Phil: Thanks, babe! :-*
+Nancy: :-*",It took Phil a very long time to do the Christmas shopping but he probably managed to get everything. He will be home in an hour. Phil's apple pie will be in the oven when he arrives.,summary: It took Phil a very long time to do the Christmas shopping but he probably managed to get everything. He will be home in an hour. Phil's apple pie will be in the oven when he arrives.,"A)
+summary: It required Phil an extremely lengthy period to complete the Christmas purchases but he likely succeeded in acquiring all items. He will arrive home in about 60 minutes. Phil's apple tart will be baking when he shows up.
+
+B)
+summary: It demanded Phil a greatly extended duration to finalize the Christmas buying but he feasibly achieved to secure everything. He will reach home in a single hour. Phil's apple dessert will be cooking when he comes.
+
+C)
+summary: It necessitated Phil a particularly prolonged span to accomplish the Christmas procurement but he presumptively attained all necessities. He will be back at home in an hour's time. Phil's apple pastry will be roasting when he returns.
+
+D)
+summary: It took Phil a very long time to do the Christmas shopping but he probably managed to get everything. He will be home in an hour. Phil's apple pie will be in the oven when he arrives.",summary: It required Phil an extremely lengthy period to complete the Christmas purchases but he likely succeeded in acquiring all items. He will arrive home in about 60 minutes. Phil's apple tart will be baking when he shows up.,summary: It demanded Phil a greatly extended duration to finalize the Christmas buying but he feasibly achieved to secure everything. He will reach home in a single hour. Phil's apple dessert will be cooking when he comes.,summary: It necessitated Phil a particularly prolonged span to accomplish the Christmas procurement but he presumptively attained all necessities. He will be back at home in an hour's time. Phil's apple pastry will be roasting when he returns.,summary: It took Phil a very long time to do the Christmas shopping but he probably managed to get everything. He will be home in an hour. Phil's apple pie will be in the oven when he arrives.,E,A,B,C,D
+13729285,"Gemma: How's it going?
+Timmy: A bit down 2day.
+Gemma: Y?
+Timmy: Oh, bad day at work. Can u imagine? Boss snapped at me!
+Gemma: That bitch! What did u do?
+Timmy: Nothing. Minding my own business, doing work stuff and suddenly starts shouting and screaming. Doesn't matter. How about u?
+Gemma: Well, I think this might cheer u up a bit :)
+Timmy: What is it?
+Gemma: I'm organising a bbq at the weekend :) wanna come?
+Timmy: Love to! What do I bring?
+Gemma: Some wine will be fine.
+Timmy: What about food?
+Gemma: Others and I will cover it.
+Timmy: Others? I thought it was a date :P
+Gemma: U remember I have a bf, right?
+Timmy: Yeah. Just messing around ;) how many ppl?
+Gemma: Don't know yet. ",Timmy had a bad day at work. Timmy will bring some wine to Gemma's bbq at the weekend.,summary: Timmy had a bad day at work. Timmy will bring some wine to Gemma's bbq at the weekend.,"A)
+summary: Timmy experienced a terrible day on the job. Timmy intends to carry some wine to Gemma's cookout this weekend.
+
+B)
+summary: Timmy endured a poor day in the office. Timmy is set to take some wine to Gemma's barbecue during the weekend.
+
+C)
+summary: Timmy had an awful day at his workplace. Timmy plans to deliver some wine to Gemma's grilling event on the coming weekend.
+
+D)
+summary: Timmy had a bad day at work. Timmy will bring some wine to Gemma's bbq at the weekend.",summary: Timmy experienced a terrible day on the job. Timmy intends to carry some wine to Gemma's cookout this weekend.,summary: Timmy endured a poor day in the office. Timmy is set to take some wine to Gemma's barbecue during the weekend.,summary: Timmy had an awful day at his workplace. Timmy plans to deliver some wine to Gemma's grilling event on the coming weekend.,summary: Timmy had a bad day at work. Timmy will bring some wine to Gemma's bbq at the weekend.,E,A,B,C,D
+13862566,"Shaldona: WE ARE GONNA GET MARRIED ❤️❤️
+Shaldona: <file_others>
+Shaldona: This is our mobile inviation for our wedding.
+Shaldona: Invitation*
+Piper: Hey. You haven’t sent me any messages for a few years.
+Piper: And now you are sending me your wedding invitation 
+Piper: THROUGH MESSENGER?
+Shaldona: .....
+Shaldona: Well..
+Shaldona: I had no enough time to meet everybody and give this in person.
+Shaldona: Hope you understand.
+Piper: If you don't have time to give the invitation card in person but expect people go to your wedding
+Piper: Shaldona, if so, you are too greedy.","Shaldona sends mobile invitations to her wedding, as she has no time to give them in person.","summary: Shaldona sends mobile invitations to her wedding, as she has no time to give them in person.","A)
+summary: Shaldona dispatches digital invites to her marriage, due to her lack of time to distribute them face-to-face.
+
+B)
+summary: Shaldona transmits electronic invitations for her nuptials because she doesn't hold the time to hand them personally.
+
+C)
+summary: Shaldona circulates phone-based requests to her matrimony as she possesses no spare time to deliver them individually.
+
+D)
+summary: Shaldona sends mobile invitations to her wedding, as she has no time to give them in person.","summary: Shaldona dispatches digital invites to her marriage, due to her lack of time to distribute them face-to-face.",summary: Shaldona transmits electronic invitations for her nuptials because she doesn't hold the time to hand them personally.,summary: Shaldona circulates phone-based requests to her matrimony as she possesses no spare time to deliver them individually.,"summary: Shaldona sends mobile invitations to her wedding, as she has no time to give them in person.",E,E,E,C,D
+13717011,"Perry: have you thought about holiday yet?
+Marlow: Asia?
+Perry: you mean in July or August?
+Marlow: w/janet we thought about September it's cheaper i guess
+Janet: yeah but we need to check the weather and everything
+Forster: Cloete wanted to go to the mountains so i guess that's my plan
+Perry: frankly we have no idea. went to seaside last year
+Marlow: Asia could be the place 2go. Janet would be cool yeah?
+Janet: sure thing. Would be gr8 2go 2gether
+Perry: dunno if we can afford. Need to talk to Nina
+Janet: why not meet 2nite over beer and talk?
+Perry: super but not 2day no. cinema :):)
+Janet: oh I forgot you won the tickets right?
+Perry: yeah but we could meet 2moro evening if ur free
+Janet: do we have plans Marlow? 
+Marlow: no i dont think so
+Forster: could we come over too
+Perry: yeah fantastic. byob tho
+Forster: sure thing 8 pm is fine?
+Perry: perfect for me
+Janet: gr8 for us. we can visit pa first
+Marlow: fine by me. let's do it guys!","Perry, Marlow, Janet and Forster discuss their holiday plans. Marlow would like to go to Asia, others will think if they can join. The friends will meet tomorrow at 8 pm to discuss that. ","summary: Perry, Marlow, Janet and Forster discuss their holiday plans. Marlow would like to go to Asia, others will think if they can join. The friends will meet tomorrow at 8 pm to discuss that. ","A)
+summary: Perry, Marlow, Janet and Forster converse about their vacation agendas. Marlow expresses a desire to visit Asia, the rest will contemplate if they can accompany him. The companions will assemble the following day at 8 pm to talk further.
+
+B)
+summary: Perry, Marlow, Janet and Forster engage in a discussion regarding their leisure trip arrangements. Marlow shows interest in traveling to Asia, the remainder will mull over the possibility of joining. The group will convene tomorrow at 8 pm to deliberate on this matter.
+
+C)
+summary: Perry, Marlow, Janet and Forster debate about their forthcoming holiday strategies. Marlow reveals a preference for heading to Asia, others shall consider if they are able to join him. These friends plan to regroup the subsequent day at 8 pm to discuss more about it.
+
+D)
+summary: Perry, Marlow, Janet and Forster discuss their holiday plans. Marlow would like to go to Asia, others will think if they can join. The friends will meet tomorrow at 8 pm to discuss that. ","summary: Perry, Marlow, Janet and Forster converse about their vacation agendas. Marlow expresses a desire to visit Asia, the rest will contemplate if they can accompany him. The companions will assemble the following day at 8 pm to talk further.","summary: Perry, Marlow, Janet and Forster engage in a discussion regarding their leisure trip arrangements. Marlow shows interest in traveling to Asia, the remainder will mull over the possibility of joining. The group will convene tomorrow at 8 pm to deliberate on this matter.","summary: Perry, Marlow, Janet and Forster debate about their forthcoming holiday strategies. Marlow reveals a preference for heading to Asia, others shall consider if they are able to join him. These friends plan to regroup the subsequent day at 8 pm to discuss more about it.","summary: Perry, Marlow, Janet and Forster discuss their holiday plans. Marlow would like to go to Asia, others will think if they can join. The friends will meet tomorrow at 8 pm to discuss that.",E,A,E,C,D
+13611880,"Joyce: Honey, can I take the car?
+Kyle: No, I'm sorry.
+Joyce: Why not? How am I supposed to go get Harry?
+Kyle: I've got to go to a mechanic. The car is making a weird noise.
+Joyce: Then can you get Harry on your way?
+Kyle: I don't know, I'm already running late.
+Joyce: Am I supposed to go get him by bus? That's ridiculous.
+Kyle: Fine, I'll get him.
+Joyce: Thank you.",Joyce wants to take Kyle's car to get Harry. Kyle is taking the car to a mechanic. Joyce refuses to get Harry by bus. Kyle agrees to pick Harry up. ,summary: Joyce wants to take Kyle's car to get Harry. Kyle is taking the car to a mechanic. Joyce refuses to get Harry by bus. Kyle agrees to pick Harry up. ,"A)
+summary: Joyce intends to borrow Kyle's vehicle to fetch Harry. Kyle is bringing the vehicle to a repairman. Joyce declines to retrieve Harry by coach. Kyle consents to collect Harry.
+
+B)
+summary: Joyce desires to utilize Kyle's automobile to pick up Harry. Kyle is transporting the automobile to a fixer. Joyce rejects to go for Harry via public transport. Kyle approves to gather Harry.
+
+C)
+summary: Joyce plans to use Kyle's auto to collect Harry. Kyle is moving the auto to a technician. Joyce refuses to reach Harry through mass transit. Kyle agrees to get Harry.
+
+D)
+summary: Joyce wants to take Kyle's car to get Harry. Kyle is taking the car to a mechanic. Joyce refuses to get Harry by bus. Kyle agrees to pick Harry up. ",summary: Joyce intends to borrow Kyle's vehicle to fetch Harry. Kyle is bringing the vehicle to a repairman. Joyce declines to retrieve Harry by coach. Kyle consents to collect Harry.,summary: Joyce desires to utilize Kyle's automobile to pick up Harry. Kyle is transporting the automobile to a fixer. Joyce rejects to go for Harry via public transport. Kyle approves to gather Harry.,summary: Joyce plans to use Kyle's auto to collect Harry. Kyle is moving the auto to a technician. Joyce refuses to reach Harry through mass transit. Kyle agrees to get Harry.,summary: Joyce wants to take Kyle's car to get Harry. Kyle is taking the car to a mechanic. Joyce refuses to get Harry by bus. Kyle agrees to pick Harry up.,E,A,B,C,D
+13680539,"Tim: I'm running late
+Gary: when will you be here?
+Tim: About twenty past. You go in and just make some small talk, try and delay the main presentation
+Gary: I'm on it.",Tim is running late and will arrive around twenty past. He asked Gary to do some small talk and try to delay the main presentation.,summary: Tim is running late and will arrive around twenty past. He asked Gary to do some small talk and try to delay the main presentation.,"A)
+summary: Tim is delayed and will come approximately at twenty past. He requested Gary to engage in casual conversation and attempt to postpone the primary demonstration.
+
+B)
+summary: Tim is behind schedule and will show up about twenty after. He implored Gary to partake in light chatter and strive to put off the key presentation.
+
+C)
+summary: Tim is tardy and will reach around twenty minutes past the hour. He solicited Gary to participate in minor dialogue and endeavour to defer the main exposé.
+
+D)
+summary: Tim is running late and will arrive around twenty past. He asked Gary to do some small talk and try to delay the main presentation.",summary: Tim is delayed and will come approximately at twenty past. He requested Gary to engage in casual conversation and attempt to postpone the primary demonstration.,summary: Tim is behind schedule and will show up about twenty after. He implored Gary to partake in light chatter and strive to put off the key presentation.,summary: Tim is tardy and will reach around twenty minutes past the hour. He solicited Gary to participate in minor dialogue and endeavour to defer the main exposé.,summary: Tim is running late and will arrive around twenty past. He asked Gary to do some small talk and try to delay the main presentation.,E,A,B,C,D
+13681603,"Ella: so? 
+Molly: ?
+Ella: come on! pics or it didn't happen
+Molly: what are you going on about?
+Ella: I heard you met up with Chuck
+Molly: no... when was this suppossed to happen?
+Ella: friday
+Molly: Holly fuck that little shit made a story up
+Ella: ?
+Molly: I told him no and the little fucker made up a story
+Molly: Im gonna kill him ","Chuck told Ella that he'd met up with Molly. He made up the story, as actually Molly refused to go out with him. ","summary: Chuck told Ella that he'd met up with Molly. He made up the story, as actually Molly refused to go out with him. ","A)
+summary: Chuck informed Ella that he'd rendezvoused with Molly. He invented the tale, as in reality Molly declined to date him.
+
+B)
+summary: Chuck notified Ella that he'd met Molly. He fabricated the account, as in fact Molly refused to be with him.
+
+C)
+summary: Chuck communicated to Ella that he'd gathered with Molly. He concocted the narrative, as really Molly resisted to hang out with him.
+
+D)
+summary: Chuck told Ella that he'd met up with Molly. He made up the story, as actually Molly refused to go out with him. ","summary: Chuck informed Ella that he'd rendezvoused with Molly. He invented the tale, as in reality Molly declined to date him.","summary: Chuck notified Ella that he'd met Molly. He fabricated the account, as in fact Molly refused to be with him.","summary: Chuck communicated to Ella that he'd gathered with Molly. He concocted the narrative, as really Molly resisted to hang out with him.","summary: Chuck told Ella that he'd met up with Molly. He made up the story, as actually Molly refused to go out with him.",E,A,B,C,D
+13730863,"Taylor: Tomorrow, 8 PM, my house
+Harry: Lol, what’s up?
+Taylor: My parents are away, 10 people confirmed already :D
+Harry: Im sooo in
+Taylor: You better, you’d miss the party of the year!",Harry will go to Taylors party tomorrow at 8pm. ,summary: Harry will go to Taylors party tomorrow at 8pm. ,"A)
+summary: Harry will head to Taylor's celebration tomorrow at 8pm.
+
+B)
+summary: Harry will proceed to Taylor's festivity tomorrow at 8pm.
+
+C)
+summary: Harry will travel to Taylor's gathering tomorrow at 8pm.
+
+D)
+summary: Harry will go to Taylors party tomorrow at 8pm. ",summary: Harry will head to Taylor's celebration tomorrow at 8pm.,summary: Harry will proceed to Taylor's festivity tomorrow at 8pm.,summary: Harry will travel to Taylor's gathering tomorrow at 8pm.,summary: Harry will go to Taylors party tomorrow at 8pm.,E,A,E,C,D
+13731506,"Christie: how are you after the party?
+Katie: really tired... and you?
+Christie: same
+Christie: the party was great!
+Katie: Yeah, we had fun! :)",Christie and Katie are tired after the party. They both had fun.,summary: Christie and Katie are tired after the party. They both had fun.,"A)
+summary: Christie and Katie are exhausted after the celebration. They both enjoyed themselves.
+
+B)
+summary: Christie and Katie are weary after the festivity. They both had a good time.
+
+C)
+summary: Christie and Katie are fatigued after the event. They both had pleasure.
+
+D)
+summary: Christie and Katie are tired after the party. They both had fun.",summary: Christie and Katie are exhausted after the celebration. They both enjoyed themselves.,summary: Christie and Katie are weary after the festivity. They both had a good time.,summary: Christie and Katie are fatigued after the event. They both had pleasure.,summary: Christie and Katie are tired after the party. They both had fun.,A,A,E,E,E
+13731212,"Chandler: Phoebe!! Do you have money?? 
+Phoebe: Yes I have .. But why do you need it..
+Chandler: Open your door.. And pay the delivery guy standing outside my door..
+Phoebe: Oh chandler !! you idiot... On my way..",Chandler asks Phoebe to open the door and pay the delivery guy standing outside his door.,summary: Chandler asks Phoebe to open the door and pay the delivery guy standing outside his door.,"A)
+summary: Chandler requests Phoebe to unlock the entrance and compensate the deliverer loitering outside his gateway.
+
+B)
+summary: Chandler entreats Phoebe to unfasten the gate and remunerate the courier lingering outside his doorway.
+
+C)
+summary: Chandler pleads Phoebe to release the latch and settle the gentleman making the delivery, waiting outside his portal.
+
+D)
+summary: Chandler asks Phoebe to open the door and pay the delivery guy standing outside his door.",summary: Chandler requests Phoebe to unlock the entrance and compensate the deliverer loitering outside his gateway.,summary: Chandler entreats Phoebe to unfasten the gate and remunerate the courier lingering outside his doorway.,"summary: Chandler pleads Phoebe to release the latch and settle the gentleman making the delivery, waiting outside his portal.",summary: Chandler asks Phoebe to open the door and pay the delivery guy standing outside his door.,E,E,B,C,D
+13819277,"Katy: Hey Carlton
+Ana: Hey Carlos
+Carlton: 😹
+Carlton: What are you up to? Any plans for the weekend?
+Ana: Yep. We’re going to see this film by Lola Arias actually. You know her, right?
+Carlton: Yes, she’s pretty famous actually and she’s done some work on my subject. I’ve seen her play about the Malvinas last year - it was v good
+Ana: Yeah, Katy told me. We thought you might be interested in joining us because the film is actually on the making of the play you saw 😂
+Katy: It’s a multi-layered cultural sandwich we’ve got for you Carlos
+Carlton: Sounds delicious. Where and when are we meeting?
+Ana: Just come to ours for an early dinner/drinks and then we’ll grab an uber
+Katy: Ana wants to avoid you getting lost on your way and/or being LATE
+Carlton: Ha ha ha sounds good to me
+Katy: So perhaps you could drop by at like 7. On Saturday!!
+Carlton: Erm, sorry - Saturday is fully booked
+Carlton: Just joking 😂 I’ll see you then
+Ana: 😂 cool
+Katy: 😍😍😍😘😘😘",Katy and Ana invite Carlton to join them for a movie by Lola Arias on the making of the play he had seen. He will come to their place earlier on Saturday.,summary: Katy and Ana invite Carlton to join them for a movie by Lola Arias on the making of the play he had seen. He will come to their place earlier on Saturday.,"A)
+summary: Katy and Ana entice Carlton to accompany them for a film by Lola Arias concerning the production of the drama he had observed. He will visit their dwelling sooner on Saturday.
+
+B)
+summary: Katy and Ana persuade Carlton to join them for a cinema by Lola Arias about the creation of the play he had viewed. He will arrive at their residence earlier on Saturday.
+
+C)
+summary: Katy and Ana coax Carlton to come with them for a motion picture by Lola Arias related to the construction of the theater-piece he had witnessed. He will reach their home in the initial hours of Saturday.
+
+D)
+summary: Katy and Ana invite Carlton to join them for a movie by Lola Arias on the making of the play he had seen. He will come to their place earlier on Saturday.",summary: Katy and Ana entice Carlton to accompany them for a film by Lola Arias concerning the production of the drama he had observed. He will visit their dwelling sooner on Saturday.,summary: Katy and Ana persuade Carlton to join them for a cinema by Lola Arias about the creation of the play he had viewed. He will arrive at their residence earlier on Saturday.,summary: Katy and Ana coax Carlton to come with them for a motion picture by Lola Arias related to the construction of the theater-piece he had witnessed. He will reach their home in the initial hours of Saturday.,summary: Katy and Ana invite Carlton to join them for a movie by Lola Arias on the making of the play he had seen. He will come to their place earlier on Saturday.,E,A,B,C,D
+13716128,"Ollie: Okay, Kelly! Ur up nxt!
+Kelly: Me? I don't wanna.
+Mickey: C'mon!
+Jessica: Yeah! What's yours?
+Kelly: Fine. It's a sculpture garden in Finnland.
+Ollie: What's scary about sculptures? Wait! Do they resemble vampires and stuff?
+Mickey: Nah, I'm sure they look rly nice.
+Kelly: It's not the sculptures, it's the amount of them and their faces!
+Jessica: Faces? What faces?
+Kelly: Well, they resemble ppl in different activities like hugging, training, doing sport and so on. But the faces are just morbid and there's like a hundred of them. All staring at you!
+Ollie: Another one?
+Mickey: Certainly!
+Jessica: Well, Ollie, ur turn!
+Ollie: Nagoro village in Japan!
+Mickey: Y?
+Ollie: Well, maybe it's not scary, but it similar to Kelly's place. It's just creepy as hell.
+Jessica: Bt y?
+Ollie: Imagine a village with ppl living in it. And in the same village u have these human-sized figures. And there's more of them than the ppl that actually live there!
+Kelly: Creepy AH!
+Mickey: WTF?! Y would ppl even do that?
+Jessica: Idk. Idc. Never. Going. There.
+Ollie: See! Mine was the worst!
+Jessica: Bt not the scariest!
+Ollie: Point taken.
+Mickey: Listen, guys, fun talking to u, bt gotta go. 
+Kelly: Yeah, me too. Bye!
+Jessica: Bye!
+Ollie: Cu!","Kelly is scared of sculpture garden figures in Finnland, she finds figure's faces morbid. For Ollie it's Nagoro village in Japan, it's creepy. ","summary: Kelly is scared of sculpture garden figures in Finnland, she finds figure's faces morbid. For Ollie it's Nagoro village in Japan, it's creepy. ","A)
+summary: Kelly is terrified of statue park figures in Finland, she perceives figure's faces as grim. For Ollie, it's Nagoro hamlet in Japan, it's eerie.
+
+B)
+summary: Kelly is frightened by sculpture park representations in Finland, she considers figure's faces as macabre. For Ollie, it's Nagoro locality in Japan, it's spooky.
+
+C)
+summary: Kelly is fearful of statuary garden models in Finland, she deems figure's faces as ghastly. For Ollie, it's Nagoro settlement in Japan, it's chilling.
+
+D)
+summary: Kelly is scared of sculpture garden figures in Finnland, she finds figure's faces morbid. For Ollie it's Nagoro village in Japan, it's creepy. ","summary: Kelly is terrified of statue park figures in Finland, she perceives figure's faces as grim. For Ollie, it's Nagoro hamlet in Japan, it's eerie.","summary: Kelly is frightened by sculpture park representations in Finland, she considers figure's faces as macabre. For Ollie, it's Nagoro locality in Japan, it's spooky.","summary: Kelly is fearful of statuary garden models in Finland, she deems figure's faces as ghastly. For Ollie, it's Nagoro settlement in Japan, it's chilling.","summary: Kelly is scared of sculpture garden figures in Finnland, she finds figure's faces morbid. For Ollie it's Nagoro village in Japan, it's creepy.",A,A,A,A,A
+13727702,"Ariana: I think I am going shopping
+Aviana: Where? 
+Aviana: Midtown? 
+Ariana: Yeah
+Ariana: I wanna buy some stuff
+Aviana: I wish I could go with you 
+Ariana: Thats ok 🙂",Ariana will do shopping in Midtown. Aviana can't join her.,summary: Ariana will do shopping in Midtown. Aviana can't join her.,"A)
+summary: Ariana will go purchasing in Midtown. Aviana can't accompany her.
+
+B)
+summary: Ariana will engage in retail therapy in Midtown. Aviana is unable to participate.
+
+C)
+summary: Ariana will perform buying in Midtown. Aviana isn't capable to go along with her.
+
+D)
+summary: Ariana will do shopping in Midtown. Aviana can't join her.",summary: Ariana will go purchasing in Midtown. Aviana can't accompany her.,summary: Ariana will engage in retail therapy in Midtown. Aviana is unable to participate.,summary: Ariana will perform buying in Midtown. Aviana isn't capable to go along with her.,summary: Ariana will do shopping in Midtown. Aviana can't join her.,E,A,E,E,D
+13717250,"Johnatan: yoo guys
+Darren: B-)
+Lucas: hey wassup
+Johnatan: beer? now?
+Darren: hell yeah B-)
+Lucas: I'm free in the evening","Lucas, Johnatan and Darren are going to get some beer.","summary: Lucas, Johnatan and Darren are going to get some beer.","A)
+summary: Lucas, Johnatan and Darren are planning to acquire some ale.
+
+B)
+summary: Lucas, Johnatan and Darren are intending to procure some lager.
+
+C)
+summary: Lucas, Johnatan and Darren are about to secure some brew.
+
+D)
+summary: Lucas, Johnatan and Darren are going to get some beer.","summary: Lucas, Johnatan and Darren are planning to acquire some ale.","summary: Lucas, Johnatan and Darren are intending to procure some lager.","summary: Lucas, Johnatan and Darren are about to secure some brew.","summary: Lucas, Johnatan and Darren are going to get some beer.",E,E,E,C,D
+13829756,"Lisa: I have to clean the house.
+Bob: Yes, it's very dirty.
+Lisa: You can help me.
+Bob: Why me?
+Lisa: Because you helped make it dirty.
+Bob: What do you want me to do?
+Lisa: I want you to clean the bathroom.
+Bob: Oh, that's easy.
+Lisa: Clean the sink, the tub, the counter, and the toilet.
+Bob: That's a lot of work.
+Lisa: Tell me when you finish.
+Bob: I don't think so. You'll just give me more work. ","Bob is going to help Lisa clean the house, he will clean the bathroom. ","summary: Bob is going to help Lisa clean the house, he will clean the bathroom. ","A)
+summary: Bob plans to assist Lisa tidy the dwelling, he'll sanitize the restroom. 
+
+B)
+summary: Bob intends to aid Lisa in cleaning the residence, his task is to cleanse the washroom.
+
+C)
+summary: Bob is set to help Lisa neaten the abode, his duty is to spruce up the bathroom.
+
+D)
+summary: Bob is going to help Lisa clean the house, he will clean the bathroom. ","summary: Bob plans to assist Lisa tidy the dwelling, he'll sanitize the restroom.","summary: Bob intends to aid Lisa in cleaning the residence, his task is to cleanse the washroom.","summary: Bob is set to help Lisa neaten the abode, his duty is to spruce up the bathroom.","summary: Bob is going to help Lisa clean the house, he will clean the bathroom.",E,A,B,C,D
+13680702,"Noah: Hi there! The quince we talked about the other day... Are you still interested?
+Sophie: Hello Noah, but of course I am.Thank you.
+Noah: Actually William went to collect the rest of them for you immediately. They're in a basket on our terrace, so you call collect them any time.
+Sophie: That's very very kind of him! He's really a darling.
+Sophie: We won't be going your direction any time soon I'm afraid. How long will they keep? Is it windfall?
+Noah: Both really but they all look very healthy. No bruises afa one can see. Or only odd small ones. They' be alright for a couple of days I guess. The weather's cool.
+Sophie: It would be a shame if they rotted. I'll talk to Frank and maybe to the twins too and go back to you asap.
+Noah: OK.
+Sophie: Hey Noah, the twins will be on their way from Notts tomorrow afternoon and passing Windfield. Is it alright if they pop in and collect the quince?
+Noah: Absolutely! In fact anyone can come any time and just take them from our terrace. Of course it would be great to see your twins again. Haven't seen them for ages!
+Sophie: Well we don't see that much of them either :( They'll be coming home this weekend only because of Alexa's ceremony.
+Noah: Notts is 3 hours' drive away so small wonder they don't fancy it so much.
+Sophie: I don't blame them! We're both happy they've been doing fine at college. Everything's absolutely fine. You don't have William at home all that often either, do you?
+Noah: He gets 5 days at Xmas by way of ""family care"" and 2 weeks off spread over the whole year but never longer that 5 days. They have a strict regime at the academy. But after all these years we've learned to cope with it. What worries me is that he seems to have no time to even think about getting married and start a family of his own.
+Sophie: The fate of most military I guess. Hugely unfair I'd say. Like being married to your regiment!
+Noah: That's what it sounds like when he talks about himself! I never hear a girl's name! And when I ask, he gets brusque.
+Sophie: Oh dear! What could it mean?
+Noah: No, not what you think! We know from Capt. Broomsberg about their common escapades. Plenty of women but only that sort of women. No strings.
+Sophie: I never even imagined he might be gay! Surely not. But there must be sth else.
+Noah: We think he's just so obsessively career-minded. Nothing else counts for him.
+Sophie: He's always been very strong-willed. And he knows what he wants. Well if I were you I wouldn't worry at all.
+Noah: You're probably right. But you know I'd love it so much to have plenty of grandchildren around me.
+Sophie: They'll come, don't you worry! Look the twins will contact you about the quince. Alright?
+Noah: Sure. Thank you Sophie for a nice chat!
+Sophie: Thank you for the quince!",Sophie accepts some quince from Noah. Noah has left the quince in a basket on his terrace and the twins can pick it up any time. The twins are in college. Noah's son is in the military. He is still single but reportedly not gay.,summary: Sophie accepts some quince from Noah. Noah has left the quince in a basket on his terrace and the twins can pick it up any time. The twins are in college. Noah's son is in the military. He is still single but reportedly not gay.,"A)
+summary: Sophie agrees to some quince from Noah. Noah has positioned the quince in a container on his balcony and the two siblings can gather it whenever they like. The siblings are in university. Noah's offspring is in the armed forces. He remains unmarried yet allegedly not homosexual.
+
+B)
+summary: Sophie consents to some quince from Noah. Noah has situated the quince in a bin on his porch and the pair can retrieve it at any instance. The pair are in academia. Noah's lad is in the defence force. He continues unattached but supposedly not homosexual.
+
+C)
+summary: Sophie approves some quince from Noah. Noah has deposited the quince in a crate on his patio and the duo can collect it whenever necessary. The duo are in advanced studies. Noah's child is in the military service. He persists unwed yet reportedly not gay.
+
+D)
+summary: Sophie accepts some quince from Noah. Noah has left the quince in a basket on his terrace and the twins can pick it up any time. The twins are in college. Noah's son is in the military. He is still single but reportedly not gay.",summary: Sophie agrees to some quince from Noah. Noah has positioned the quince in a container on his balcony and the two siblings can gather it whenever they like. The siblings are in university. Noah's offspring is in the armed forces. He remains unmarried yet allegedly not homosexual.,summary: Sophie consents to some quince from Noah. Noah has situated the quince in a bin on his porch and the pair can retrieve it at any instance. The pair are in academia. Noah's lad is in the defence force. He continues unattached but supposedly not homosexual.,summary: Sophie approves some quince from Noah. Noah has deposited the quince in a crate on his patio and the duo can collect it whenever necessary. The duo are in advanced studies. Noah's child is in the military service. He persists unwed yet reportedly not gay.,summary: Sophie accepts some quince from Noah. Noah has left the quince in a basket on his terrace and the twins can pick it up any time. The twins are in college. Noah's son is in the military. He is still single but reportedly not gay.,D,A,B,C,D
+13810120,"Riley: Chloe is on tv!!
+James: on which channel?
+James: never mind i've found it
+James: what is she doing? i don't get it
+Riley: this is a programme in which women undergo a complete metamorphosis.
+Riley: OMG she looks drop dead gorgeous!",Riley and James watch Chloe on tv undergoing a metamorphosis.,summary: Riley and James watch Chloe on tv undergoing a metamorphosis.,"A)
+summary: Riley and James observe Chloe on television experiencing a transformation.
+
+B)
+summary: Riley and James view Chloe on the small screen undergoing a change.
+
+C)
+summary: Riley and James watch Chloe on the tube going through a metamorphosis.
+
+D)
+summary: Riley and James watch Chloe on tv undergoing a metamorphosis.",summary: Riley and James observe Chloe on television experiencing a transformation.,summary: Riley and James view Chloe on the small screen undergoing a change.,summary: Riley and James watch Chloe on the tube going through a metamorphosis.,summary: Riley and James watch Chloe on tv undergoing a metamorphosis.,E,E,E,E,D
+13682100,"Stewart: Can you believe he even said that about the forests? Raking? Really?
+Shari: Yes. I can believe that this is an ignorant man. He proves it daily. This just one more example!
+Stewart: He just has no clue.
+Shari: I mean, there are so many people dead and all he can think to do is criticize the forestry department? With a totally inappropriate suggestion? Puhleeze.
+Stewart: I can't wait to vote for anyone else but him.
+Shari: I know what you mean. Half my friends voted for him just to see what would happen! Well, guess what?
+Stewart: Yeah, but we couldn't go another 4 years with a Democrat. The country would go broke!
+Shari: Maybe, but at least we wouldn't be hated around the world and led by an ignorant piece of shit!
+Stewart: You've got a point!
+Shari: I'm not sure he will finish out his term, with all the legal problems, but he seems to be able to hold off the big stuff. Somehow.
+Stewart: I know. How is that even possible?
+Shari: I'm not sure. I mean, he's breaking amendments to the constitution here!
+Stewart: Only on the fringe.
+Shari: Maybe.
+Stewart: We have to make the best of it now. Nothing we can do.
+Shari: Except vote him out!
+Stewart: Exactly. But that's not for a while.
+Shari: Closer every day. If only there was a good candidate.
+Stewart: From your mouth to the Dem National Committee's ears!
+Shari: LOL!
+Stewart: We should volunteer. Get out the voters or something.
+Shari: Good idea.
+Stewart: Let me see what's out there and I'll let you know.
+Shari: Great! ",Stewart and Shari find the current president ignorant and incompetent. They hope he gets voted out. Stewart is going to see what possibilities there are of volunteering in the upcoming elections.,summary: Stewart and Shari find the current president ignorant and incompetent. They hope he gets voted out. Stewart is going to see what possibilities there are of volunteering in the upcoming elections.,"A)
+summary: Stewart and Shari perceive the existing leader as unschooled and incapable. They aspire for him to be voted off. Stewart plans to explore potential opportunities in volunteering in the future elections.
+
+B)
+summary: Stewart and Shari deem the present chief as uninformed and inept. They desire him to be elected out. Stewart means to investigate what chances there are for volunteering in the imminent elections.
+
+C)
+summary: Stewart and Shari regard the incumbent head as oblivious and inadequate. They wish him to be defeated in poll. Stewart intends to assess what prospects there are of volunteering in the approaching elections.
+
+D)
+summary: Stewart and Shari find the current president ignorant and incompetent. They hope he gets voted out. Stewart is going to see what possibilities there are of volunteering in the upcoming elections.",summary: Stewart and Shari perceive the existing leader as unschooled and incapable. They aspire for him to be voted off. Stewart plans to explore potential opportunities in volunteering in the future elections.,summary: Stewart and Shari deem the present chief as uninformed and inept. They desire him to be elected out. Stewart means to investigate what chances there are for volunteering in the imminent elections.,summary: Stewart and Shari regard the incumbent head as oblivious and inadequate. They wish him to be defeated in poll. Stewart intends to assess what prospects there are of volunteering in the approaching elections.,summary: Stewart and Shari find the current president ignorant and incompetent. They hope he gets voted out. Stewart is going to see what possibilities there are of volunteering in the upcoming elections.,E,A,B,C,E
+13810207,"Harvey: Update?
+Michelle: Too soon, still researching.
+Harvey: That is an update, Michelle.
+Michelle: Fine. 
+Harvey: I can't wait all day.
+Michelle: If you stop texting me, I could get on with it!
+Harvey: Fair point.
+Michelle: Besides, half of this stuff is black hat. I can't see most of it.
+Harvey: Why not?
+Michelle: It installs bugs on my computer.
+Harvey: Oh, right.
+Michelle: It's fine. I'm back on it.
+Harvey: Thanks.",Michelle is still researching and Harvey cannot wait all day for the update. Michelle can't see most of the things as it's black hat and it installs bugs on her computer.,summary: Michelle is still researching and Harvey cannot wait all day for the update. Michelle can't see most of the things as it's black hat and it installs bugs on her computer.,"A)
+summary: Michelle continues her investigation and Harvey lacks the patience to hang around all day for the revisions. Michelle is unable to observe a majority of the items as it involves unethical practices and it plants viruses on her computer.
+
+B)
+summary: Michelle remains engaged in study and Harvey doesn't have the endurance to stay put all day for the modifications. Michelle is incapable of noticing most of the elements as it's illegal methods and it sows malware on her computer.
+
+C)
+summary: Michelle persists on probing and Harvey can't hold up the entire day for the adjustments. Michelle is unable to perceive the lion's share of the components as it's unprincipled tactics and it inserts glitches on her computer.
+
+D)
+summary: Michelle is still researching and Harvey cannot wait all day for the update. Michelle can't see most of the things as it's black hat and it installs bugs on her computer.",summary: Michelle continues her investigation and Harvey lacks the patience to hang around all day for the revisions. Michelle is unable to observe a majority of the items as it involves unethical practices and it plants viruses on her computer.,summary: Michelle remains engaged in study and Harvey doesn't have the endurance to stay put all day for the modifications. Michelle is incapable of noticing most of the elements as it's illegal methods and it sows malware on her computer.,summary: Michelle persists on probing and Harvey can't hold up the entire day for the adjustments. Michelle is unable to perceive the lion's share of the components as it's unprincipled tactics and it inserts glitches on her computer.,summary: Michelle is still researching and Harvey cannot wait all day for the update. Michelle can't see most of the things as it's black hat and it installs bugs on her computer.,E,A,B,E,E
+13729249,"Martin: I won two cinema tickets!
+Aggie: oh cool, how come?
+Martin: online. on fb, the movie mag organized it
+Aggie: so what did you do
+Martin: just write a short review and that's it
+Aggie: well done :) so what and when. and where?
+Martin: the new film with Redford
+Aggie: i guess i heard sth
+Martin: it's pretty cool i heard. till the end of the week
+Aggie: sounds good. we'll find time XD",Martin wrote a short review and won 2 cinema tickets on FB. Martin wants Aggie to go with him this week for the new film with Redford.,summary: Martin wrote a short review and won 2 cinema tickets on FB. Martin wants Aggie to go with him this week for the new film with Redford.,"A)
+summary: Martin penned a brief critique and earned 2 movie passes on FB. Martin desires Aggie to accompany him this week for the fresh motion picture with Redford.
+
+B)
+summary: Martin composed a succinct appraisal and secured 2 film vouchers on FB. Martin wishes for Aggie to join him this week for the latest cinema showcase with Redford.
+
+C)
+summary: Martin authored a compact feedback and obtained 2 theatre admissions on FB. Martin hopes Aggie to attend with him this week for the novel screening with Redford.
+
+D)
+summary: Martin wrote a short review and won 2 cinema tickets on FB. Martin wants Aggie to go with him this week for the new film with Redford.",summary: Martin penned a brief critique and earned 2 movie passes on FB. Martin desires Aggie to accompany him this week for the fresh motion picture with Redford.,summary: Martin composed a succinct appraisal and secured 2 film vouchers on FB. Martin wishes for Aggie to join him this week for the latest cinema showcase with Redford.,summary: Martin authored a compact feedback and obtained 2 theatre admissions on FB. Martin hopes Aggie to attend with him this week for the novel screening with Redford.,summary: Martin wrote a short review and won 2 cinema tickets on FB. Martin wants Aggie to go with him this week for the new film with Redford.,E,A,B,C,D
+13829899,"Catherine: We're going to visit uncle Steve, want to come with us?
+Ben: why would I?
+Catherine: He's family and we haven't seen him in a long time.
+Ben: you know very well that I'm not fond of such visits
+Ben: they stress me out
+Catherine: Come on, even you can do it from time to time.
+Ben: maybe I can but I don't want to
+Ben: it will end the same way as usual
+Ben: with me being pissed at everyone
+Catherine: The boys want to see you
+Ben: I can visit you and play with them some other day
+Ben: I don't have to drive to another city to do it
+Catherine: You know that he'll be disappointed?
+Ben: uncle Steve?
+Catherine: Yes.
+Ben: I don't think so, we don't have anything in common
+Ben: all he ever does is bothering me with stupid questions about my private life
+Catherine: Maybe that's his way of showing that he cares about you
+Ben: yes... sure... sometimes I wonder if you're thinking about what you type :P
+Catherine: Depends on the day
+Catherine: Today I'm tired so I can't guarantee it
+Ben: you should rest then
+Ben: instead of asking me to do stuff I don't like
+Catherine: Alright, don't worry, I'll stop
+Catherine: But still the part about the boys missing you was true
+Catherine: So come and visit them when you'll have the chance
+Ben: I will",Ben won't go with Catherine to visit uncle Steve. He will visit her and the boys. ,summary: Ben won't go with Catherine to visit uncle Steve. He will visit her and the boys. ,"A)
+summary: Ben refuses to accompany Catherine to visit uncle Steve. He will visit her and the boys.
+
+B)
+summary: Ben won't accompany Catherine to see uncle Steve. He will pay a visit to her and the boys.
+
+C)
+summary: Ben won't travel with Catherine to visit uncle Steve. He intends to visit her and the boys.
+
+D)
+summary: Ben won't go with Catherine to visit uncle Steve. He will visit her and the boys. ",summary: Ben refuses to accompany Catherine to visit uncle Steve. He will visit her and the boys.,summary: Ben won't accompany Catherine to see uncle Steve. He will pay a visit to her and the boys.,summary: Ben won't travel with Catherine to visit uncle Steve. He intends to visit her and the boys.,summary: Ben won't go with Catherine to visit uncle Steve. He will visit her and the boys.,B,A,B,C,D
+13821284,"Abby: Have you talked to Miro?
+Dylan: No, not really, I've never had an opportunity
+Brandon: me neither, but he seems a nice guy
+Brenda: you met him yesterday at the party?
+Abby: yes, he's so interesting
+Abby: told me the story of his father coming from Albania to the US in the early 1990s
+Dylan: really, I had no idea he is Albanian
+Abby: he is, he speaks only Albanian with his parents
+Dylan: fascinating, where does he come from in Albania?
+Abby: from the seacoast
+Abby: Duress I believe, he told me they are not from Tirana
+Dylan: what else did he tell you?
+Abby: That they left kind of illegally
+Abby: it was a big mess and extreme poverty everywhere
+Abby: then suddenly the border was open and they just left 
+Abby: people were boarding available ships, whatever, just to get out of there
+Abby: he showed me some pictures, like <file_photo>
+Dylan: insane
+Abby: yes, and his father was among the people
+Dylan: scary but interesting
+Abby: very!",Miro speaks Albanian with his parents. His family left Albania illegally in 1990s.,summary: Miro speaks Albanian with his parents. His family left Albania illegally in 1990s.,"A)
+summary: Miro converses in Albanian with his progenitors. His relatives exited Albania unlawfully in 1990s.
+
+B)
+summary: Miro communicates in Albanian with his guardians. His kin departed Albania illicitly in 1990s.
+
+C)
+summary: Miro dialogues in Albanian with his folks. His clan abandoned Albania unauthorized in 1990s.
+
+D)
+summary: Miro speaks Albanian with his parents. His family left Albania illegally in 1990s.",summary: Miro converses in Albanian with his progenitors. His relatives exited Albania unlawfully in 1990s.,summary: Miro communicates in Albanian with his guardians. His kin departed Albania illicitly in 1990s.,summary: Miro dialogues in Albanian with his folks. His clan abandoned Albania unauthorized in 1990s.,summary: Miro speaks Albanian with his parents. His family left Albania illegally in 1990s.,D,A,B,C,D
+13730939,"Marty: Hiya, I have a favour to ask... can you pick up Marcel from school?
+Christine: Sure, you ok?
+Marty: Not really, I think I have sprained my ankle...
+Christine: Oh no, have you seen see a doctor?
+Marty: I was gonna see how it went today and might go tomorrow...
+Christine: Are you sure? I'm happy to take you now if you want?
+Marty: Nah, it can wait, that'll leave us in trouble with the kids...
+Christine: OK, I'll pick up Marcel then.
+Christine: Do you need anything from the shops or something?
+Marty: No we are good thanks. we'll have pizza night, Marcel can sort us out...
+Christine: I'm on a late shift tomorrow, shall I take Marcel in tomorrow morning? I'll take you to the doctor afterwards if you want?
+Marty: That would be awesome, thank you for your help...
+Christine: No problem, you'll have to call the school though.
+Marty: Good one, will do that now...
+Christine: See you around 4.
+Marty: Thank you so much!",Marty thinks she has sprained her ankle. Marty wants to go to the doctor tomorrow. Christine will pick up Marcel from school today. Tomorrow Christine will take Marcel to school and Marty to the doctor. Marty will call the school. Christine and Marty will meet around 4. ,summary: Marty thinks she has sprained her ankle. Marty wants to go to the doctor tomorrow. Christine will pick up Marcel from school today. Tomorrow Christine will take Marcel to school and Marty to the doctor. Marty will call the school. Christine and Marty will meet around 4. ,"A)
+summary: Marty believes she has twisted her ankle. Marty wishes to visit the physician the following day. Christine is going to fetch Marcel from school later in the day. On the next day, Christine intends to bring Marcel to school and transport Marty to the physician. Marty has the intention to ring up the school. Christine and Marty are scheduled to rendezvous around 4.  
+
+B)
+summary: Marty assumes she has strained her ankle. Marty's plan is to consult the doctor the subsequent day. Christine has the responsibility to collect Marcel from school this day. The next day, Christine has an arrangement to escort Marcel to school and drive Marty to the medical practitioner. Marty is thinking to phone the school. A meeting between Christine and Marty has been arranged for around 4.  
+
+C)
+summary: Marty suspects she has wrench her ankle. Marty is determined to head to the medic the day after. Today, Christine will be getting Marcel from school. Coming day, Christine is to take Marcel to his school and lead Marty to the medic. Marty will contact the school. A meet up between Christine and Marty has been set around 4.
+
+D)
+summary: Marty thinks she has sprained her ankle. Marty wants to go to the doctor tomorrow. Christine will pick up Marcel from school today. Tomorrow Christine will take Marcel to school and Marty to the doctor. Marty will call the school. Christine and Marty will meet around 4. ","summary: Marty believes she has twisted her ankle. Marty wishes to visit the physician the following day. Christine is going to fetch Marcel from school later in the day. On the next day, Christine intends to bring Marcel to school and transport Marty to the physician. Marty has the intention to ring up the school. Christine and Marty are scheduled to rendezvous around 4.","summary: Marty assumes she has strained her ankle. Marty's plan is to consult the doctor the subsequent day. Christine has the responsibility to collect Marcel from school this day. The next day, Christine has an arrangement to escort Marcel to school and drive Marty to the medical practitioner. Marty is thinking to phone the school. A meeting between Christine and Marty has been arranged for around 4.","summary: Marty suspects she has wrench her ankle. Marty is determined to head to the medic the day after. Today, Christine will be getting Marcel from school. Coming day, Christine is to take Marcel to his school and lead Marty to the medic. Marty will contact the school. A meet up between Christine and Marty has been set around 4.",summary: Marty thinks she has sprained her ankle. Marty wants to go to the doctor tomorrow. Christine will pick up Marcel from school today. Tomorrow Christine will take Marcel to school and Marty to the doctor. Marty will call the school. Christine and Marty will meet around 4.,E,A,B,C,D
+13864654,"Molly: listen I've got a free ticket to the Muse concert in Cracow, want to come with me?
+Hannah: nah, I don't like them
+Molly: what about you Anna
+Anna: yassss please
+Anna: let's go! <3",Molly and Anna will go to the Muse concert in Cracow.,summary: Molly and Anna will go to the Muse concert in Cracow.,"A)
+summary: Molly and Anna are set to attend the Muse performance in Cracow.
+
+B)
+summary: Molly and Anna are planning to head to the Muse gig in Cracow.
+
+C)
+summary: Molly and Anna intend to go to the Muse show in Cracow.
+
+D)
+summary: Molly and Anna will go to the Muse concert in Cracow.",summary: Molly and Anna are set to attend the Muse performance in Cracow.,summary: Molly and Anna are planning to head to the Muse gig in Cracow.,summary: Molly and Anna intend to go to the Muse show in Cracow.,summary: Molly and Anna will go to the Muse concert in Cracow.,E,E,E,E,E
+13680247,"Paul: Do you have your keys?
+Lena: Yup. What's up?
+Paul: I will be home later than I thought, so just don't wait for me and get home.
+Lena: What happened?
+Paul: I'll call you in 15 minutes and then I'll tell you.
+Lena: Ok.",Lena has her keys. Paul will be home later than he thought. Paul will call Lena in 15 minutes and tell her what happened.,summary: Lena has her keys. Paul will be home later than he thought. Paul will call Lena in 15 minutes and tell her what happened.,"A)
+summary: Lena possesses her keys. Paul is going to be back delayed than he anticipated. Paul will phone Lena in 15 minutes and inform her about the occurrence.
+
+B)
+summary: Lena holds her keys. Paul will arrive at home later than he projected. Paul will ring Lena in 15 minutes and relay to her the incident.
+
+C)
+summary: Lena owns her keys. Paul is expected home after than his original estimate. Paul will contact Lena in 15 minutes and reveal to her the event.
+
+D)
+summary: Lena has her keys. Paul will be home later than he thought. Paul will call Lena in 15 minutes and tell her what happened.",summary: Lena possesses her keys. Paul is going to be back delayed than he anticipated. Paul will phone Lena in 15 minutes and inform her about the occurrence.,summary: Lena holds her keys. Paul will arrive at home later than he projected. Paul will ring Lena in 15 minutes and relay to her the incident.,summary: Lena owns her keys. Paul is expected home after than his original estimate. Paul will contact Lena in 15 minutes and reveal to her the event.,summary: Lena has her keys. Paul will be home later than he thought. Paul will call Lena in 15 minutes and tell her what happened.,E,A,B,C,D
+13819698,"Jane: Hey
+Martin: Whats up
+Maria: Hey
+Jane: Anyone going to Value Village? 
+Jane: I am getting halloween costumes with my sister
+Jane: If anyone wants to join
+Connor: I got mine today so thanks
+Connor: At Value Village
+Jane: I am going with u ok? priv msg
+Jane: ok ok",Connor bought his halloween costumes at Value Village where Jane plans to get her and her sister's costume.,summary: Connor bought his halloween costumes at Value Village where Jane plans to get her and her sister's costume.,"A) 
+summary: Connor purchased his Halloween outfits at Value Village where Jane intends to acquire hers and her sister's attire.
+
+B) 
+summary: Connor obtained his Halloween apparel at Value Village where Jane has the intention to procure her and her sister's ensemble.
+
+C) 
+summary: Connor procured his Halloween dress-up clothes at Value Village where Jane aims to secure both her and her sister's getup.
+
+D)
+summary: Connor bought his halloween costumes at Value Village where Jane plans to get her and her sister's costume.",summary: Connor purchased his Halloween outfits at Value Village where Jane intends to acquire hers and her sister's attire.,summary: Connor obtained his Halloween apparel at Value Village where Jane has the intention to procure her and her sister's ensemble.,summary: Connor procured his Halloween dress-up clothes at Value Village where Jane aims to secure both her and her sister's getup.,summary: Connor bought his halloween costumes at Value Village where Jane plans to get her and her sister's costume.,E,A,B,C,D
+13829218,"Adam: Did you take the dog for a walk?
+Mike: No, I did not have time,
+Adam: Ok, I'll take him with me.","Mike didn't have time to take the dog for a walk, so Adam will take it with him.","summary: Mike didn't have time to take the dog for a walk, so Adam will take it with him.","A)
+summary: Mike couldn't spare the moment to stroll the dog, so Adam will escort it with him.
+
+B)
+summary: Mike had no opportunity to guide the dog for a promenade, so Adam will carry it with him.
+
+C)
+summary: Mike was devoid of time to meander the dog, so Adam will usher it with him.
+
+D)
+summary: Mike didn't have time to take the dog for a walk, so Adam will take it with him.","summary: Mike couldn't spare the moment to stroll the dog, so Adam will escort it with him.","summary: Mike had no opportunity to guide the dog for a promenade, so Adam will carry it with him.","summary: Mike was devoid of time to meander the dog, so Adam will usher it with him.","summary: Mike didn't have time to take the dog for a walk, so Adam will take it with him.",E,A,B,C,D
+13818511,"Joanne: What are your plans for the holidays?
+Evelyn: Nothing. I’ll stay at home and rest.
+Joanne: You must be exhausted after the past few weeks
+Evelyn: It’s been hectic
+Joanne: I’m going back home.
+Evelyn: To France?
+Joanne: Yes. Not that I want to go…
+Evelyn: Why? You always liked spending Christmas with your family.
+Joanne: I did. But my parents separated a few months ago
+Joanne: It is still pretty tense…
+Evelyn: I’m sorry to hear that
+Joanne: My dad left my mum for his secretary
+Joanne: Such a cliché 
+Joanne: My mum is devastated
+Joanne: So I’m basically going to cheer her up 
+Joanne: It’s really hard for her now
+Joanne: For me it’s also not easy
+Evelyn: I can imagine!
+Evelyn: If you want to bring your mum over here we could spend Christmas together.
+Joanne: Thanks, that’s really sweet. But I don’t think she’s in a condition for that. She’s been very depressive lately. ",Joanne is going to go back home to France for the holidays. She's going to cheer her mum up because her parents separated a few months ago. Evelyn offers Joanne to spend Christmas together if she brings her mum over here. ,summary: Joanne is going to go back home to France for the holidays. She's going to cheer her mum up because her parents separated a few months ago. Evelyn offers Joanne to spend Christmas together if she brings her mum over here. ,"A)
+summary: Joanne plans to return to her place in France for the festive season. She intends to brighten her mother's spirits as her parents divorced several months back. Evelyn proposes Joanne to celebrate Christmas collectively if she brings her mother over here.
+
+B)
+summary: Joanne is planning to revisit her homeland in France for the holiday season. She aims to uplift her mother's mood following her parents' split a few months previously. Evelyn suggests Joanne to join in the Christmas festivities together if she fetches her mum over here.
+
+C)
+summary: Joanne is prepping to travel back to her residence in France for the holiday period. She's intending to buoy her mum's emotions due to her parents' break up a few months prior. Evelyn invites Joanne to partake in Christmas celebration together if she accompanies her mum over here.
+
+D)
+summary: Joanne is going to go back home to France for the holidays. She's going to cheer her mum up because her parents separated a few months ago. Evelyn offers Joanne to spend Christmas together if she brings her mum over here. ",summary: Joanne plans to return to her place in France for the festive season. She intends to brighten her mother's spirits as her parents divorced several months back. Evelyn proposes Joanne to celebrate Christmas collectively if she brings her mother over here.,summary: Joanne is planning to revisit her homeland in France for the holiday season. She aims to uplift her mother's mood following her parents' split a few months previously. Evelyn suggests Joanne to join in the Christmas festivities together if she fetches her mum over here.,summary: Joanne is prepping to travel back to her residence in France for the holiday period. She's intending to buoy her mum's emotions due to her parents' break up a few months prior. Evelyn invites Joanne to partake in Christmas celebration together if she accompanies her mum over here.,summary: Joanne is going to go back home to France for the holidays. She's going to cheer her mum up because her parents separated a few months ago. Evelyn offers Joanne to spend Christmas together if she brings her mum over here.,E,A,B,C,D
+13814882,"Rita: I'm so bloody tired. Falling asleep at work. :-(
+Tina: I know what you mean.
+Tina: I keep on nodding off at my keyboard hoping that the boss doesn't notice..
+Rita: The time just keeps on dragging on and on and on.... 
+Rita: I keep on looking at the clock and there's still 4 hours of this drudgery to go.
+Tina: Times like these I really hate my work.
+Rita: I'm really not cut out for this level of boredom.
+Tina: Neither am I.",Rita and Tina are bored at work and have still 4 hours left.,summary: Rita and Tina are bored at work and have still 4 hours left.,"A)
+summary: Rita and Tina are uninterested at their job and yet have 4 hours remaining.
+
+B)
+summary: Rita and Tina are unenthusiastic at work and still have 4 hours to pass.
+
+C)
+summary: Rita and Tina are uninspired at work and still have a quadrant of a day left.
+
+D)
+summary: Rita and Tina are bored at work and have still 4 hours left.",summary: Rita and Tina are uninterested at their job and yet have 4 hours remaining.,summary: Rita and Tina are unenthusiastic at work and still have 4 hours to pass.,summary: Rita and Tina are uninspired at work and still have a quadrant of a day left.,summary: Rita and Tina are bored at work and have still 4 hours left.,E,A,B,E,E
+13819822,"Adam: I have a juicy gossip for you guys ;)
+Borys: About whom?
+Adam: So apparently, Iga planned a weekend getaway with her boyfriend, but they had to cancel because he couldn't talk his group into changing the date of the presentation :D
+Katia: And she is pissed?
+Adam: What do you think? That is why they aren't sitting together since Monday ;)
+Katia: Who would have expected such a gossip girl from you :D","Iga and her boyfriend are not sitting together since Monday, because they had to cancel their weekend getaway. It made Iga very angry. Iga's boyfriend failed to convince a group to change the date of the presentation.","summary: Iga and her boyfriend are not sitting together since Monday, because they had to cancel their weekend getaway. It made Iga very angry. Iga's boyfriend failed to convince a group to change the date of the presentation.","A)
+summary: Iga and her beau are not residing together from Monday, owing to the cancellation of their weekend excursion. It resulted in Iga being very furious. Iga's partner unsuccessful in persuading a team to alter the appointment for the display.
+
+B)
+summary: Iga and her partner have not been cohabiting since Monday, due to the fact they had to call off their weekend retreat. This provoked extreme anger in Iga. Iga's lover struggled to sway a collective to shift the schedule of the exposition.
+
+C)
+summary: Iga and her significant other have not been in the same place together since Monday, as they were forced to abort their weekend trip. This fuelled Iga's rage intensely. Iga's boyfriend attempted but couldn't get a bunch to modify the presentation timetable.
+
+D)
+summary: Iga and her boyfriend are not sitting together since Monday, because they had to cancel their weekend getaway. It made Iga very angry. Iga's boyfriend failed to convince a group to change the date of the presentation.","summary: Iga and her beau are not residing together from Monday, owing to the cancellation of their weekend excursion. It resulted in Iga being very furious. Iga's partner unsuccessful in persuading a team to alter the appointment for the display.","summary: Iga and her partner have not been cohabiting since Monday, due to the fact they had to call off their weekend retreat. This provoked extreme anger in Iga. Iga's lover struggled to sway a collective to shift the schedule of the exposition.","summary: Iga and her significant other have not been in the same place together since Monday, as they were forced to abort their weekend trip. This fuelled Iga's rage intensely. Iga's boyfriend attempted but couldn't get a bunch to modify the presentation timetable.","summary: Iga and her boyfriend are not sitting together since Monday, because they had to cancel their weekend getaway. It made Iga very angry. Iga's boyfriend failed to convince a group to change the date of the presentation.",E,A,B,C,D
+13827914,"Chris: Hi there! Where are you? Any chance of skyping?
+Rick: Hi! Our last two days in Cancun before flying to Havana. Yeah, skyping is an idea. When would it suit you?
+Rick: We don't have the best of connections in the room but I can get you pretty well in the lobby.
+Chris: What's the time in your place now?
+Rick: 6:45 pm
+Chris: It's a quarter to one in the morning here. Am still in front of the box.
+Rick: Gracious me! Sorry mate. You needn't have answered.
+Chris: 8-D
+Rick: Just tell me when we could skype.
+Chris: Preferably in the evening. Just a few hours earlier than now. And not tomorrow.
+Rick: Shute! Only tomorrow makes sense as there's no workable internet in Cuba.
+Chris: Could you make it like 3 pm your time?
+Rick: Sure.
+Chris: Perfect. So talk to you tomorrow.
+Chris: Give my love to Helen please.
+Rick: I will. Thx.",Rick and Helen are in Cancun. They're flying to Havana in two days. Chris and Rick will talk on Skype at 3 PM in Mexico.,summary: Rick and Helen are in Cancun. They're flying to Havana in two days. Chris and Rick will talk on Skype at 3 PM in Mexico.,"A)
+summary: Rick and Helen are in Cancun. They'll be jetting off to Havana in two days. Chris and Rick will have a discussion over Skype at 3 PM in Mexico.
+
+B)
+summary: Rick and Helen are in Cancun. They're planning to take a flight to Havana in two days. Chris and Rick will converse on Skype at 3 PM in Mexico.
+
+C)
+summary: Rick and Helen are in Cancun. They're preparing to soar to Havana in two days. Chris and Rick will communicate over Skype at 3 PM in Mexico.
+
+D)
+summary: Rick and Helen are in Cancun. They're flying to Havana in two days. Chris and Rick will talk on Skype at 3 PM in Mexico.",summary: Rick and Helen are in Cancun. They'll be jetting off to Havana in two days. Chris and Rick will have a discussion over Skype at 3 PM in Mexico.,summary: Rick and Helen are in Cancun. They're planning to take a flight to Havana in two days. Chris and Rick will converse on Skype at 3 PM in Mexico.,summary: Rick and Helen are in Cancun. They're preparing to soar to Havana in two days. Chris and Rick will communicate over Skype at 3 PM in Mexico.,summary: Rick and Helen are in Cancun. They're flying to Havana in two days. Chris and Rick will talk on Skype at 3 PM in Mexico.,A,A,B,A,D
+13821684,"Joyce: Check this out!
+Joyce: <link>
+Michael: That's cheap!
+Edson: No way! I'm booking my ticket now!! ",Edson is booking his ticket now.,summary: Edson is booking his ticket now.,"A)
+summary: Edson is securing his pass at the moment.
+
+B)
+summary: Edson is reserving his admission right now.
+
+C)
+summary: Edson is arranging for his ticket presently.
+
+D)
+summary: Edson is booking his ticket now.",summary: Edson is securing his pass at the moment.,summary: Edson is reserving his admission right now.,summary: Edson is arranging for his ticket presently.,summary: Edson is booking his ticket now.,E,E,E,C,D
+13731166,"Andy: Hello. I have had a good look and have done some tests on the mould in your spare bedroom upstairs and in the dinign room.
+Betty: Hello Andy. Thank you for that, what are your thoughts? 
+Andy: I think it is caused by condensation, as most of the moist settles on and around the windows.
+Betty: Why is that?
+Andy: Those are the coldest areas and therefore where the moist in the warm air turns into water. On the windows its just water, on the walls the moist will allow mould to grow.
+Betty: So why is it all over the spare room walls, and all around the dining room? but not in other rooms?
+Andy: Probably because they have external walls which are cooler than internal walls.
+Betty: so why only that bedroom and not the other ones?
+Andy: I guess those rooms are most effected as the spare room is next to the bathroom and the dining room next to the kitchen.
+Betty: But why isnt there mould on the kitchen and bathroom itself then?
+Andy: I think that is because the kitchen doesn't have external walls and the bathroom has only one external wall and a fan in it. The difference when i measured it between internal wall and external wall is about 4 degrees.  
+Betty: Does that mean we need new double glazed windows or new wall insulation?
+Andy: Not necessarily. that would make a little difference but would still leave you with moist air in the house, so it would just settle somewhere else.  
+Betty: So what would you recommend?
+Andy: I would install a fan system, or PIV system, which would circulate air to dilute and take some moisture out of the air. It would be installed in your loft and be on continuously during day and night. 
+Betty: That sounds good. would that be sufficient? 
+Andy: If you buy a decent size it will be, but you would also need to treat your walls to get rid of the current mould. That will not go away by itself.
+Betty: OK, is this something your company can help with?
+Andy: It is indeed, we can repaint as well if you want. 
+Betty: Good point. Could you please send me a detailed quote for the work via email?
+Andy: Of course, I will have that done by Friday. 
+Betty: That would be great. And again, thanks for today!
+Andy: No problem, speak soon.",Betty's house has mould due to condensation. Andy will send her a quote for the work needed by Friday.,summary: Betty's house has mould due to condensation. Andy will send her a quote for the work needed by Friday.,"A)
+summary: Betty's residence has fungus because of moisture accumulation. Andy will forward her an estimation for the required labor by Friday.
+
+B)
+summary: Betty's dwelling is affected by mould due to dampness. Andy will dispatch a quotation for the necessary task by Friday.
+
+C)
+summary: The issue with Betty's abode is mildew resulting from condensation. Andy is set to provide her an estimate for the work demanded by Friday.
+
+D)
+summary: Betty's house has mould due to condensation. Andy will send her a quote for the work needed by Friday.",summary: Betty's residence has fungus because of moisture accumulation. Andy will forward her an estimation for the required labor by Friday.,summary: Betty's dwelling is affected by mould due to dampness. Andy will dispatch a quotation for the necessary task by Friday.,summary: The issue with Betty's abode is mildew resulting from condensation. Andy is set to provide her an estimate for the work demanded by Friday.,summary: Betty's house has mould due to condensation. Andy will send her a quote for the work needed by Friday.,E,A,B,C,D
+13819911,"Matt: results should be announced soon
+Matt: probably today 
+Oliver: they posted it
+Oliver: <file_other>
+Peter: I didn't get into Stanford :(
+Matt: let me see
+Matt: yup, I did
+Oliver: me too
+Oliver: barely
+Peter: I'm happy for you guys
+Matt: chin up! there are many other options
+Oliver: exactly, don't give up
+Peter: thanks guys, that means a lot
+Peter: send your documents asap
+Peter: otherwise you'll stuck in the queue
+Matt: thanks for a heads-up
+Oliver: yea, we owe you one
+Peter: I have to look for other university
+Peter: see ya
+Matt: bye","Todays results show that Matt and Oliver got into Stanford University, Peter did not. ","summary: Todays results show that Matt and Oliver got into Stanford University, Peter did not. ","A)
+summary: Todays outcomes illustrate that Matt and Oliver were accepted by Stanford University, Peter was not.
+
+B)
+summary: Todays findings demonstrate that Matt and Oliver were admitted into Stanford University, Peter wasn't.
+
+C)
+summary: Todays conclusions show that Matt and Oliver entered Stanford University, Peter did not.
+
+D)
+summary: Todays results show that Matt and Oliver got into Stanford University, Peter did not. ","summary: Todays outcomes illustrate that Matt and Oliver were accepted by Stanford University, Peter was not.","summary: Todays findings demonstrate that Matt and Oliver were admitted into Stanford University, Peter wasn't.","summary: Todays conclusions show that Matt and Oliver entered Stanford University, Peter did not.","summary: Todays results show that Matt and Oliver got into Stanford University, Peter did not.",E,E,B,E,E
+13681439,"Phil: can you go out today?
+Phoebe: no
+Phoebe: my mum is still angry
+Phil: why?
+Phoebe: i used her perfume
+Phil: so what?
+Phoebe: i used it and broke it
+Phil: really?
+Phil: xd lol
+Phoebe: not funny
+Phoebe: it was very expensive
+Phoebe: besides, our whole house stinks
+Phil: so it was not so beautiful perfume?
+Phoebe: it was, but not 100 ml for 80 square meters",Phoebe cannot go out today because she broke a bottle of her mother's expensive perfume. Phoebe's mother is angry. The smell of the perfume in the apartment is too intense now.,summary: Phoebe cannot go out today because she broke a bottle of her mother's expensive perfume. Phoebe's mother is angry. The smell of the perfume in the apartment is too intense now.,"A)
+summary: Phoebe is unable to depart today since she shattered a flask of her mom's pricey scent. Phoebe's mother is furious. The fragrance from the perfume in the flat is too overpowering currently.
+
+B)
+summary: Phoebe isn't able to leave today because she's cracked a vessel of her mother's costly cologne. Phoebe's mother is irritated. The aroma of the perfume in the lodging is too powerful now.
+
+C)
+summary: Phoebe is incapable of heading out today as she's smashed a jar of her mother's high-priced fragrance. Phoebe's mother is livid. The odor of the perfume in the apartment complex is too strong presently.
+
+D)
+summary: Phoebe cannot go out today because she broke a bottle of her mother's expensive perfume. Phoebe's mother is angry. The smell of the perfume in the apartment is too intense now.",summary: Phoebe is unable to depart today since she shattered a flask of her mom's pricey scent. Phoebe's mother is furious. The fragrance from the perfume in the flat is too overpowering currently.,summary: Phoebe isn't able to leave today because she's cracked a vessel of her mother's costly cologne. Phoebe's mother is irritated. The aroma of the perfume in the lodging is too powerful now.,summary: Phoebe is incapable of heading out today as she's smashed a jar of her mother's high-priced fragrance. Phoebe's mother is livid. The odor of the perfume in the apartment complex is too strong presently.,summary: Phoebe cannot go out today because she broke a bottle of her mother's expensive perfume. Phoebe's mother is angry. The smell of the perfume in the apartment is too intense now.,E,E,B,C,D
+13829210,"Stanley: I can’t believe in her…
+Bill: What is it? And who?
+Stanley: Del, she’s behaving kind of… stupid
+Bill: Meaning?
+Stanley: I told her I can’t go for this weekend with her because of work
+Bill: And? How did she react?
+Stanley: She was angry and wouldn’t listen to me. She accused me of having an affair o.O
+Bill: You’ve been together for like 4 moths and she’s already doing sth like that???
+Stanley: I know, it’s crazy. I starting to give up.
+Bill: So what, that’s it?
+Stanley: No, I’ll talk to her when she’s back, I’ll tell her it can’t be like this, see what will she say
+Bill: Sorry to say that, I don’t think you’ll bring any good news xD
+Stanley: Actually, me too. But at least I’ll try
+Bill: Well, I’m sorry. We need to take care of the Lidem project right now.
+Stanley: Yes I’m finishing the analysis for the pervious one, but it should be done tonight, so I can start working on it today
+Bill: The problem is I don’t what you should do ;p
+Stanley: whaaat
+Bill: The analysis of tasks is not done yet, Alison disappeared from all the media and won’t answer her phone
+Stanley: Great. So division of the tasks is on me?
+Bill: Yes because I’m already researching when it comes to the funding.
+Stanley: We’ll do, it’ll be ready tomorrow, not sure what time.
+Bill: OK, keep me posted.
+Stanley: Btw, it’s weird that Alison is out of touch
+Bill: No at all, it’s not the first time
+Stanley: Women…","Del accused Stanley of having an affair, because he couldn't go with her this weekend due to his work. They've only been together for 4 months, so it's not a good sign. Now Bill and Stanley need to take care of the Lidem project. Division of tasks is on Stanley, because Alison is unreachable.","summary: Del accused Stanley of having an affair, because he couldn't go with her this weekend due to his work. They've only been together for 4 months, so it's not a good sign. Now Bill and Stanley need to take care of the Lidem project. Division of tasks is on Stanley, because Alison is unreachable.","A)
+summary: Del blamed Stanley for cheating, as he was unable to accompany her this weekend due to his job. They've merely been a couple for 4 months, thus it's not a promising indication. Currently, Bill and Stanley have the responsibility to manage the Lidem project. Delegation of responsibilities falls on Stanley, as Alison is unavailable.
+
+B)
+summary: Del indicted Stanley of being unfaithful, since he couldn't spare time for her this weekend because of his occupation. Their relationship is just 4 months old, hence it's not a positive signal. At the moment, Bill and Stanley are in charge of the Lidem project. The task distribution is Stanley's job, given that Alison is inaccessible.
+
+C)
+summary: Del alleged Stanley was involved in extramarital relations, for he couldn't be with her this weekend due to his professional commitments. Their connection has only lasted for 4 months, so it's not a favorable sign. Presently, Bill and Stanley must handle the Lidem project. The allotment of duties is Stanley's responsibility, with Alison out of contact.
+
+D)
+summary: Del accused Stanley of having an affair, because he couldn't go with her this weekend due to his work. They've only been together for 4 months, so it's not a good sign. Now Bill and Stanley need to take care of the Lidem project. Division of tasks is on Stanley, because Alison is unreachable.","summary: Del blamed Stanley for cheating, as he was unable to accompany her this weekend due to his job. They've merely been a couple for 4 months, thus it's not a promising indication. Currently, Bill and Stanley have the responsibility to manage the Lidem project. Delegation of responsibilities falls on Stanley, as Alison is unavailable.","summary: Del indicted Stanley of being unfaithful, since he couldn't spare time for her this weekend because of his occupation. Their relationship is just 4 months old, hence it's not a positive signal. At the moment, Bill and Stanley are in charge of the Lidem project. The task distribution is Stanley's job, given that Alison is inaccessible.","summary: Del alleged Stanley was involved in extramarital relations, for he couldn't be with her this weekend due to his professional commitments. Their connection has only lasted for 4 months, so it's not a favorable sign. Presently, Bill and Stanley must handle the Lidem project. The allotment of duties is Stanley's responsibility, with Alison out of contact.","summary: Del accused Stanley of having an affair, because he couldn't go with her this weekend due to his work. They've only been together for 4 months, so it's not a good sign. Now Bill and Stanley need to take care of the Lidem project. Division of tasks is on Stanley, because Alison is unreachable.",E,A,B,E,D
+13828587,"Dominique: what's for the test tomorro?
+Denise: units 2 and 3
+Dominique: ok tx
+Denise: np",Denise and Dominique has a test tomorrow on units 2 and 3.,summary: Denise and Dominique has a test tomorrow on units 2 and 3.,"A)
+summary: Denise and Dominique have an examination tomorrow on modules 2 and 3.
+
+B)
+summary: Denise and Dominique will undergo a quiz tomorrow on sections 2 and 3.
+
+C)
+summary: Denise and Dominique are scheduled for a test tomorrow on chapters 2 and 3.
+
+D)
+summary: Denise and Dominique has a test tomorrow on units 2 and 3.",summary: Denise and Dominique have an examination tomorrow on modules 2 and 3.,summary: Denise and Dominique will undergo a quiz tomorrow on sections 2 and 3.,summary: Denise and Dominique are scheduled for a test tomorrow on chapters 2 and 3.,summary: Denise and Dominique has a test tomorrow on units 2 and 3.,E,E,E,E,E
+13729790,"luke: Hey, was just thinking, we should avail ourselves for team selection tomorrow regardless of our injuries
+martial: thats what i was thinking also
+luke: we should let Jose know that tomorrow
+martial: the first thing in the morning infact
+luke: the fixtures are really piling up and we need to help the team
+martial: yeah, thats for sure, we are a family
+luke: we will the coach know that we are ready to play
+martial: despite the little pain, me i'm ready
+luke: me too
+martial: so we meet up at carrington and go to his office very early
+luke: yeah, both of us
+martial: ok, we'll go together
+luke: cool 
+martial: ok",luke and martial want to help the team and play despite their injuries. They will meet at carrington and go to the coach's office.,summary: luke and martial want to help the team and play despite their injuries. They will meet at carrington and go to the coach's office.,"A)
+summary: Luke and Martial desire to assist the squad and participate notwithstanding their wounds. They plan to converge at Carrington and proceed to the trainer's quarters.
+
+B)
+summary: Luke and Martial intend to support the group and compete in spite of their afflictions. They are set to gather at Carrington and move to the instructor's workplace.
+
+C)
+summary: Luke and Martial look forward to aiding the crew and perform irrespective of their hurts. They are scheduled to meet at Carrington and head to the coach's workspace.
+
+D)
+summary: luke and martial want to help the team and play despite their injuries. They will meet at carrington and go to the coach's office.",summary: Luke and Martial desire to assist the squad and participate notwithstanding their wounds. They plan to converge at Carrington and proceed to the trainer's quarters.,summary: Luke and Martial intend to support the group and compete in spite of their afflictions. They are set to gather at Carrington and move to the instructor's workplace.,summary: Luke and Martial look forward to aiding the crew and perform irrespective of their hurts. They are scheduled to meet at Carrington and head to the coach's workspace.,summary: luke and martial want to help the team and play despite their injuries. They will meet at carrington and go to the coach's office.,E,A,B,C,D
+13821299,"Natalie: Could anybody check if my wallet is in my room?
+Jenny: I'm not home
+Tobias: It's here <file_photo>
+Natalie: phew",Natalie's wallet is in her room.,summary: Natalie's wallet is in her room.,"A)
+summary: Natalie's purse is in her chamber.
+
+B)
+summary: Natalie's billfold is in her bedroom.
+
+C)
+summary: Natalie's pocketbook is in her boudoir.
+
+D)
+summary: Natalie's wallet is in her room.",summary: Natalie's purse is in her chamber.,summary: Natalie's billfold is in her bedroom.,summary: Natalie's pocketbook is in her boudoir.,summary: Natalie's wallet is in her room.,E,A,E,C,E
+13809974,"Ivan: hey eric
+Eric: yeah man
+Ivan: so youre coming to the wedding
+Eric: your brother's
+Ivan: yea
+Eric: i dont know mannn
+Ivan: YOU DONT KNOW??
+Eric: i just have a lot to do at home, plus i dont know if my parents would let me
+Ivan: ill take care of your parents
+Eric: youre telling me you have the guts to talk to them XD
+Ivan: thats my problem
+Eric: okay man, if you say so
+Ivan: yea just be there 
+Eric: alright",Eric doesn't know if his parents let him go to Ivan's brother's wedding. Ivan will talk to them.,summary: Eric doesn't know if his parents let him go to Ivan's brother's wedding. Ivan will talk to them.,"A)
+summary: Eric is uncertain if his folks permit him to attend Ivan's sibling's marriage ceremony. Ivan will communicate with them.
+
+B)
+summary: Eric is unsure whether his guardians allow him to join Ivan's brother's nuptials. Ivan will discuss with them.
+
+C)
+summary: Eric doesn't comprehend if his mom and dad sanction him to go to Ivan's brother's matrimony. Ivan will converse with them.
+
+D)
+summary: Eric doesn't know if his parents let him go to Ivan's brother's wedding. Ivan will talk to them.",summary: Eric is uncertain if his folks permit him to attend Ivan's sibling's marriage ceremony. Ivan will communicate with them.,summary: Eric is unsure whether his guardians allow him to join Ivan's brother's nuptials. Ivan will discuss with them.,summary: Eric doesn't comprehend if his mom and dad sanction him to go to Ivan's brother's matrimony. Ivan will converse with them.,summary: Eric doesn't know if his parents let him go to Ivan's brother's wedding. Ivan will talk to them.,D,A,B,C,D
+13682034,"Danna: How's your Saturday?
+Reed: It was alright thanks
+Danna: Good
+Reed: Yours ?
+Danna: Boring
+Reed: Why?
+Danna: I'm angry I called maybe 5-8 of my friends and they aren't around or are busy.
+Reed: Shame
+Danna: So it's is the next boring weekend for me
+Reed: That sucks
+Danna: The only thing I can do is watching TV -.-
+Reed: Haha lucky you
+Danna: Yeah haha
+Reed: I don't have tv, our subscription expired and they never renewed it. They want us to pay for it so fuck it
+Danna: Yeah. What are you doing?
+Reed: I'm in bed
+Danna: Work tomorrow?
+Reed: No. Off tomorrow
+Danna: Nice
+Reed: Indeed",Danna has a boring weekend and is watching TV. Reed is in bed. He has a free day tomorrow.,summary: Danna has a boring weekend and is watching TV. Reed is in bed. He has a free day tomorrow.,"A)
+summary: Danna experiences a dull weekend and is viewing television. Reed is resting in bed. He possesses an off day upcoming. 
+
+B)
+summary: Danna undergoes a tedious weekend and is observing the television. Reed is lying in bed. He has an available day in the future. 
+
+C)
+summary: Danna has an uninteresting weekend and is watching the telly. Reed is in the sack. He has a vacant day the next day.
+
+D)
+summary: Danna has a boring weekend and is watching TV. Reed is in bed. He has a free day tomorrow.",summary: Danna experiences a dull weekend and is viewing television. Reed is resting in bed. He possesses an off day upcoming.,summary: Danna undergoes a tedious weekend and is observing the television. Reed is lying in bed. He has an available day in the future.,summary: Danna has an uninteresting weekend and is watching the telly. Reed is in the sack. He has a vacant day the next day.,summary: Danna has a boring weekend and is watching TV. Reed is in bed. He has a free day tomorrow.,E,A,B,C,D
+13717198,"Ricky: Did u guys see what's going on outside?
+Shelly: A real blizzard!
+Tom: Haven't seen such weather in yrs!
+Ricky: This reminds me of a time when I was hiking in the mountains.
+Shelly: U went hiking?
+Tom: Yeah. What's so weird about it?
+Ricky: U don't strike us as the type.
+Tom: Well, I did. It was a couple yrs back, I admit. I was still a student and we went as a group of friends to the mountains.
+Shelly: How many of u were there?
+Tom: I think 5 or 6. Myself included.
+Ricky: So what happened?
+Tom: We rented a cabin in the wild. We wanted to have a weekend away.",There is a blizzard going on outside. Ricky went hiking a couple years ago with friends. They rented a cabin in the wild.,summary: There is a blizzard going on outside. Ricky went hiking a couple years ago with friends. They rented a cabin in the wild.,"A)
+summary: There is a snowstorm happening outdoors. Ricky took an excursion a few years back with pals. They leased a lodge in the wilderness.
+
+B)
+summary: There is a snowfall taking place outside. Ricky embarked on a trek a couple of years prior with companions. They hired a cottage in the uninhabited.
+
+C)
+summary: There is a flurry occurring out-of-doors. Ricky went on a ramble some years before with mates. They secured a chalet in the backwoods.
+
+D)
+summary: There is a blizzard going on outside. Ricky went hiking a couple years ago with friends. They rented a cabin in the wild.",summary: There is a snowstorm happening outdoors. Ricky took an excursion a few years back with pals. They leased a lodge in the wilderness.,summary: There is a snowfall taking place outside. Ricky embarked on a trek a couple of years prior with companions. They hired a cottage in the uninhabited.,summary: There is a flurry occurring out-of-doors. Ricky went on a ramble some years before with mates. They secured a chalet in the backwoods.,summary: There is a blizzard going on outside. Ricky went hiking a couple years ago with friends. They rented a cabin in the wild.,E,A,E,C,D
+13730597,"Amelia: What is your favourite colour?
+Emily: Blue, why?
+Amelia: I can't tell you
+Emily: A surprise? =)
+Amelia: Sort of... Can't tell you anything more
+Amelia: Sorry 
+Emily: I'm super curious",Emily's favorite color is blue. Amelia can't talk about the reason behind her question with Emily.,summary: Emily's favorite color is blue. Amelia can't talk about the reason behind her question with Emily.,"A)
+summary: Emily's preferred hue is azure. Amelia can't speak of the justification for her inquiry with Emily.
+
+B)
+summary: The color Emily cherishes most is blue. Amelia can't discuss the motive for her question with Emily.
+
+C)
+summary: Emily's most loved tint is blue. Amelia can't verbalize the basis for her query with Emily.
+
+D)
+summary: Emily's favorite color is blue. Amelia can't talk about the reason behind her question with Emily.",summary: Emily's preferred hue is azure. Amelia can't speak of the justification for her inquiry with Emily.,summary: The color Emily cherishes most is blue. Amelia can't discuss the motive for her question with Emily.,summary: Emily's most loved tint is blue. Amelia can't verbalize the basis for her query with Emily.,summary: Emily's favorite color is blue. Amelia can't talk about the reason behind her question with Emily.,E,A,B,C,D
+13829456,"Claire: hey 
+Claire: where's this conference about relations at school?
+Aaron: hey
+Aaron: it's in the teaching training thing
+Claire: oh, in Sesame Street?
+Aaron: yeah exactly
+Claire: thanks! 
+Claire: are you going? i mean apart from your own lecture ;D
+Aaron: haha yeah i'm giving two, actually
+Aaron: and i'm kind of a host there as well 
+Aaron: so guess i'll be looking to coffee, biscuits etc
+Claire: i see
+Aaron: i was thinking i could go to Jo's lecture
+Claire: Jo's... is it the one about stress?
+Aaron: no, that's Joe ;D Jo is having a workshop on teamwork
+Claire: ah, this one. yeah looks interesting
+Aaron: i know her, she's a really good coach
+Claire: i was thinking maybe mindfullness...
+Aaron: yeah definitely!! if you haven't been to any mindfullness workshops then it's a must!
+Aaron: i've taken it in Berlin last year, with the same guy
+Aaron: it was amazing, life-changing i'd say
+Claire: sounds wonderful
+Claire: one can easily tell you're one of the organisers ;D
+Aaron: hahah yeah but we did choose the best topics and presenters, believe me :D
+Aaron: we've checked out all those people and learnt from them and yeah, they're the best ;)
+Claire: ok ok i'm signing up :D see you there, during the breaks at least;)
+Aaron: ok bye bye;)",Aaron will give two lectures during the conference about relations at school at the Sesame Street. Claire will participate in mindfulness workshop.,summary: Aaron will give two lectures during the conference about relations at school at the Sesame Street. Claire will participate in mindfulness workshop.,"A)
+summary: Aaron is set to conduct two seminars throughout the symposium on school relationships at Sesame Street. Claire will partake in meditation training.
+
+B)
+summary: Aaron has planned two talks during the convocation regarding relations in academics at Sesame Street. Claire will engage in awareness program.
+
+C)
+summary: Aaron shall deliver two discourses at the congress concerning scholastic interactions happening at Sesame Street. Claire is due to join the consciousness-improvement seminar.
+
+D)
+summary: Aaron will give two lectures during the conference about relations at school at the Sesame Street. Claire will participate in mindfulness workshop.",summary: Aaron is set to conduct two seminars throughout the symposium on school relationships at Sesame Street. Claire will partake in meditation training.,summary: Aaron has planned two talks during the convocation regarding relations in academics at Sesame Street. Claire will engage in awareness program.,summary: Aaron shall deliver two discourses at the congress concerning scholastic interactions happening at Sesame Street. Claire is due to join the consciousness-improvement seminar.,summary: Aaron will give two lectures during the conference about relations at school at the Sesame Street. Claire will participate in mindfulness workshop.,E,A,E,E,E
+13818810,"Rachel: <file_other>
+Rachel: Top 50 Best Films of 2018
+Rachel: :)
+Janice: Omg, I've watched almost all 50... xDD
+Spencer: Hahah, Deadpool 2 also??
+Janice: Yep
+Spencer: Really??
+Janice: My bf forced me to watch it xD
+Rachel: Hahah
+Janice: It wasn't that bad
+Janice: I thought it'd be worse
+Rachel: And Avengers? :D
+Janice: 2 times
+Rachel: Omg
+Janice: xP
+Rachel: You are the best gf in the world
+Rachel: Your bf should appreciate that ;-)
+Janice: He does
+Janice: x)","Rachel sends a list of Top 50 films of 2018. Janice watched almost half of them, Deadpool 2 and Avengers included.","summary: Rachel sends a list of Top 50 films of 2018. Janice watched almost half of them, Deadpool 2 and Avengers included.","A)
+summary: Rachel dispatches a catalog of Top 50 movies of 2018. Janice viewed approximately half of them, Deadpool 2 and Avengers comprised.
+
+B)
+summary: Rachel forwards a record of Top 50 pictures of 2018. Janice consumed nearly half of them, including Deadpool 2 and Avengers.
+
+C)
+summary: Rachel delivers a roster of Top 50 cinemas of 2018. Janice screened almost half of them, taking in Deadpool 2 and Avengers.
+
+D)
+summary: Rachel sends a list of Top 50 films of 2018. Janice watched almost half of them, Deadpool 2 and Avengers included.","summary: Rachel dispatches a catalog of Top 50 movies of 2018. Janice viewed approximately half of them, Deadpool 2 and Avengers comprised.","summary: Rachel forwards a record of Top 50 pictures of 2018. Janice consumed nearly half of them, including Deadpool 2 and Avengers.","summary: Rachel delivers a roster of Top 50 cinemas of 2018. Janice screened almost half of them, taking in Deadpool 2 and Avengers.","summary: Rachel sends a list of Top 50 films of 2018. Janice watched almost half of them, Deadpool 2 and Avengers included.",E,A,B,C,D
+13729445,"Matthew: I have a cold. Need y'all support. It's painful
+Lisa: Fight it. Drink orange juice. Make some soup
+Matthew: I'll try
+Lisa: I believe in u 
+Matthew: Thank u. Apparently it's an allergy mixed up with virus
+Lisa: Ahh it sucks. 
+Lisa: Take a rest from evrthg.  
+Matthew: Ikr. Hitting the hay now
+Lisa: Good night 'Thew! ",Matthew has a cold. He will drink some orange juice and go to sleep.,summary: Matthew has a cold. He will drink some orange juice and go to sleep.,"A)
+summary: Matthew is suffering from a chill. He intends to consume some citrus juice and fall asleep.
+
+B)
+summary: Matthew is having a flu. He is going to have some citric drink and take a rest.
+
+C)
+summary: Matthew is stricken with a cough. He will ingest some vitamin C beverage and retire to bed.
+
+D)
+summary: Matthew has a cold. He will drink some orange juice and go to sleep.",summary: Matthew is suffering from a chill. He intends to consume some citrus juice and fall asleep.,summary: Matthew is having a flu. He is going to have some citric drink and take a rest.,summary: Matthew is stricken with a cough. He will ingest some vitamin C beverage and retire to bed.,summary: Matthew has a cold. He will drink some orange juice and go to sleep.,E,A,B,C,D
+13863052,"Joanne: hi, wanna talk?
+Bradley: hi, sorry, not right now, im busy
+Bradley: crazy day at work
+Joanne: sure, contact me, i gotta tell you something
+Bradley: i will, ttyl",Bradley is too busy at work to talk to Joanne now.,summary: Bradley is too busy at work to talk to Joanne now.,"A)
+summary: Bradley is overly occupied at his job to converse with Joanne at present.
+
+B)
+summary: Bradley is excessively engaged at work to communicate with Joanne currently.
+
+C)
+summary: Bradley is too swamped at his employment to discuss with Joanne now.
+
+D)
+summary: Bradley is too busy at work to talk to Joanne now.",summary: Bradley is overly occupied at his job to converse with Joanne at present.,summary: Bradley is excessively engaged at work to communicate with Joanne currently.,summary: Bradley is too swamped at his employment to discuss with Joanne now.,summary: Bradley is too busy at work to talk to Joanne now.,D,A,B,C,D
+13821034,"Edward: I dont wanna go on that business trip tomorrow
+Lauren: I am stressed af
+Kate: I don't think its gonna be that bad
+Lauren: The boss is coming with us 
+Kate: Yea well 
+Kate: I am ok with him 
+Edward: You think its gonna be just a few meetings with clients 😶
+Kate: Not only
+Kate: We're going to an expo 
+Kate: I hate the expo stuff
+Kate: We have to pretend to be nice
+Kate: But people coming to our booth actually have nothing to do with what we're doing 
+Lauren: True
+Edward: Expos are not as stressful as meetings tho 
+Kate: Ye well 
+Kate: We cant complain rn 
+Lauren: we have to go anyway 
+Lauren: 😑😑😑
+Kate: See y'all there then ","Edward doesn't want to go on the business trip tomorrow. Lauren's stressed about it, because their boss is coming with them. Kate think it's going to be ok. There will be meeting with clients and an expo.","summary: Edward doesn't want to go on the business trip tomorrow. Lauren's stressed about it, because their boss is coming with them. Kate think it's going to be ok. There will be meeting with clients and an expo.","A)
+summary: Edward has no desire to participate in the corporate journey tomorrow. Lauren's anxious regarding it, as their superior is accompanying them. Kate believes it's going to be fine. There will be rendezvous with patrons and a trade show.
+
+B)
+summary: Edward isn't keen to partake in the commercial expedition tomorrow. Lauren's troubled about it, due to their manager joining them. Kate surmises it's going to be alright. There will be a conference with customers and a fair.
+
+C)
+summary: Edward shows no enthusiasm to embark on the business voyage tomorrow. Lauren's bothered about it, for their supervisor is tagging along with them. Kate assumes it's going to be untroubled. There will be discussions with clientele and an exhibition.
+
+D)
+summary: Edward doesn't want to go on the business trip tomorrow. Lauren's stressed about it, because their boss is coming with them. Kate think it's going to be ok. There will be meeting with clients and an expo.","summary: Edward has no desire to participate in the corporate journey tomorrow. Lauren's anxious regarding it, as their superior is accompanying them. Kate believes it's going to be fine. There will be rendezvous with patrons and a trade show.","summary: Edward isn't keen to partake in the commercial expedition tomorrow. Lauren's troubled about it, due to their manager joining them. Kate surmises it's going to be alright. There will be a conference with customers and a fair.","summary: Edward shows no enthusiasm to embark on the business voyage tomorrow. Lauren's bothered about it, for their supervisor is tagging along with them. Kate assumes it's going to be untroubled. There will be discussions with clientele and an exhibition.","summary: Edward doesn't want to go on the business trip tomorrow. Lauren's stressed about it, because their boss is coming with them. Kate think it's going to be ok. There will be meeting with clients and an expo.",E,A,B,C,D
+13716107,"Jesse: I have an idea that'll cheer u up!
+Melvin: What is it?
+Jesse: I was thinking about doing something 4 the less fortunate this year. 
+Lee: Gr8 idea! Anything in mind?
+Maxine: So no presents 4 me? :(
+Jesse: U'll get ur presents, no worries ;)
+Maxine: Phew! Was getting a bit worried for a moment ;)
+Melvin: Bt what do u have in store?
+Jesse: Well, have u heard about the Refuge?
+Lee: No. What's that?
+Melvin: That's the Christmas foundation to help women and children?
+Maxine: I think I've heard of them. So what about them?
+Jesse: That's right! They help women and children who escape from abuse. And every year they post wish lists of such ppl online and I thought that we could choose one and chip in. 
+Melvin: That's a great idea!
+Lee: Count me in!
+Maxine: Me too.
+Jesse: Have a look at these 3 lists: <file_other> <file_other> <file_other>
+Lee: I think the second one would be the easiest to arrange.
+Maxine: Agree.
+Melvin: What about number 3? A bit ambitious, but if we pull together, we'll manage.
+Jesse: Actually, I'm in for the 3rd one.
+Maxine: I think the 2nd list would be better. The items cos more or less the same and we can easily divide it.
+Melvin: But if we agree to chip in the same amount of money, we can deal with the 3rd one easily. 
+Lee: Come to think of it, the 3rd one is not that bad. A bit of planning and logistics and were good to go. 
+Jesse: So it's settled?
+Melvin: Yup.
+Lee: Sure. 
+Maxine: Fine.","Jesse, Melvin, Lee and Maxine are going to take part in the Christmas charity action of the foundation called Refuge, which helps women and children who escape from abuse.","summary: Jesse, Melvin, Lee and Maxine are going to take part in the Christmas charity action of the foundation called Refuge, which helps women and children who escape from abuse.","A)
+summary: Jesse, Melvin, Lee and Maxine are set to participate in the Christmas philanthropic deeds of the establishment named Refuge, which aids females and youngsters fleeing from maltreatment.
+
+B)
+summary: Jesse, Melvin, Lee and Maxine are going to engage in the Christmas benevolent activities of the organization referred to as Refuge, which assists women and kids escaping from cruelty.
+
+C)
+summary: Jesse, Melvin, Lee and Maxine are ready to involve themselves in the Christmas charitable operations of the institution known as Refuge, which supports ladies and children who run away from torment.
+
+D)
+summary: Jesse, Melvin, Lee and Maxine are going to take part in the Christmas charity action of the foundation called Refuge, which helps women and children who escape from abuse.","summary: Jesse, Melvin, Lee and Maxine are set to participate in the Christmas philanthropic deeds of the establishment named Refuge, which aids females and youngsters fleeing from maltreatment.","summary: Jesse, Melvin, Lee and Maxine are going to engage in the Christmas benevolent activities of the organization referred to as Refuge, which assists women and kids escaping from cruelty.","summary: Jesse, Melvin, Lee and Maxine are ready to involve themselves in the Christmas charitable operations of the institution known as Refuge, which supports ladies and children who run away from torment.","summary: Jesse, Melvin, Lee and Maxine are going to take part in the Christmas charity action of the foundation called Refuge, which helps women and children who escape from abuse.",E,A,B,E,E
+13829923,"Emma: Hi neighbour :)
+Emma: Do you want to take a stroll with the little ones?
+Abigail: Hey Emma :) I don't think that's a good idea.
+Abigail: My smog alert app is showing that the norms have been exceeded by 30% today :O
+Emma: Oh my, that sounds serious.
+Emma: I need to install that app.",Abigail is not going to take a stroll with the little ones. Her smog alert app is showing that the norms have been exceeded by 30% today.,summary: Abigail is not going to take a stroll with the little ones. Her smog alert app is showing that the norms have been exceeded by 30% today.,"A)
+summary: Abigail won't be taking a walk with the youngsters. Her pollution warning application indicates that the standards have been surpassed by 30% today.
+
+B)
+summary: Abigail has no intention of going for a wander with the children. Her haze alert software suggests that the guidelines have been overshot by 30% today.
+
+C)
+summary: Abigail has decided against taking a ramble with the small ones. Her air quality warning program is showing that the limits have been exceeded by 30% today.
+
+D)
+summary: Abigail is not going to take a stroll with the little ones. Her smog alert app is showing that the norms have been exceeded by 30% today.",summary: Abigail won't be taking a walk with the youngsters. Her pollution warning application indicates that the standards have been surpassed by 30% today.,summary: Abigail has no intention of going for a wander with the children. Her haze alert software suggests that the guidelines have been overshot by 30% today.,summary: Abigail has decided against taking a ramble with the small ones. Her air quality warning program is showing that the limits have been exceeded by 30% today.,summary: Abigail is not going to take a stroll with the little ones. Her smog alert app is showing that the norms have been exceeded by 30% today.,A,A,A,A,A
+13829744,"Miranda: Hi S, could we cancel tomorrow's meeting?
+Stephanie: again? what happened?
+Miranda: I have to work :(
+Stephanie: you work 20 hours a day!
+Miranda: that's what young doctors do
+Stephanie: they kill themselves working
+Miranda: no they come close to death but survive and it makes them immortal
+Stephanie: as long as you have an explanation :D",Miranda can't make her meeting with Stephanie as she has to work. ,summary: Miranda can't make her meeting with Stephanie as she has to work. ,"A)
+summary: Miranda is unable to attend her appointment with Stephanie as she must toil.
+
+B)
+summary: Miranda can't participate in her conference with Stephanie as she has to labor.
+
+C)
+summary: Miranda is not able to join her gathering with Stephanie as she needs to work.
+
+D)
+summary: Miranda can't make her meeting with Stephanie as she has to work. ",summary: Miranda is unable to attend her appointment with Stephanie as she must toil.,summary: Miranda can't participate in her conference with Stephanie as she has to labor.,summary: Miranda is not able to join her gathering with Stephanie as she needs to work.,summary: Miranda can't make her meeting with Stephanie as she has to work.,E,A,B,C,D
+13728698-1,"James: Amelia said that one of our lecturers in philosophy had an art exhibition (!). It opens tomorrow! 
+James: I'm talking about this guy who taught us ethics.
+James: Amelia recommends it :D
+Mia: No way...! :D Professor Evans and art exhibition :D What has happened to this world?
+Mia: But you know what? I would actually like to see it! :D
+James: ME TOO, of course! :p Can Amelia go with us?
+Mia: To the exhibition or to the exhibition and to the cinema? You remember that we have plans for tomorrow...?
+James: both
+James: yes, I do
+Mia: ok
+James: Are you mad at me?
+James: Babe, the fact that I suggested that we might go out with Amelia doesn't mean that I don't value time that we spend together, just the two of us.
+Mia: I know, I said ok.
+James: Are you sure you're fine with this?
+Mia: Yup. :)
+Mia: I just don't know her very well, it's gonna be stressful for me.
+James: :) But you know me, don't you?
+Mia: Maybe I do :D
+James: Really, there's nothing to worry about. Amelia is quite laid-back and likable. ;)
+James: Afterwards we can go to my place and hang out, cuddle and so on... :*
+Mia: Sounds good :) :*
+James: So we're good, right?
+Mia: Right. ;)",James and Mia want to go to an art exhibition tomorrow. James wants Amelia to go with them but Mia isn't sure about it. James and Mia will go to his place afterwards.,summary: James and Mia want to go to an art exhibition tomorrow. James wants Amelia to go with them but Mia isn't sure about it. James and Mia will go to his place afterwards.,"A)
+summary: John and Mia desire to attend an art display the next day. John seeks Amelia to come along, yet Mia is uncertain about it. John and Mia will proceed to his house afterwards.
+
+B)
+summary: James and Mia are planning to visit an art showcase the following day. James wishes for Amelia to join them, though Mia is doubtful about it. James and Mia will make their way to his home thereafter.
+
+C)
+summary: James and Mia have the intention of showing up at an art show the day after. James intends Amelia to accompany them, but Mia is uncertain. James and Mia will head to his dwelling subsequently.
+
+D)
+summary: James and Mia want to go to an art exhibition tomorrow. James wants Amelia to go with them but Mia isn't sure about it. James and Mia will go to his place afterwards.","summary: John and Mia desire to attend an art display the next day. John seeks Amelia to come along, yet Mia is uncertain about it. John and Mia will proceed to his house afterwards.","summary: James and Mia are planning to visit an art showcase the following day. James wishes for Amelia to join them, though Mia is doubtful about it. James and Mia will make their way to his home thereafter.","summary: James and Mia have the intention of showing up at an art show the day after. James intends Amelia to accompany them, but Mia is uncertain. James and Mia will head to his dwelling subsequently.",summary: James and Mia want to go to an art exhibition tomorrow. James wants Amelia to go with them but Mia isn't sure about it. James and Mia will go to his place afterwards.,E,E,E,C,E
+13728966,"Mary: hey, im kinda broke, lend me a few box
+Carter: okay, give me an hour, im at the train station
+Mary: cool, thanks",Mary ran out of money. Carter is going to lend her some in an hour.,summary: Mary ran out of money. Carter is going to lend her some in an hour.,"A)
+summary: Mary depleted her funds. Carter plans to loan her some in sixty minutes.
+
+B)
+summary: Mary exhausted her cash. Carter intends to advance her some in one hour.
+
+C)
+summary: Mary used up her savings. Carter is set to offer her a loan in an hour.
+
+D)
+summary: Mary ran out of money. Carter is going to lend her some in an hour.",summary: Mary depleted her funds. Carter plans to loan her some in sixty minutes.,summary: Mary exhausted her cash. Carter intends to advance her some in one hour.,summary: Mary used up her savings. Carter is set to offer her a loan in an hour.,summary: Mary ran out of money. Carter is going to lend her some in an hour.,E,A,E,C,D
+13716336,"James: hi girls! When are you flying to Japan?
+Mary: in a week! unbelievable 🎉
+Patricia: I can't believe either. 
+Patricia: I am also increasingly scared
+Mary: you're such an alarmist!
+James: But scared of what??
+Patricia: the long flight, earth-quakes
+Patricia: God, and tsunamis!
+James: hahaha, you're really a damn alarmist
+James: this is so exaggerated, are you serious?
+Patricia: James, I almost never travel, I'm afraid really
+James: Listen, nothing will happen. First of all the earthquakes happen rarely, even in Japan and only in certain places
+James: it's not like the whole country is shaking all the time
+Mary: I'm telling her this all the time, but it's pointless
+James: And, most of all, Japanese have amazing architecture because of their experiences with earthquakes. Their cities are super safe
+Patricia: What about tsunamis?
+James: Are you going to be at the coast even?
+Patricia: Mary, are we?
+Mary: I doubt. maybe for 2 hours somewhere close to Tokyo
+James: So I don't think the next tsunami in Japan will happen exactly at that place and time, relax and enjoy
+James: Japan is really an amazing country.
+Patricia: Thanks James :)","Mary and Patricia are flying to Japan in a week. Patricia is scared of long flight, earth-quakes and tsunamis. James is comforting her. Mary tried to comfort Patricia too with no effect.","summary: Mary and Patricia are flying to Japan in a week. Patricia is scared of long flight, earth-quakes and tsunamis. James is comforting her. Mary tried to comfort Patricia too with no effect.","A)
+summary: Mary and Patricia are journeying to Japan in seven days. Patricia fears lengthy air travel, seismic disturbances, and oceanic tides. James is reassuring her. Mary attempted to console Patricia as well, though unsuccessful.
+
+B)
+summary: Mary and Patricia are traveling to Japan in a week's time. Patricia is anxious about extended flights, ground shakers, and sea waves. James is giving her solace. Despite Mary's efforts to soothe Patricia, it proved futile. 
+
+C)
+summary: Mary and Patricia are en route to Japan in the span of a week. Patricia has a phobia of drawn-out airborne journeys, quakes, and tidal waves. James is providing her solace. Mary also extended an effort to placate Patricia, but to no avail.
+
+D)
+summary: Mary and Patricia are flying to Japan in a week. Patricia is scared of long flight, earth-quakes and tsunamis. James is comforting her. Mary tried to comfort Patricia too with no effect.","summary: Mary and Patricia are journeying to Japan in seven days. Patricia fears lengthy air travel, seismic disturbances, and oceanic tides. James is reassuring her. Mary attempted to console Patricia as well, though unsuccessful.","summary: Mary and Patricia are traveling to Japan in a week's time. Patricia is anxious about extended flights, ground shakers, and sea waves. James is giving her solace. Despite Mary's efforts to soothe Patricia, it proved futile.","summary: Mary and Patricia are en route to Japan in the span of a week. Patricia has a phobia of drawn-out airborne journeys, quakes, and tidal waves. James is providing her solace. Mary also extended an effort to placate Patricia, but to no avail.","summary: Mary and Patricia are flying to Japan in a week. Patricia is scared of long flight, earth-quakes and tsunamis. James is comforting her. Mary tried to comfort Patricia too with no effect.",E,E,B,E,D
+13821035,"Steffen: Any room in any of the cars going to the infinity pool? Im more handicapped than usual since I twisted my ancle yesterday :(
+Irene: we can give you a lift. Don’t think the car can make it all the way up, so will park at the bottom and hike up 
+Steffen: Then I think I have to skip - cant really walk on my leg atm :confused: But thanks anyway
+Irene: :(
+Dan: I’m pretty sure Mr.Budd could make it, it’s 4wheel drive, if mr.budd is going, although I haven’t seen the hill 
+Luke: have you been up there? how bad is the road actually?
+Luke: lol, that explains it
+Luke: Sandy, is it vistas de olas?
+Ben: Yes! Vistas de olas","Steffen twisted his ankle yesterday and needs a lift to the infinity pool. Irene's car probably won't make it up the hill, so they'd have to park at the bottom and hike up. Mr.Budd should make it up the hill since it's a 4-wheel drive.","summary: Steffen twisted his ankle yesterday and needs a lift to the infinity pool. Irene's car probably won't make it up the hill, so they'd have to park at the bottom and hike up. Mr.Budd should make it up the hill since it's a 4-wheel drive.","A)
+summary: Steffen sprained his foot the previous day and needs a ride to the endless pool. Irene's vehicle likely won't climb the incline, so they would have to leave it at the base and trek up. Mr.Budd ought to reach the top of the incline given that it's a 4-wheel drive.
+
+B)
+summary: Steffen wrenched his ankle a day ago and needs transportation to the boundless swimming area. Irene's automobile doesn't have a high chance of ascending the slope, so they'll have to position it at the foot and ascend on foot. Mr.Budd is expected to conquer the hill since it's a 4-wheel drive. 
+
+C)
+summary: Steffen turned his ankle yesterday and requires conveyance to the limitless pool. Irene's motorcar most likely won't be successful in navigating the hill, so they would have to station it at the lowland and march up. Mr.Budd is likely to accomplish the hill climb, as it is equipped with 4-wheel drive.
+
+D)
+summary: Steffen twisted his ankle yesterday and needs a lift to the infinity pool. Irene's car probably won't make it up the hill, so they'd have to park at the bottom and hike up. Mr.Budd should make it up the hill since it's a 4-wheel drive.","summary: Steffen sprained his foot the previous day and needs a ride to the endless pool. Irene's vehicle likely won't climb the incline, so they would have to leave it at the base and trek up. Mr.Budd ought to reach the top of the incline given that it's a 4-wheel drive.","summary: Steffen wrenched his ankle a day ago and needs transportation to the boundless swimming area. Irene's automobile doesn't have a high chance of ascending the slope, so they'll have to position it at the foot and ascend on foot. Mr.Budd is expected to conquer the hill since it's a 4-wheel drive.","summary: Steffen turned his ankle yesterday and requires conveyance to the limitless pool. Irene's motorcar most likely won't be successful in navigating the hill, so they would have to station it at the lowland and march up. Mr.Budd is likely to accomplish the hill climb, as it is equipped with 4-wheel drive.","summary: Steffen twisted his ankle yesterday and needs a lift to the infinity pool. Irene's car probably won't make it up the hill, so they'd have to park at the bottom and hike up. Mr.Budd should make it up the hill since it's a 4-wheel drive.",A,A,B,C,D
+13862785,"Rob: hey, pick up your phone :)
+Ann: can't - meeting :)
+Rob: sorry...
+Ann: no problem - super boring one :) 
+Ann: what you need babe?
+Rob: I'm at the grocery store and was wondering if we need anything
+Ann: some food :)
+Rob: yeah, I figured that smartass :)
+Ann: :*
+Rob: details? so that you won't moan we don't have anything to eat :)
+Ann: from what I remember we have everything for supper and lunch tomorrow, maybe some fruit and vegetables?
+Rob: anything in particular?
+Ann: cucumber, tomatoes, bananas, apples and whatever you like
+Rob: ok","Rob is doing shopping at the grocery store. Ann ordered him to buy a cucumber, some tomatoes, bananas and apples.","summary: Rob is doing shopping at the grocery store. Ann ordered him to buy a cucumber, some tomatoes, bananas and apples.","A)
+summary: Rob is conducting his purchasing at the supermarket. Ann commanded him to acquire a cucumber, a few tomatoes, bananas, and apples.
+
+B)
+summary: Rob is performing buying tasks at the food market. Ann directed him to pick up a cucumber, some tomatoes, bananas, and apples.
+
+C)
+summary: Rob is carrying out shopping at the grocery shop. Ann instructed him to fetch a cucumber, several tomatoes, bananas, and apples.
+
+D)
+summary: Rob is doing shopping at the grocery store. Ann ordered him to buy a cucumber, some tomatoes, bananas and apples.","summary: Rob is conducting his purchasing at the supermarket. Ann commanded him to acquire a cucumber, a few tomatoes, bananas, and apples.","summary: Rob is performing buying tasks at the food market. Ann directed him to pick up a cucumber, some tomatoes, bananas, and apples.","summary: Rob is carrying out shopping at the grocery shop. Ann instructed him to fetch a cucumber, several tomatoes, bananas, and apples.","summary: Rob is doing shopping at the grocery store. Ann ordered him to buy a cucumber, some tomatoes, bananas and apples.",E,E,E,C,D
+13821420,"Emily: Does anybody now where the next ASEEES conference takes place?
+Chloe: Actually I have no idea, but a good question
+James: I've heard somewhere in California
+James: Yes, San Francisco!
+Chloe: not bad, but I really hoped for Hawaii 
+James: hahaha, oh yes, but it won't happen too soon
+Chloe: why do you think so?
+James: The last conference there in 1993 was criticised for the high costs of traveling to the place
+Chloes: I see, pity",James informs that the next ASEEES conference will be held in San Francisco. Chloe was hoping for Hawaii. James doesn't think there will be a conference in Hawaii soon due to the high cost of travel.,summary: James informs that the next ASEEES conference will be held in San Francisco. Chloe was hoping for Hawaii. James doesn't think there will be a conference in Hawaii soon due to the high cost of travel.,"A)
+summary: James announces that the upcoming ASEEES summit will take place in San Francisco. Chloe wished for Hawaii. James doesn't believe there's going to be a meeting in Hawaii shortly because of the expensive travel fare.
+
+B)
+summary: James conveys that the following ASEEES assembly is to occur in San Francisco. Chloe's preference was Hawaii. James doesn't anticipate a convention in Hawaii in the near future due to the costly travel expenses. 
+
+C)
+summary: James discloses that the successive ASEEES gathering is scheduled in San Francisco. Chloe was yearning for Hawaii. James doesn't expect a symposium in Hawaii soon due to the high price of transportation.
+
+D)
+summary: James informs that the next ASEEES conference will be held in San Francisco. Chloe was hoping for Hawaii. James doesn't think there will be a conference in Hawaii soon due to the high cost of travel.",summary: James announces that the upcoming ASEEES summit will take place in San Francisco. Chloe wished for Hawaii. James doesn't believe there's going to be a meeting in Hawaii shortly because of the expensive travel fare.,summary: James conveys that the following ASEEES assembly is to occur in San Francisco. Chloe's preference was Hawaii. James doesn't anticipate a convention in Hawaii in the near future due to the costly travel expenses.,summary: James discloses that the successive ASEEES gathering is scheduled in San Francisco. Chloe was yearning for Hawaii. James doesn't expect a symposium in Hawaii soon due to the high price of transportation.,summary: James informs that the next ASEEES conference will be held in San Francisco. Chloe was hoping for Hawaii. James doesn't think there will be a conference in Hawaii soon due to the high cost of travel.,A,A,B,C,D
+13681203,"Helen: are you home?
+Debbie: yes
+Helen: can you bring me my laptop?
+Debbie: to work?
+Helen: yes, i have forgotten to take it
+Debbie: you have this presentation today?
+Helen: yes, and without my laptop i cant do anything",Helen has left her laptop at home and needs it for the presentation today. Debbie will bring it to Helen's work. ,summary: Helen has left her laptop at home and needs it for the presentation today. Debbie will bring it to Helen's work. ,"A)
+summary: Helen has forgotten her computer at home and requires it for the slideshow today. Debbie will transport it to Helen's workplace.
+
+B)
+summary: Helen has neglected her PC at her dwelling and necessitates it for the exhibit today. Debbie will deliver it to Helen's job.
+
+C)
+summary: Helen has left behind her notebook at her residence and demands it for the display today. Debbie will convey it to Helen's occupation.
+
+D)
+summary: Helen has left her laptop at home and needs it for the presentation today. Debbie will bring it to Helen's work. ",summary: Helen has forgotten her computer at home and requires it for the slideshow today. Debbie will transport it to Helen's workplace.,summary: Helen has neglected her PC at her dwelling and necessitates it for the exhibit today. Debbie will deliver it to Helen's job.,summary: Helen has left behind her notebook at her residence and demands it for the display today. Debbie will convey it to Helen's occupation.,summary: Helen has left her laptop at home and needs it for the presentation today. Debbie will bring it to Helen's work.,A,A,B,C,D
+13829728,"Janice: my son has been asking me to get him a hamster for his birthday
+Janice: should i?
+Martina: NO! NO! NO! NO! NO!
+Martina: i got one for my son and it stank up the whole house
+Martina: so don't do it!!!",Martina advises against getting a hamster. ,summary: Martina advises against getting a hamster. ,"A)
+summary: Martina counsels against acquiring a hamster.
+
+B)
+summary: Martina recommends against purchasing a hamster.
+
+C)
+summary: Martina discourages from obtaining a hamster.
+
+D)
+summary: Martina advises against getting a hamster. ",summary: Martina counsels against acquiring a hamster.,summary: Martina recommends against purchasing a hamster.,summary: Martina discourages from obtaining a hamster.,summary: Martina advises against getting a hamster.,B,A,B,C,D
+13716169,"Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much","Casey got a new nail polish and did her nails herself. It took her nearly 4 hours, so she won't do her friends' nails, as it takes too long.","summary: Casey got a new nail polish and did her nails herself. It took her nearly 4 hours, so she won't do her friends' nails, as it takes too long.","A)
+summary: Casey acquired a fresh nail varnish and painted her nails solo. It required approximately 4 hours, thus she will not paint her friends' nails, given that it consumes excessive time. 
+
+B)
+summary: Casey garnered a novel nail lacquer and manicured her nails by herself. It occupied circa 4 hours, hence she wouldn't manicure her friends' nails, considering it is too time-consuming.
+
+C)
+summary: Casey got hold of a trendy nail enamel and did her own manicure. This took her nearly 4 hours, ergo she shan't perform her friends' manicures, seeing as it takes up copious time.
+
+D)
+summary: Casey got a new nail polish and did her nails herself. It took her nearly 4 hours, so she won't do her friends' nails, as it takes too long.","summary: Casey acquired a fresh nail varnish and painted her nails solo. It required approximately 4 hours, thus she will not paint her friends' nails, given that it consumes excessive time.","summary: Casey garnered a novel nail lacquer and manicured her nails by herself. It occupied circa 4 hours, hence she wouldn't manicure her friends' nails, considering it is too time-consuming.","summary: Casey got hold of a trendy nail enamel and did her own manicure. This took her nearly 4 hours, ergo she shan't perform her friends' manicures, seeing as it takes up copious time.","summary: Casey got a new nail polish and did her nails herself. It took her nearly 4 hours, so she won't do her friends' nails, as it takes too long.",E,A,B,C,D
+13730578,"Louis: did you see all the people outside the book shop today?
+Louis: it was insane!!!
+Sara: YES!!!
+Sara: i saw a hugeeeeeeee crowd
+Sara: do you know what was going on?
+Louis: my friend told me this writer, this new writer...
+Louis: i can't remember his name...
+Louis: the one that writes about vampires
+Sara: dante kyle?
+Louis: no, the other one
+Sara: cole grant?
+Louis: YES!! my friends told me he was there signing copies of his books
+Sara: no big loss then
+Sara: i'm not a fan of his","There was a crowd outside the bookshop today. Cole Grant, who writes about vampires, was allegedly in the bookshop signing his books.","summary: There was a crowd outside the bookshop today. Cole Grant, who writes about vampires, was allegedly in the bookshop signing his books.","A) 
+summary: A throng was present outside the bookstore today. Cole Grant, an author who pens about vampires, was apparently in the bookstore autographing his works.
+
+B) 
+summary: An assembly was gathered outside the library today. Cole Grant, a novelist who scripts on vampires, was reportedly in the library endorsing his publications.
+
+C)
+summary: A multitude was located outside the literature shop today. Cole Grant, a scribe who composes on vampires, was purportedly in the literature shop inscribing his manuscripts.
+
+D)
+summary: There was a crowd outside the bookshop today. Cole Grant, who writes about vampires, was allegedly in the bookshop signing his books.","summary: A throng was present outside the bookstore today. Cole Grant, an author who pens about vampires, was apparently in the bookstore autographing his works.","summary: An assembly was gathered outside the library today. Cole Grant, a novelist who scripts on vampires, was reportedly in the library endorsing his publications.","summary: A multitude was located outside the literature shop today. Cole Grant, a scribe who composes on vampires, was purportedly in the literature shop inscribing his manuscripts.","summary: There was a crowd outside the bookshop today. Cole Grant, who writes about vampires, was allegedly in the bookshop signing his books.",E,A,B,C,D
+13716025,"Josh: Stephen, I think you've accidentaly taken my notebook home
+Stephen: wait lemme check
+Stephen: nope, I don't see it anywhere
+Jack: oh shit, I've got it xDDD I don't even know why
+Josh: xDDD ok, no problem, cool I know where it is
+Jack: I'll bring it tomorow",Josh thinks Stephen accidentally took his notebook. Jack has it and will bring it tomorrow.,summary: Josh thinks Stephen accidentally took his notebook. Jack has it and will bring it tomorrow.,"A)
+summary: Josh believes that Stephen inadvertently picked up his notepad. Jack is holding onto it and intends to present it tomorrow.
+
+B)
+summary: Josh assumes Stephen unintentionally took possession of his journal. Jack possesses it and plans to deliver it the next day.
+
+C)
+summary: Josh reckons Stephen unknowingly grabbed his notebook. Jack is in custody of it and will hand it over come tomorrow.
+
+D)
+summary: Josh thinks Stephen accidentally took his notebook. Jack has it and will bring it tomorrow.",summary: Josh believes that Stephen inadvertently picked up his notepad. Jack is holding onto it and intends to present it tomorrow.,summary: Josh assumes Stephen unintentionally took possession of his journal. Jack possesses it and plans to deliver it the next day.,summary: Josh reckons Stephen unknowingly grabbed his notebook. Jack is in custody of it and will hand it over come tomorrow.,summary: Josh thinks Stephen accidentally took his notebook. Jack has it and will bring it tomorrow.,E,A,B,C,D
+13729399,"Jason: What are you doing this weekend? If you're bored maybe we should do something, but we also MUST create the video!
+Dory: My friend is coming over the day after tomorrow
+Jason: Yay! How long will s/he be staying?
+Dory: She. around a week. gotta get the house ready. So how is the movie coming along? 
+Jason: We've had 2 months and now we're down to 2 weekends...
+Dory: Have you started?
+Jason: I purchased the app in which to video and to edit and Lucy has a script. We just have to produce something now.
+Dory: So you're virtually done!
+Jason: Haha, something like that",Jason wants to meet Dory over the weekend. Dory's friend is going to stay with her for a week. Jason has been working on a movie with Lucy for the past two months. Jason bought a video-creator app.,summary: Jason wants to meet Dory over the weekend. Dory's friend is going to stay with her for a week. Jason has been working on a movie with Lucy for the past two months. Jason bought a video-creator app.,"A)
+summary: Jason aspires to connect with Dory during the weekend. Having her friend at her place for seven days is planned by Dory. Jason has spent about sixty days on a film production alongside Lucy. Jason procured an application for creating videos.
+
+B)
+summary: Jason desires to see Dory in the weekend. Dory is expecting her companion to lodge with her for a duration of one week. Jason has been devoted to a film project in collaboration with Lucy for a span of two months. A video-making software was acquired by Jason.
+
+C)
+summary: Jason wishes to get together with Dory in the approaching weekend. Dory's acquaintance is scheduled to reside with her for a period of a week. For the preceding two months, a cinematic undertaking involving Lucy had been Jason's pursuit. He purchased a program to make videos.
+
+D)
+summary: Jason wants to meet Dory over the weekend. Dory's friend is going to stay with her for a week. Jason has been working on a movie with Lucy for the past two months. Jason bought a video-creator app.",summary: Jason aspires to connect with Dory during the weekend. Having her friend at her place for seven days is planned by Dory. Jason has spent about sixty days on a film production alongside Lucy. Jason procured an application for creating videos.,summary: Jason desires to see Dory in the weekend. Dory is expecting her companion to lodge with her for a duration of one week. Jason has been devoted to a film project in collaboration with Lucy for a span of two months. A video-making software was acquired by Jason.,"summary: Jason wishes to get together with Dory in the approaching weekend. Dory's acquaintance is scheduled to reside with her for a period of a week. For the preceding two months, a cinematic undertaking involving Lucy had been Jason's pursuit. He purchased a program to make videos.",summary: Jason wants to meet Dory over the weekend. Dory's friend is going to stay with her for a week. Jason has been working on a movie with Lucy for the past two months. Jason bought a video-creator app.,E,E,B,C,D
+13864469,"Mia: God, he keeps talking about the stupid wall
+Jennifer: I think he's just senile
+Karine: unfortunately it's much more
+Karine: this populist strategy to scare people with a minority
+Karine: and then present himself as the only savior
+Peter: Karine is right, I think he's not as senile and stupid as we would like to believe
+Mia: so it's even worse - he's pure evil
+Peter: possibly yes
+Karine: I really think so, because it's not only about politics anymore
+Karine: he is destroying the Earth
+Karine: trying to shake the world's order
+Jennifer: but he's also quite stupid
+Jennifer: and the dangerous thing is his self confidence
+Jennifer: he's persistence 
+Jennifer: and ignorance
+Karine: but we have a chance to change it
+Karine: maybe Trump will be over soon?
+Mia: we will see
+Mia: but we should do anything to win the next elections
+Karine: everything!","Mia, Jennifer, Karine and Peter do not like Trump.","summary: Mia, Jennifer, Karine and Peter do not like Trump.","A)
+summary: Mia, Jennifer, Karine and Peter detest Trump.
+
+B)
+summary: Mia, Jennifer, Karine and Peter dislike Trump.
+
+C)
+summary: Mia, Jennifer, Karine and Peter are not fond of Trump.
+
+D)
+summary: Mia, Jennifer, Karine and Peter do not like Trump.","summary: Mia, Jennifer, Karine and Peter detest Trump.","summary: Mia, Jennifer, Karine and Peter dislike Trump.","summary: Mia, Jennifer, Karine and Peter are not fond of Trump.","summary: Mia, Jennifer, Karine and Peter do not like Trump.",E,E,E,E,E
+13729817,"Ray: u in ur room?
+Max: no whats up
+Ray: someone locked the door from outside -_-
+Max: wtf xD
+Ray: yeah dude cmon u gotta let me out
+Max: but im out
+Ray: are u kidding me
+Max: sorry man XD
+Ray: dude i have to pee
+Max: HAHAHAHHAHAHA XD
+Ray: thats not funny >.<
+Max: it actually is xD
+Ray: can u ask someone else to do it
+Max: yea let me see if my roommates there
+Ray: HURRY
+Max: hes coming
+Ray: tell him to HURRYYY
+Max: hes on his way 
+Ray: he opened it, thanks
+Max: enjoy XD",Ray is locked in the room from the outside and he has to pee. Max's roommate will come and let him out.,summary: Ray is locked in the room from the outside and he has to pee. Max's roommate will come and let him out.,"A)
+summary: Ray is confined in the chamber from the exterior and he needs to urinate. Max's co-tenant will arrive and release him.
+
+B)
+summary: Ray is imprisoned in the space from the outside, and he has the urge to pee. Max's flatmate will show up and free him.
+
+C)
+summary: Ray is trapped in the room from the outside, and he's got to pee. Max's housemate will approach and liberate him.
+
+D)
+summary: Ray is locked in the room from the outside and he has to pee. Max's roommate will come and let him out.",summary: Ray is confined in the chamber from the exterior and he needs to urinate. Max's co-tenant will arrive and release him.,"summary: Ray is imprisoned in the space from the outside, and he has the urge to pee. Max's flatmate will show up and free him.","summary: Ray is trapped in the room from the outside, and he's got to pee. Max's housemate will approach and liberate him.",summary: Ray is locked in the room from the outside and he has to pee. Max's roommate will come and let him out.,B,A,B,C,D
+13728148,"Kathy: <file_picture>
+Kathy: Aunt on the chair getting her haircut today :)
+Kathy: I think I'm also going to get something done today
+Kathy: Maybe get it cut a bit shorter
+Olivia: ooo how fun! I am just chillin today 
+Olivia: <file_picture>
+Kathy: <file_picture>
+Kathy: : <file_picture>
+Kathy: The end results :) 
+Olivia: Very cute! 
+Olivia: <file_gif>
+Olivia: Although not a big difference with Aunt's hair. But yours looks really nice!
+Kathy: Thanks!",Kathy had her hair cut.,summary: Kathy had her hair cut.,"A)
+summary: Kathy got her hair trimmed.
+
+B)
+summary: Kathy had her locks snipped.
+
+C)
+summary: Kathy received a haircut.
+
+D)
+summary: Kathy had her hair cut.",summary: Kathy got her hair trimmed.,summary: Kathy had her locks snipped.,summary: Kathy received a haircut.,summary: Kathy had her hair cut.,A,A,B,A,A
+13681241,"Jair: Still busy?
+Callum: Yes a little sorry
+Jair: ok",Callum is still busy.,summary: Callum is still busy.,"A)
+summary: Callum remains occupied.
+
+B)
+summary: Callum is yet engaged.
+
+C)
+summary: Callum continues to be preoccupied.
+
+D)
+summary: Callum is still busy.",summary: Callum remains occupied.,summary: Callum is yet engaged.,summary: Callum continues to be preoccupied.,summary: Callum is still busy.,E,A,B,C,D
+13865290,"Jeff: Should we go to the village party?
+Lia: I'm too tired after hiking
+Mico: I'd like to go, there may be some hot boys!
+Lia: I doubt
+Jim: like a real village boy?
+Jim: who doesn't even speak English?
+Mico: yes, the dummer, the better
+Jim: haha, stupid fucks good, they say
+Mico: I confirm!
+Lia: not my cup of tea
+Mico: I'll go there, who wants to join?
+Jeff: I'll go as well
+Mico: wanna drive?
+Jeff: so you could drink?
+Mico: would be nice, hahah
+Jeff: not excited, but ok
+Mico: thanks!",Mico and Jeff will go to the village party. Jeff will drive.,summary: Mico and Jeff will go to the village party. Jeff will drive.,"A)
+summary: Mico and Jeff plan to attend the town celebration. Jeff will steer.
+
+B)
+summary: Mico and Jeff are set to go to the hamlet festivity. Jeff will be behind the wheel.
+
+C)
+summary: Mico and Jeff are heading to the rural gala. Jeff will control the car.
+
+D)
+summary: Mico and Jeff will go to the village party. Jeff will drive.",summary: Mico and Jeff plan to attend the town celebration. Jeff will steer.,summary: Mico and Jeff are set to go to the hamlet festivity. Jeff will be behind the wheel.,summary: Mico and Jeff are heading to the rural gala. Jeff will control the car.,summary: Mico and Jeff will go to the village party. Jeff will drive.,E,A,E,E,A
+13865119,"Derek: It's been a long day
+Phil: Same here
+Cynthia: good or bad?
+Derek: Very busy
+Derek: I closed some deals but I had a lot of stress also
+Phil: Lucky you
+Phil: I couldn't close any deal
+Phil: It annoys me 
+Phil: Some customers are negotiating for days, weeks
+Phil: And then they pull out 
+Cynthia: Maybe they're just fishing
+Cynthia: Want to compare offers 
+Phil: That's what they do ",Derek closed some deals today. Phil didn't manage to do it.,summary: Derek closed some deals today. Phil didn't manage to do it.,"A)
+summary: Derek settled some agreements today. Phil couldn't accomplish it.
+
+B)
+summary: Derek finalized some transactions today. Phil wasn't able to do it.
+
+C)
+summary: Derek completed some contracts today. Phil failed to do it.
+
+D)
+summary: Derek closed some deals today. Phil didn't manage to do it.",summary: Derek settled some agreements today. Phil couldn't accomplish it.,summary: Derek finalized some transactions today. Phil wasn't able to do it.,summary: Derek completed some contracts today. Phil failed to do it.,summary: Derek closed some deals today. Phil didn't manage to do it.,E,A,B,E,E
+13681441,"Joanna: They are sending emails about Lewandowska.
+Merve: What happened?
+Joanna: <file_photo> 
+Merve: Wooow!
+Joanna: She is hospitalized because she has measles.
+Merve: She had what?
+Joanna: Anyone who had contact with her within the last couple of days must get vaccinated.
+Merve: Luckily I didn't see her since the last semester...
+Joanna: I did, she is my thesis mentor :(
+Merve: What will you do?
+Joanna: They are organizing vaccinations in the main building from 17th until 19th.
+Merve: You have to go!
+Joanna: I know... And I just started working so I really don't have a lot of time.
+Merve: Come on, this is really important.
+Joanna: I will try to do it before work on 18th, hopefully I won't lose the entire day...",Lewandowska has measles. There are vaccinations in the main building from 17th until 19th for everyone who had contact with her. ,summary: Lewandowska has measles. There are vaccinations in the main building from 17th until 19th for everyone who had contact with her. ,"A)
+summary: Lewandowska is afflicted with measles. Vaccines are available in the primary edifice from 17th to 19th for all individuals who interacted with her.
+
+B)
+summary: Lewandowska is suffering from measles. Immunizations are provided in the principal structure from the 17th through the 19th for all those who had interactions with her.
+
+C)
+summary: Lewandowska has contracted measles. Inoculations are accessible in the main structure from the seventeenth to the nineteenth for every person who communicated with her.
+
+D)
+summary: Lewandowska has measles. There are vaccinations in the main building from 17th until 19th for everyone who had contact with her. ",summary: Lewandowska is afflicted with measles. Vaccines are available in the primary edifice from 17th to 19th for all individuals who interacted with her.,summary: Lewandowska is suffering from measles. Immunizations are provided in the principal structure from the 17th through the 19th for all those who had interactions with her.,summary: Lewandowska has contracted measles. Inoculations are accessible in the main structure from the seventeenth to the nineteenth for every person who communicated with her.,summary: Lewandowska has measles. There are vaccinations in the main building from 17th until 19th for everyone who had contact with her.,E,A,B,C,D
+13814648,"Alexa: I want to confess something
+Hunter: What is it?
+Alexa: I asked Ethan to Insult you :(
+Hunter: But why did you do that?
+Alexa: I was too jealous to see you with Ethan that day, dats why :(
+Hunter: But you could just ask me not to do something if you dont want me to?
+Alexa: We would talk about it tomorrow",Alexa asked Ethan to insult Hunter out of jealousy.,summary: Alexa asked Ethan to insult Hunter out of jealousy.,"A)
+summary: Alexa requested Ethan to offend Hunter due to envy.
+
+B)
+summary: Alexa solicited Ethan to disparage Hunter because of jealousy.
+
+C)
+summary: Alexa urged Ethan to belittle Hunter from resentment.
+
+D)
+summary: Alexa asked Ethan to insult Hunter out of jealousy.",summary: Alexa requested Ethan to offend Hunter due to envy.,summary: Alexa solicited Ethan to disparage Hunter because of jealousy.,summary: Alexa urged Ethan to belittle Hunter from resentment.,summary: Alexa asked Ethan to insult Hunter out of jealousy.,E,E,B,C,D
+13681047,"Gill: i need a new peeling
+Bunny: why?
+Gill: this one is not so good
+Gill: it has only small pieces of seeds
+Gill: and i need more power
+Bunny: you can make your own peeling
+Gill: how?
+Bunny: do you have some real coffee?
+Gill: i think so
+Bunny: so make it
+Bunny: drink it
+Bunny: relax
+Bunny: and then take the seeds and pour some oil
+Bunny: and scrub your body :)
+Gill: brilliant thx :)",The particles in Gill's current peeling are too small. She'll try making her own peeling from ground coffee.,summary: The particles in Gill's current peeling are too small. She'll try making her own peeling from ground coffee.,"A)
+summary: The bits in Gill's present exfoliation are too tiny. She'll attempt creating her own scrub from crushed coffee.
+
+B)
+summary: The constituents in Gill's ongoing shred are too minute. She'll endeavor producing her own peeling from grinded coffee.
+
+C)
+summary: The fragments in Gill's current sloughing are too minuscule. She'll try fashioning her own exfoliation from ground coffee.
+
+D)
+summary: The particles in Gill's current peeling are too small. She'll try making her own peeling from ground coffee.",summary: The bits in Gill's present exfoliation are too tiny. She'll attempt creating her own scrub from crushed coffee.,summary: The constituents in Gill's ongoing shred are too minute. She'll endeavor producing her own peeling from grinded coffee.,summary: The fragments in Gill's current sloughing are too minuscule. She'll try fashioning her own exfoliation from ground coffee.,summary: The particles in Gill's current peeling are too small. She'll try making her own peeling from ground coffee.,A,A,A,A,D
+13682223,"Desiree: U both at home?
+Lucian: No. I've just got ur msg. Why did u ask about it?
+Desiree: No reason. Keep my pasta in the microwave
+Lucian: I haven't cooked anything",Lucian is not at home. Desiree wants Lucian to keep her pasta in the microwave.,summary: Lucian is not at home. Desiree wants Lucian to keep her pasta in the microwave.,"A)
+summary: Lucian is absent from the house. Desiree wishes for Lucian to store her pasta in the microwave.
+
+B)
+summary: Lucian is not present at home. Desiree desires Lucian to maintain her noodles in the microwave.
+
+C)
+summary: Lucian isn't available at home. Desiree seeks Lucian to hold onto her spaghetti in the microwave.
+
+D)
+summary: Lucian is not at home. Desiree wants Lucian to keep her pasta in the microwave.",summary: Lucian is absent from the house. Desiree wishes for Lucian to store her pasta in the microwave.,summary: Lucian is not present at home. Desiree desires Lucian to maintain her noodles in the microwave.,summary: Lucian isn't available at home. Desiree seeks Lucian to hold onto her spaghetti in the microwave.,summary: Lucian is not at home. Desiree wants Lucian to keep her pasta in the microwave.,E,A,E,C,D
+13715777,"Eric: <file_video>, check it out :D
+Samantha: HAHA, what is our favorite professor?
+Eric: Talking about this recent scandal on the news :P
+Noah: ""I am the smartest person alive, I knew this will happen"" :D
+Samantha: Hahaha, now I don't even need to open the video","Eric, Samantha and Noah's professor is commenting a recent scandal on the news. ","summary: Eric, Samantha and Noah's professor is commenting a recent scandal on the news. ","A)
+summary: Eric, Samantha and Noah's instructor is remarking a recent outrage on the news.
+
+B)
+summary: Eric, Samantha and Noah's teacher is commenting on a recent controversy on the news. 
+
+C)
+summary: Eric, Samantha and Noah's lecturer is discussing a recent uproar on the news.
+
+D)
+summary: Eric, Samantha and Noah's professor is commenting a recent scandal on the news. ","summary: Eric, Samantha and Noah's instructor is remarking a recent outrage on the news.","summary: Eric, Samantha and Noah's teacher is commenting on a recent controversy on the news.","summary: Eric, Samantha and Noah's lecturer is discussing a recent uproar on the news.","summary: Eric, Samantha and Noah's professor is commenting a recent scandal on the news.",E,E,E,E,E
+13864578,"Tobi: Have you been to the new club?
+Nicholas: Cork?
+Tobi: yes, this one
+Serena: waste of time
+Ella: yes, huge disappointment
+Serena: we went there with Ella last weekend
+Ella: because they had such a cool ad campaign
+Serena: you won't believe
+Ella: it was empty
+Ella: nobody there
+Tobi: oh, shit
+Ella: yes, that's the proper word
+Nicholas: they need some time maybe?
+Ella: maybe, but I won't risk again",Ella and Serena went to Cork club last weekend. The club was empty and they did not like it.,summary: Ella and Serena went to Cork club last weekend. The club was empty and they did not like it.,"A)
+summary: Ella and Serena visited Cork club the previous weekend. The club was deserted and they detested it.
+
+B)
+summary: Ella and Serena journeyed to Cork club last weekend. The club was vacant and they found it displeasing.
+
+C)
+summary: Ella and Serena traveled to Cork club the past weekend. The club was devoid of people and they did not enjoy it.
+
+D)
+summary: Ella and Serena went to Cork club last weekend. The club was empty and they did not like it.",summary: Ella and Serena visited Cork club the previous weekend. The club was deserted and they detested it.,summary: Ella and Serena journeyed to Cork club last weekend. The club was vacant and they found it displeasing.,summary: Ella and Serena traveled to Cork club the past weekend. The club was devoid of people and they did not enjoy it.,summary: Ella and Serena went to Cork club last weekend. The club was empty and they did not like it.,E,A,B,C,D
+13730432,"Charlie: My sister has just passed her last exam on her Uni
+Charlie: Got something to celebrate
+Charlie: Wanna go out with us tonight?
+Frank: Sure why not.
+Frank: Let me know later when the plan clarifies.
+Charlie: Kk.",Charlie's sister has passed her last university exam. Charlie and Frank will go out to celebrate that tonight.,summary: Charlie's sister has passed her last university exam. Charlie and Frank will go out to celebrate that tonight.,"A)
+summary: Charlie's sibling has succeeded in her final college test. Charlie and Frank have plans to rejoice over this in the evening.
+
+B)
+summary: Charlie's sister has cleared her endmost college examination. Charlie and Frank intend to commemorate this later today.
+
+C)
+summary: Charlie's kin has aced her last academia test. Charlie and Frank are set to celebrate this achievement tonight.
+
+D)
+summary: Charlie's sister has passed her last university exam. Charlie and Frank will go out to celebrate that tonight.",summary: Charlie's sibling has succeeded in her final college test. Charlie and Frank have plans to rejoice over this in the evening.,summary: Charlie's sister has cleared her endmost college examination. Charlie and Frank intend to commemorate this later today.,summary: Charlie's kin has aced her last academia test. Charlie and Frank are set to celebrate this achievement tonight.,summary: Charlie's sister has passed her last university exam. Charlie and Frank will go out to celebrate that tonight.,E,A,B,C,D
+13731152,"Ben: Where are you?
+Emma: at the rare of the bus
+Ben: why?
+Emma: there are some free seats here
+Emma: so I can have a nap even
+Ben: good idea
+Emma: when are we going to arrive to NY?
+Ben: around 4.30 PM
+Emma: if traffic is not crazy
+Ben: right, we will see
+Emma: could you come here and wake me up around 4.15?
+Ben: sure
+Emma: thanks!
+Ben: sleep well
+Emma: I'll try",Emma is about to take a nap in the back of the bus to New York. Ben and Emma will be there around 4.30 pm. Ben will wake Emma up 15 minutes prior to their arrival.,summary: Emma is about to take a nap in the back of the bus to New York. Ben and Emma will be there around 4.30 pm. Ben will wake Emma up 15 minutes prior to their arrival.,"A)
+summary: Emma is preparing to have a doze at the rear of the coach heading to New York. Ben and Emma are expected to reach there approximately at 4.30 pm. Ben will rouse Emma about 15 minutes in advance of their reaching the destination.
+
+B)
+summary: Emma is going to catch a snooze at the back of the bus set for New York. Ben and Emma will show up there near 4.30 pm. Ben will arouse Emma a quarter of an hour before they get there.
+
+C)
+summary: Emma is ready to take a slumber in the end portion of the bus driving to New York. Both Ben and Emma will land there close to 4.30 pm. Ben will alert Emma roughly 15 minutes ahead of their landing.
+
+D)
+summary: Emma is about to take a nap in the back of the bus to New York. Ben and Emma will be there around 4.30 pm. Ben will wake Emma up 15 minutes prior to their arrival.",summary: Emma is preparing to have a doze at the rear of the coach heading to New York. Ben and Emma are expected to reach there approximately at 4.30 pm. Ben will rouse Emma about 15 minutes in advance of their reaching the destination.,summary: Emma is going to catch a snooze at the back of the bus set for New York. Ben and Emma will show up there near 4.30 pm. Ben will arouse Emma a quarter of an hour before they get there.,summary: Emma is ready to take a slumber in the end portion of the bus driving to New York. Both Ben and Emma will land there close to 4.30 pm. Ben will alert Emma roughly 15 minutes ahead of their landing.,summary: Emma is about to take a nap in the back of the bus to New York. Ben and Emma will be there around 4.30 pm. Ben will wake Emma up 15 minutes prior to their arrival.,E,A,B,C,D
+13821356,"Kris: Why is it so cold outside? 🥶🥶🥶
+Ovi: Yeah idk 🥶
+Kris: I am literrarily dying 
+Kris: literarily*
+Ovi: I don't feel like going anywhere
+Ovi: But still gotta go work 
+Jason: I've been running around the city all day in this cold
+Jason: I'd probably get sick 
+Nadine: Wll at my clinic
+Nadine: we're getting lots of sick patients 
+Ovi: Oh really
+Nadine: Ya, these days have been rough 😓",A lot of sick people go to Nadine's clinic because of the cold weather.,summary: A lot of sick people go to Nadine's clinic because of the cold weather.,"A)
+summary: Numerous ill individuals visit Nadine's health center due to the chilly climate.
+
+B)
+summary: A multitude of unwell folks go to Nadine's medical establishment because of the freezing temperatures.
+
+C)
+summary: Many sick patients frequent Nadine's clinic owing to the wintry weather.
+
+D)
+summary: A lot of sick people go to Nadine's clinic because of the cold weather.",summary: Numerous ill individuals visit Nadine's health center due to the chilly climate.,summary: A multitude of unwell folks go to Nadine's medical establishment because of the freezing temperatures.,summary: Many sick patients frequent Nadine's clinic owing to the wintry weather.,summary: A lot of sick people go to Nadine's clinic because of the cold weather.,E,E,E,C,D
+13863035,"Adam: hi Mum!
+Hannah: Hello, ready for your flight?
+Adam: yes, just finished packing
+Adam: can you remind Dad that the plane was rescheduled and will arrive one hour later?
+Adam: there's no point for him to wait that long at the airport
+Hannah: Sure, I will.
+Hannah: Do you want anything special for dinner tomorrow?
+Adam: nah, I'm fine with anything you'll prepare
+Adam: especially if you compare it to what I'm eating on a daily basis :)
+Hannah: Alright.
+Hannah: Can't wait to see you!
+Adam: I'll be there in less than 24 hours :)
+Adam: I'm sure you can wait
+Hannah: It's been half a year since your last visit, so don't be surprised!
+Adam: I'm not
+Adam: I miss you all as well
+Adam: see you tomorrow!
+Hannah: Bye! Have a safe flight!",Adam hasn't visited his parents in six months and is coming over tomorrow. His flight will land an hour later than originally scheduled. Hannah will let Dad know.,summary: Adam hasn't visited his parents in six months and is coming over tomorrow. His flight will land an hour later than originally scheduled. Hannah will let Dad know.,"A)
+summary: Adam hasn't seen his folks in half a year and is arriving the following day. His journey by air will reach the ground sixty minutes behind the initial planned time. Hannah will inform Dad.
+
+B)
+summary: Adam hasn't paid a visit to his father and mother in half a dozen months and is showing up the next day. His airborne travel will touch down a sixty-minute interval after the initially stipulated time. Hannah will notify Dad.
+
+C)
+summary: Adam hasn't travelled to his parental home in a span of six months and is expected tomorrow. His flying trip is set to descend one hour post the original set schedule. Hannah will communicate this to Dad.
+
+D)
+summary: Adam hasn't visited his parents in six months and is coming over tomorrow. His flight will land an hour later than originally scheduled. Hannah will let Dad know.",summary: Adam hasn't seen his folks in half a year and is arriving the following day. His journey by air will reach the ground sixty minutes behind the initial planned time. Hannah will inform Dad.,summary: Adam hasn't paid a visit to his father and mother in half a dozen months and is showing up the next day. His airborne travel will touch down a sixty-minute interval after the initially stipulated time. Hannah will notify Dad.,summary: Adam hasn't travelled to his parental home in a span of six months and is expected tomorrow. His flying trip is set to descend one hour post the original set schedule. Hannah will communicate this to Dad.,summary: Adam hasn't visited his parents in six months and is coming over tomorrow. His flight will land an hour later than originally scheduled. Hannah will let Dad know.,A,A,B,C,D
+13820513,"Rodney: Have you heard a guy got beaten and mugged on campus?
+Truman: Oh, man is he ok?
+Ross: Do they have any idea who did it?
+Rodney: They're gonna give an official statement about. There's also gonna be an article in the paper. As far as I know the assailant had a mask on.
+Truman: And what about the beaten guy?
+Rodney: He's in the hospital, but it seems like he'll be fine.
+Ross: You think it was a student?
+Rodney: Who knows what those jocks are capable of.
+Ross: They could do it just for fun.
+Truman: On the other hand its easy to get on campus without being detected
+Ross: There are cameras.
+Truman: If your masked it don't matter. You know how those security guards are
+Rodney: They don't give a fuck
+Ross: True that
+Truman: Hope they catch the guy soon","A person was beaten and mugged on campus and had to be hospitalised. The attacker wore a mask. An official statement will be released, along with a newspaper article. Truman and Rodney think the campus security is subpar, even though there are cameras around.","summary: A person was beaten and mugged on campus and had to be hospitalised. The attacker wore a mask. An official statement will be released, along with a newspaper article. Truman and Rodney think the campus security is subpar, even though there are cameras around.","A)
+summary: An individual was assaulted and robbed on university grounds and required hospitalization. The perpetrator donned a disguise. An authoritative declaration will be put forward, accompanied by a news story. Truman and Rodney deem the campus protection to be mediocre, notwithstanding the presence of surveillance devices.
+
+B)
+summary: A human was thrashed and burglarized within collegial vicinity and necessitated medical treatment. The culprit sported a camouflage. An official communication will be disseminated, side by side with a press report. Truman and Rodney judge the university’s security to be inadequate, despite the existence of monitoring equipment.
+
+C)
+summary: A citizen was battered and pilfered on the premise of the education center and had to be admitted in a medical facility. The offender was cloaked with a veil. A formal announcement is to be issued, in tandem with a journalistic piece. Truman and Rodney regard the campus safeguarding measures as insufficient, even amidst CCTV installations.
+
+D)
+summary: A person was beaten and mugged on campus and had to be hospitalised. The attacker wore a mask. An official statement will be released, along with a newspaper article. Truman and Rodney think the campus security is subpar, even though there are cameras around.","summary: An individual was assaulted and robbed on university grounds and required hospitalization. The perpetrator donned a disguise. An authoritative declaration will be put forward, accompanied by a news story. Truman and Rodney deem the campus protection to be mediocre, notwithstanding the presence of surveillance devices.","summary: A human was thrashed and burglarized within collegial vicinity and necessitated medical treatment. The culprit sported a camouflage. An official communication will be disseminated, side by side with a press report. Truman and Rodney judge the university’s security to be inadequate, despite the existence of monitoring equipment.","summary: A citizen was battered and pilfered on the premise of the education center and had to be admitted in a medical facility. The offender was cloaked with a veil. A formal announcement is to be issued, in tandem with a journalistic piece. Truman and Rodney regard the campus safeguarding measures as insufficient, even amidst CCTV installations.","summary: A person was beaten and mugged on campus and had to be hospitalised. The attacker wore a mask. An official statement will be released, along with a newspaper article. Truman and Rodney think the campus security is subpar, even though there are cameras around.",E,A,B,C,D
+13864448,"Karen: I passed!!!!!
+Simon: Whooooooooooah!!!!!
+Tim: Congrats!!!
+Patty: Guess we have a new designated driver :D",Karen passed a driving exam.,summary: Karen passed a driving exam.,"A)
+summary: Karen succeeded in a driving test.
+
+B)
+summary: Karen accomplished a motoring exam.
+
+C)
+summary: Karen triumphed in a vehicular test.
+
+D)
+summary: Karen passed a driving exam.",summary: Karen succeeded in a driving test.,summary: Karen accomplished a motoring exam.,summary: Karen triumphed in a vehicular test.,summary: Karen passed a driving exam.,A,A,B,C,D
+13680401,"Ginger: need some sugar
+Ginger: desperately!!!
+Phylis: <lol>
+Phylis: I'm baking a pie
+Phylis: come if u want :D
+Ginger: be right there!!!",Ginger needs to eat something sweet. Phylis is baking a pie. Ginger will come to Phylis shortly.,summary: Ginger needs to eat something sweet. Phylis is baking a pie. Ginger will come to Phylis shortly.,"A)
+summary: Ginger requires to consume something sugary. Phylis is preparing a tart. Ginger will arrive at Phylis soon.
+
+B)
+summary: Ginger has to ingest something saccharine. Phylis is making a pastry. Ginger will approach Phylis in a short while.
+
+C)
+summary: Ginger needs to partake in something sweet. Phylis is cooking a pie. Ginger will reach Phylis shortly.
+
+D)
+summary: Ginger needs to eat something sweet. Phylis is baking a pie. Ginger will come to Phylis shortly.",summary: Ginger requires to consume something sugary. Phylis is preparing a tart. Ginger will arrive at Phylis soon.,summary: Ginger has to ingest something saccharine. Phylis is making a pastry. Ginger will approach Phylis in a short while.,summary: Ginger needs to partake in something sweet. Phylis is cooking a pie. Ginger will reach Phylis shortly.,summary: Ginger needs to eat something sweet. Phylis is baking a pie. Ginger will come to Phylis shortly.,E,A,B,C,D
+13865170,"Maria: I'm tired of this job, I can't stand it anymore
+Anastasia: I know, but calm down
+Felix: don't make decisions in this rash
+Maria: :(",Maria is tired of her job. ,summary: Maria is tired of her job. ,"A)
+summary: Maria is worn-out from her work.
+
+B)
+summary: Maria is weary of her occupation.
+
+C)
+summary: Maria is fatigued with her employment.
+
+D)
+summary: Maria is tired of her job. ",summary: Maria is worn-out from her work.,summary: Maria is weary of her occupation.,summary: Maria is fatigued with her employment.,summary: Maria is tired of her job.,E,E,E,C,D
